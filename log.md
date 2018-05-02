@@ -16,3 +16,12 @@
 **Link(s) to work**
 1. [Eddie Vedder Tribute Page](https://codepen.io/duvallpj/full/gzgVEB/)
 2. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
+
+### Day 3: 2 April, Tuesday
+
+**Today's Progress**: Progressed with Portfolio page; nav bar sorted (some style tweeks remaining), began work on 'about' section and 'portfolio' section.
+
+**Thoughts** More progress made today - not sure about style choices made, but a good start!
+
+**Link(s) to work**
+1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
