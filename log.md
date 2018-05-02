@@ -6,3 +6,13 @@
 
 **Link(s) to work**
 1. [Eddie Vedder Tribute Page](https://codepen.io/duvallpj/full/gzgVEB/)
+
+### Day 2: 1 April, Tuesday
+
+**Today's Progress**: Added a couple of finishing touches to the Tribute Page based on advice from FCC forum people. Began to take a look at the Portfolio page project. Looked at other people's work through the forum and made a start on mine. Worked on the navigation bar for the top of the page.
+
+**Thoughts** Found work on the navigation bar to be slow going and somewhat frustrating - to be expected, I expect!
+
+**Link(s) to work**
+1. [Eddie Vedder Tribute Page](https://codepen.io/duvallpj/full/gzgVEB/)
+2. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
