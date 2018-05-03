@@ -17,11 +17,20 @@
 1. [Eddie Vedder Tribute Page](https://codepen.io/duvallpj/full/gzgVEB/)
 2. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
 
-### Day 3: 2 April, Tuesday
+### Day 3: 2 April, Wednesday
 
 **Today's Progress**: Progressed with Portfolio page; nav bar sorted (some style tweeks remaining), began work on 'about' section and 'portfolio' section.
 
 **Thoughts** More progress made today - not sure about style choices made, but a good start!
+
+**Link(s) to work**
+1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
+
+### Day 4: 3 April, Thursday
+
+**Today's Progress**: Spent some time watching videos about Bootstrap. Progressed with Portfolio page; worked primarily of the main portfolio section, fixing layout, editing 'coming soon' image and 'tribute page' image and putting these in place, along with explanation text. Added buttons for each link, formatting colour of buttons and well backgrounds.
+
+**Thoughts** Steady progress on Portfolio page, layout and colour scheme are pleasing. Going to have to fix the alignment of the Portfolio and Contact Me sections at some point!
 
 **Link(s) to work**
 1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
