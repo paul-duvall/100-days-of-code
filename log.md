@@ -34,3 +34,12 @@
 
 **Link(s) to work**
 1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
+
+### Day 5: 4 April, Friday
+
+**Today's Progress**: Tweeking Portfolio page - resizing fonts and centering sections. Then working on creating some links to social media sites with some buttons that have some kind of animated element. Achieved this for a Twitter button - need to replicate for other sites.
+
+**Thoughts** Steady progress on Portfolio page, made some good use of online resources, particularly solving the alignment issue and then for adding some simple hover over animation for social media link buttons.
+
+**Link(s) to work**
+1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
