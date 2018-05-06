@@ -43,3 +43,16 @@
 
 **Link(s) to work**
 1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
+
+DAY MISSED!
+
+### Day 6: 6 April, Sunday
+
+**Today's Progress**: Final touches put on Portfolio responsive elements; submitted to FCC forum for feedback. Made a small start of Javascript in FCC.
+
+**Thoughts** Portfolio looking good. Not perfect - will need to come back and work on. Good to make a start on Javascript! Little bit nervous about it!
+
+**Link(s) to work**
+1. [Portfolio Page](https://codepen.io/duvallpj/pen/devQOE)
+
+
