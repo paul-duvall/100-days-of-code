@@ -64,3 +64,21 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 8: 8 May, Tuesday
+
+**Today's Progress**: Continued watching video about Javascript, learning about decisions and function declarations. (https://www.youtube.com/watch?v=YMvzfQSI6pQ&t=998s)
+
+**Thoughts** Building up the Javascript knowledge.
+
+**Link(s) to work**
+1. None.
+
+### Day 9: 9 May, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. None.
