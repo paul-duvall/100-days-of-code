@@ -76,9 +76,9 @@ DAY MISSED!
 
 ### Day 9: 9 May, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Not a lot! Continued a bit with the 'Code Once' Javascript fundamentals video but it stopped making sense to me! Chose an alternative, shorter video recommended on Twitter by Traversy (https://www.youtube.com/watch?v=vEROU2XtPR8) - will watch next. On FCC, tackled the next few tasks.
 
-**Thoughts** 
+**Thoughts** Javascript is tricky!
 
 **Link(s) to work**
 1. None.
