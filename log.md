@@ -94,9 +94,10 @@ DAY MISSED!
 
 ### Day 11: 11 May, Friday
 
-**Today's Progress**: Continued with the Basic Javascript section of FCC, completing 44 sections.
+**Today's Progress**: Continued with the Basic Javascript section of FCC, completing 44 sections. Finished the Traversy Javascript video (https://www.youtube.com/watch?v=vEROU2XtPR8).
 
-**Thoughts** A couple of sections have proven confusing, but mostly this is returning to topics covered in videos watched already.
+**Thoughts** A couple of sections on FCC have proven confusing, but mostly this is returning to topics covered in videos watched already. Traversy video was interesting though it lost me towards the end.
 
 **Link(s) to work**
 1. None.
+
