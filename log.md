@@ -91,3 +91,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 11: 11 May, Friday
+
+**Today's Progress**: Continued with the Basic Javascript section of FCC, completing 44 sections.
+
+**Thoughts** A couple of sections have proven confusing, but mostly this is returning to topics covered in videos watched already.
+
+**Link(s) to work**
+1. None.
