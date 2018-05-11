@@ -82,3 +82,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 10: 10 May, Thursday
+
+**Today's Progress**: Continued with the Traversy Javascript video (https://www.youtube.com/watch?v=vEROU2XtPR8).
+
+**Thoughts** Javascript is still tricky but going back over the fundamental concepts again has been good. Also, this video works directly with the web browser rather than using Node - different, which is good, plus it feels a little closer to actually creating things for the web.
+
+**Link(s) to work**
+1. None.
