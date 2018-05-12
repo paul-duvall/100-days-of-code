@@ -101,3 +101,11 @@ DAY MISSED!
 **Link(s) to work**
 1. None.
 
+### Day 12: 12 May, Friday
+
+**Today's Progress**: Short stint today; completed some more of the FCC challenges in the Basic Javascript section of FCC - 6 completed.
+
+**Thoughts** Looked up the Norwich FCC grouo, which appears largely defunct - my membership request has been ignored but non-members can see messages. I messaged the only guy who has been active this year and said what's going on. Proposed taking it over and he said the guy running it would probably like that. What to do...
+
+**Link(s) to work**
+1. None.
