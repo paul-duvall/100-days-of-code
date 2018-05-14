@@ -101,11 +101,29 @@ DAY MISSED!
 **Link(s) to work**
 1. None.
 
-### Day 12: 12 May, Friday
+### Day 12: 12 May, Saturday
 
 **Today's Progress**: Short stint today; completed some more of the FCC challenges in the Basic Javascript section of FCC - 6 completed.
 
 **Thoughts** Looked up the Norwich FCC grouo, which appears largely defunct - my membership request has been ignored but non-members can see messages. I messaged the only guy who has been active this year and said what's going on. Proposed taking it over and he said the guy running it would probably like that. What to do...
+
+**Link(s) to work**
+1. None.
+
+### Day 13: 13 May, Sunday
+
+**Today's Progress**: A few more FCC code challenges.
+
+**Thoughts** Tried - briefly - the 30 day Javascript challenge - clearly too tricky at this point!
+
+**Link(s) to work**
+1. None.
+
+### Day 14: 14 May, Monday
+
+**Today's Progress**: A few more FCC code challenges.
+
+**Thoughts** Tried - briefly - the 30 day Javascript challenge - clearly too tricky at this point!
 
 **Link(s) to work**
 1. None.
