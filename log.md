@@ -127,3 +127,21 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 15: 15 May, Tuesday
+
+**Today's Progress**: Started 'Modern Javascript from the beginning' on Udemy. Worked on the fundamentals section, covering variables, data types, conversion of data types, maths, string methods, template literals.
+
+**Thoughts** I like this course, it is very methodical and clear. I'm taking notes this time - hopefully that will help with recollection - I'll be able to refer back if I lose track of the fundamentals when implementing them into more complex code. Also like - on a side note - that it showed me how to set up a 'live server' through Visual Studio Code so that updates are automatically loaded into browser on save.
+
+**Link(s) to work**
+1. None.
+
+### Day 16: 16 May, Wednesday
+
+**Today's Progress**: Cracked on with 'Modern Javascript from the beginning', working on arrays and array methods.
+
+**Thoughts** Still enjoying this course.
+
+**Link(s) to work**
+1. None.
