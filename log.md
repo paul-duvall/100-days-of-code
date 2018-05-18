@@ -145,3 +145,20 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 17: 17 May, Thursday
+
+**Today's Progress**: Cracked on with 'Modern Javascript from the beginning', working on object literals and dates and times.
+
+**Thoughts** Still enjoying this course.
+
+**Link(s) to work**
+1. None.
+### Day 18: 18 May, Friday
+
+**Today's Progress**: Cracked on with 'Modern Javascript from the beginning', working on if statements, switches, function declarations and expressions.
+
+**Thoughts** Still enjoying this course and finding it to be clarifying a lot of these basics for me. Giving me a stronger understanding of the jargon as well.
+
+**Link(s) to work**
+1. None.
