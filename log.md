@@ -154,11 +154,30 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
 ### Day 18: 18 May, Friday
 
 **Today's Progress**: Cracked on with 'Modern Javascript from the beginning', working on if statements, switches, function declarations and expressions.
 
 **Thoughts** Still enjoying this course and finding it to be clarifying a lot of these basics for me. Giving me a stronger understanding of the jargon as well.
+
+**Link(s) to work**
+1. None.
+
+### Day 19: 19 May, Saturday
+
+**Today's Progress**: Cracked on with 'Modern Javascript from the beginning', completing the section on fundamentals, finding out about the window object.
+
+**Thoughts** Excited to be moving on to learning about the DOM :)
+
+**Link(s) to work**
+1. None.
+
+### Day 19: 19 May, Sunday
+
+**Today's Progress**: Progressed onto the section on the DOM in the Javascript course, learning how to examine the document object.
+
+**Thoughts** Still going well though I need to put in a bigger day at some point this week - last few days have been an hour or so commitment per day.
 
 **Link(s) to work**
 1. None.
