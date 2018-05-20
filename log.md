@@ -173,7 +173,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None.
 
-### Day 19: 19 May, Sunday
+### Day 20: 20 May, Sunday
 
 **Today's Progress**: Progressed onto the section on the DOM in the Javascript course, learning how to examine the document object.
 
