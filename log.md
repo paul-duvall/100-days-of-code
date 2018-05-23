@@ -181,3 +181,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 21-23: 21-23 May, Monday - Wednesday
+
+**Today's Progress**: Progressed through the DOM and Events section of course
+
+**Thoughts** Slow and steady! Not doing as much per day as I would like but still moving forward! All making sense, more or less, though event bubbling and delegation a little confusing (though I understand the principle).
+
+**Link(s) to work**
+1. None.
