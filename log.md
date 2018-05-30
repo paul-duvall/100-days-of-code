@@ -190,3 +190,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 24-30: 24-30 May, Thursday - Wednesday
+
+**Today's Progress**: Have completed the DOM / Events section of the Javascript course and have completed the first DOM project. Have also completed a few more FCC Javascript objectives and have been completing a follow along scratch video to learn some fundamentals of producing a game ahead of creating something of my own for CS50 week 0.
+
+**Thoughts** Have slowed down somewhat - hit a bit of a brick wall. Will try to pick it up a bit - have created a schedule of targets to stay on top of.
+
+**Link(s) to work**
+1. None.
