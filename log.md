@@ -199,3 +199,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 31-32: 31 May / 1 June, Friday
+
+**Today's Progress**: Continued having fun learning how to make a game in Scratch for CS50 week 1, completed a few more challenges in the FCC Javascript section.
+
+**Thoughts** Probably need to push ahead and make a simple program in Scratch according to the perameters outlined in project targets. Good to get back into FCC, though want to make sure I go through the next project in the Udemy course as well. FCC update has thrown everything up in the air - there are many new sections now and things have been moved around; will need to decide how to tackle and adjust the target schedule accordingly (this needs to be finished anyway).
+
+**Link(s) to work**
+1. None.
