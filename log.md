@@ -208,3 +208,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None.
+
+### Day 33: 2 June, Saturday
+
+**Today's Progress**: Completed Scratch program for CS50.
+
+**Thoughts** Did not intend to spend all programming time today on my Scratch program, but I was enjoying it! Done, moving on in CS50 tomorrow.
+
+**Link(s) to work**
+1. None.
