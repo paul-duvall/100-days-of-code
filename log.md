@@ -216,4 +216,13 @@ DAY MISSED!
 **Thoughts** Did not intend to spend all programming time today on my Scratch program, but I was enjoying it! Done, moving on in CS50 tomorrow.
 
 **Link(s) to work**
-1. None.
+1. https://scratch.mit.edu/projects/227074317/
+
+### Day 33: 2 June, Saturday
+
+**Today's Progress**: Watched first week 1 lecture is CS50 and part of second lecture(which introduced C), coding along and learning how to use the CS50 interface and some command prompt stuff.
+
+**Thoughts** Interesting to see similarities / differences between C and Javascript. Enjoyed the command prompt stuff, also interesting to work with a programming language that needs to be compiled. Will hopefully move on to the week 1 projects tomorrow (and do need to make some time to do either a bit of FCC or the next part of the Udemy course).
+
+**Link(s) to work**
+1. None
