@@ -229,7 +229,7 @@ DAY MISSED!
 
 ### Day 33: 2 June, Saturday
 
-**Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing project 1 - Hello, world and Mario less. Watched CS50 video on command line.
+**Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing project 1 - Hello, world and Mario less. Watched CS50 videos on command line, C datatypes and C operators.
 
 **Thoughts** 
 
