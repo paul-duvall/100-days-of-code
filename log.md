@@ -218,7 +218,7 @@ DAY MISSED!
 **Link(s) to work**
 1. https://scratch.mit.edu/projects/227074317/
 
-### Day 33: 2 June, Saturday
+### Day 33: 3 June, Sunday
 
 **Today's Progress**: Watched first week 1 lecture is CS50 and part of second lecture(which introduced C), coding along and learning how to use the CS50 interface and some command prompt stuff.
 
@@ -227,7 +227,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 33: 2 June, Saturday
+### Day 34: 4 June, Monday
 
 **Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing project 1 - Hello, world and Mario less. Watched CS50 videos on command line, C datatypes and C operators.
 
