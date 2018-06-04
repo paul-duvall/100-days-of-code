@@ -226,3 +226,13 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 33: 2 June, Saturday
+
+**Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing project 1 - Hello, world and Mario less. Watched CS50 video on command line.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. Hello World programme - https://github.com/submit50/paul-duvall/tree/cs50/2018/x/hello
+2. Mario pyramid programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/mario/less/mario.c
