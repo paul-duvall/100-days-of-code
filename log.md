@@ -229,10 +229,20 @@ DAY MISSED!
 
 ### Day 34: 4 June, Monday
 
-**Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing project 1 - Hello, world and Mario less. Watched CS50 videos on command line, C datatypes and C operators.
+**Today's Progress**: Watched part of week 1, lecture 2 video (as instruction in project 1 guidence), before completing pset1 - Hello, world and Mario less. Watched CS50 videos on command line, C datatypes and C operators.
 
 **Thoughts** 
 
 **Link(s) to work**
-1. Hello World programme - https://github.com/submit50/paul-duvall/tree/cs50/2018/x/hello
-2. Mario pyramid programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/mario/less/mario.c
+1. Hello World C programme - https://github.com/submit50/paul-duvall/tree/cs50/2018/x/hello
+2. Mario C pyramid programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/mario/less/mario.c
+
+### Day 35 - 37: 5 June, Tuesday - 7 June, Thursday
+
+**Today's Progress**: Watched the remainder of CS50 week 1, lecture 2. Completed pset1 - Cash and pset2 - caesar.
+
+**Thoughts** Completing these projects is genuinely exciting. Feels like proper coding for the first time - debugging, building up a programme one step at a time, writing pseudo code. A real sense of achievement. I've started logging my coding hours in order to incentivise putting more time in. Have put in 9 hours so far this week. Aiming for (in an ideal world - we shall see) 28! I will log the number of hours achieved each week on a Sunday to see if there is an upward pattern.
+
+**Link(s) to work**
+1. Cash C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/cash/cash.c
+2. Caesar C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/caesar/caesar.c
