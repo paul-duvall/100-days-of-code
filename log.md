@@ -246,3 +246,13 @@ DAY MISSED!
 **Link(s) to work**
 1. Cash C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/cash/cash.c
 2. Caesar C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/caesar/caesar.c
+
+### Day 38 - 40: 8 June, Friday - 10 June, Sunday
+
+**Today's Progress**: Completed CS50 pset2, second problem (Vigenere) using C. Completed remainder of Javascript basic challenges in Freecodecamp. Started Loan Calculator DOM Project in Javascript: From the beginning.
+
+**Thoughts** The second pset2 problem was tricky and took a good five hours; very rewarding in the end though. Good to get back into some non-CS50 stuff. Will spend the start of the coming week pushing forward with some other stuff before returning to CS50 later in the week.
+
+**Link(s) to work**
+1. Vigenere C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/vigenere/vigenere.c
+
