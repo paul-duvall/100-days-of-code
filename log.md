@@ -256,3 +256,11 @@ DAY MISSED!
 **Link(s) to work**
 1. Vigenere C programme - https://github.com/submit50/paul-duvall/blob/cs50/2018/x/vigenere/vigenere.c
 
+### Day 41-42: 11 June, Monday - 12 June, Tuesday
+
+**Today's Progress**: Completed DOM Projects (loan calculator and number guessing game) in Javascript: From the beginning. Started watching the Week 2 lecture in CS50
+
+**Thoughts** Trucking along.
+
+**Link(s) to work**
+1. None
