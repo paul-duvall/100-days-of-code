@@ -278,7 +278,7 @@ DAY MISSED!
 
 **Today's Progress**: Watched some of the 'short lectures' from week 2, developing understanding of computational complexity (to some degree!), along with different types of sorting algorithms (selection, bubble and insertion sort). Continued work on pset2 - music, working on the frequency algorithm.
 
-**Thoughts** 
+**Thoughts** Properly confused by this problem. Very slow going.
 
 **Link(s) to work**
 1. None
