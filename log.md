@@ -264,3 +264,21 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 43: 14 June, Thursday
+
+**Today's Progress**: Completed week 2 lecture and begun to work on pset3, Music. Completed the 'music writing' part, and wrote code for the rest and duration functions. 
+
+**Thoughts** This problem set involves working with much more complex programmes with multiple interlinked files including specifically created headers. Took some time to go through and work out what everything does and I definitely don't know what everything does!
+
+**Link(s) to work**
+1. None
+
+### Day 44: 15 June, Friday
+
+**Today's Progress**: Watched some of the 'short lectures' from week 2, developing understanding of computational complexity (to some degree!), along with different types of sorting algorithms (selection, bubble and insertion sort). Continued work on pset2 - music, working on the frequency algorithm.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. None
