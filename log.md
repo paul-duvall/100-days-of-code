@@ -282,3 +282,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 45: 17 June, Sunday
+
+**Today's Progress**: Started watching some videos about git.
+
+**Thoughts** Slight change of tack. Learning a bit about git is interesting (and feels like I'm learning something essential) but I know I'll have to get back to that pset problem eventually!
+
+**Link(s) to work**
+1. None
