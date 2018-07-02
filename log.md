@@ -291,3 +291,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 46: 2 July, Monday
+
+**Today's Progress**: Rewatched the videos about git.
+
+**Thoughts** Computer broke! Now back up and running!
+
+**Link(s) to work**
+1. None
