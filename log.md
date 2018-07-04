@@ -300,3 +300,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 47: 3 July, Monday
+
+**Today's Progress**: Pushed forward with Git videos, beginning work on examples using actual website files.
+
+**Thoughts** Slow and steady - working every day this week but trying to make sure I do a minimum of one hour every day after work.
+
+**Link(s) to work**
+1. None
