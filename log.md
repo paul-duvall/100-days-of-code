@@ -309,3 +309,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 48: 4 July, Monday
+
+**Today's Progress**: Watched more Git videos, pushing on to GitHub, downloading the GitHub desktop app and actually transferring some changes from a project on my computer to my github! Whoop! Also continued Dylan Israel's video series Code Like a Pro (interesting videos on using a Linter for Javascript - will need to install and experiment with this at some point. Listened to an interesting podcast on Hackathons - investigate if any are happening nearby out of curiosity.
+
+**Thoughts** Have forked an interesting project on Github for beginners looking to make their first commit to a project - will be checking out tomorrow.
+
+**Link(s) to work**
+1. None
