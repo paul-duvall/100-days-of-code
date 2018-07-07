@@ -301,7 +301,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 47: 3 July, Monday
+### Day 47: 3 July, Tuesday
 
 **Today's Progress**: Pushed forward with Git videos, beginning work on examples using actual website files.
 
@@ -310,11 +310,29 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 48: 4 July, Monday
+### Day 48: 4 July, Wednesday
 
 **Today's Progress**: Watched more Git videos, pushing on to GitHub, downloading the GitHub desktop app and actually transferring some changes from a project on my computer to my github! Whoop! Also continued Dylan Israel's video series Code Like a Pro (interesting videos on using a Linter for Javascript - will need to install and experiment with this at some point. Listened to an interesting podcast on Hackathons - investigate if any are happening nearby out of curiosity.
 
 **Thoughts** Have forked an interesting project on Github for beginners looking to make their first commit to a project - will be checking out tomorrow.
+
+**Link(s) to work**
+1. None
+
+### Day 49: 5 July, Thursday
+
+**Today's Progress**: Used the Github repo found yesterday to perform by first commit - didn't take too long!
+
+**Thoughts** Need to start getting myself back up and running! 
+
+**Link(s) to work**
+1. None
+
+### Day 50: 6 July, Friday
+
+**Today's Progress**: Started to look at Modern Javascript from the Beginning - object oriented Javascript section.
+
+**Thoughts** If I had realised it was day 50, I would probably had made an effort to do a bit more - barely half an hour today. But it is something!
 
 **Link(s) to work**
 1. None
