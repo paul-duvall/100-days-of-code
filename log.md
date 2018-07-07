@@ -336,3 +336,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 51: 7 July, Saturday
+
+**Today's Progress**: Continued working through Modern Javascript from the Beginning - object oriented Javascript section. Learnt about prototypes and prototypical inheritance. Then managed to publish my portfolio site through GitHub pages.
+
+**Thoughts** Will most likely need to review this prototypical inheritance thing again; gradually building a picture of what oop and why I should care! Pleased to have managed to publish my site - need to make the changes that were proposed by FCC forum folk months ago now!
+
+**Link(s) to work**
+1. None
