@@ -346,7 +346,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 51: 8-9 July, Saturday
+### Day 51-52: 8-9 July, Saturday
 
 **Today's Progress**: Started reading Javascript and JQuery by Jon Duckett, continued with freecodecamp, progressing through the applied accessability section.
 
