@@ -354,3 +354,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 53: 11 July, Saturday
+
+**Today's Progress**: Completed the CSS Flexbox section of FCC, made a little bit of progress in Javascript and JQuery book.
+
+**Thoughts** None.
+
+**Link(s) to work**
+1. None
