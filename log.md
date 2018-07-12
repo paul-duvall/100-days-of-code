@@ -346,7 +346,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 51-52: 8-9 July, Saturday
+### Day 51-52: 8-9 July, Sunday - Monday
 
 **Today's Progress**: Started reading Javascript and JQuery by Jon Duckett, continued with freecodecamp, progressing through the applied accessability section.
 
@@ -355,9 +355,18 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 53: 11 July, Saturday
+### Day 53: 11 July, Tuesday
 
 **Today's Progress**: Completed the CSS Flexbox section of FCC, made a little bit of progress in Javascript and JQuery book.
+
+**Thoughts** None.
+
+**Link(s) to work**
+1. None
+
+### Day 54: 12 July, Wednesday
+
+**Today's Progress**: Review basic Javascript instructions using Javascript and JQuery book.
 
 **Thoughts** None.
 
