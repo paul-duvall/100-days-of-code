@@ -373,7 +373,7 @@ DAY MISSED!
 **Link(s) to work**
 1. None
 
-### Day 54: 14-16 July, Saturday-Monday
+### Day 55-57: 14-16 July, Saturday-Monday
 
 **Today's Progress**: Freecodecamp - Completed the CSS grid section and the 'Build a survey form' project.
 
