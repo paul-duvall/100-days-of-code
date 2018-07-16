@@ -372,3 +372,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. None
+
+### Day 54: 14-16 July, Saturday-Monday
+
+**Today's Progress**: Freecodecamp - Completed the CSS grid section and the 'Build a survey form' project.
+
+**Thoughts** Feels good to get a little project sorted - now that FCC has had a rearrange, completing the first certificate is looking a bit more straightforward. Two html/css pages to do and that will be done.
+
+**Link(s) to work**
+1. https://codepen.io/duvallpj/pen/zLrNaK
