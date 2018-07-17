@@ -381,3 +381,12 @@ DAY MISSED!
 
 **Link(s) to work**
 1. https://codepen.io/duvallpj/pen/zLrNaK
+
+### Day 58: 17 July, Tuesday
+
+**Today's Progress**: Started to review portfolio page and made some minor tweeks
+
+**Thoughts** Fixing the responsiveness issues is going to take a fair amount of work!
+
+**Link(s) to work**
+https://paul-duvall.github.io/portfolio/
