@@ -390,3 +390,11 @@ DAY MISSED!
 
 **Link(s) to work**
 https://paul-duvall.github.io/portfolio/
+
+### Day 59: 18 July, Wednesday
+
+**Today's Progress**: Begun CSS Grid course
+
+**Thoughts** Was planning on doing this eventually but brought it forward following the FCC CSS Grid section and looking at my portfolio page and thinking that perhaps it would work better using CSS Grid!
+
+**Link(s) to work**
