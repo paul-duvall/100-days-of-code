@@ -406,3 +406,11 @@ https://paul-duvall.github.io/portfolio/
 **Thoughts** Course very helpful - definitely developing a better understanding of CSS Grid.
 
 **Link(s) to work**
+
+### Day 61-2: 20-21 July, Thursday
+
+**Today's Progress**: Continued CSS Grid course (Wes Bos)
+
+**Thoughts** Course very helpful - definitely developing a better understanding of CSS Grid.
+
+**Link(s) to work**
