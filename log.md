@@ -407,10 +407,18 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 
-### Day 61-2: 20-21 July, Thursday
+### Day 61-2: 20-21 July, Friday - Saturday
 
 **Today's Progress**: Continued CSS Grid course (Wes Bos)
 
 **Thoughts** Course very helpful - definitely developing a better understanding of CSS Grid.
+
+**Link(s) to work**
+
+### Day 63: 22 July, Sunday
+
+**Today's Progress**: Continued CSS Grid course (Wes Bos) and started to redesign portfolio page using CSS grid.
+
+**Thoughts** 
 
 **Link(s) to work**
