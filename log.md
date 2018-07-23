@@ -422,3 +422,11 @@ https://paul-duvall.github.io/portfolio/
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 64: 23 July, Monday
+
+**Today's Progress**: Spent some time working the JS book, reviewing objects, the various ways to create them and how to update them.
+
+**Thoughts** 
+
+**Link(s) to work**
