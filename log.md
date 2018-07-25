@@ -430,3 +430,11 @@ https://paul-duvall.github.io/portfolio/
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 65-66: 24-25 July, Tuesday - Wednesday
+
+**Today's Progress**: Spent some time working the JS book, reviewing arrays, learning about build in objects, including the window object, the document object, string object, number object, math object, date object. Also read through chapter on decisions and loops and started the chapter on the document object model, reviewing how to select elements using ID attributes and learning about DOM queries that return nodelists.
+
+**Thoughts** Did five hours today and made what felt like a good deal of progress.
+
+**Link(s) to work**
