@@ -438,3 +438,12 @@ https://paul-duvall.github.io/portfolio/
 **Thoughts** Did five hours today and made what felt like a good deal of progress.
 
 **Link(s) to work**
+
+### Day 67: 8 August, Wednesday
+
+**Today's Progress**: Have done some work over the previous few days - not recording them as I lost track of what I did when! I've revamped by Portfolio, removing bootstrap and implementing Grid / Flexbox. Worked on a number of bugs including contrast issues with text and an issue with the in page links not lining up correctly. Started work on the next project too starting a product page for a company called Snazzy Socks! Continued to read Javascript book.
+
+**Thoughts** Now that I look at the above section, it feels like I've made good progress! Need to dedicate some time to working out responsive issues on portfolio (this, I feel, is key to my progress at the moment). Would be good to get the responsive web design section of freeCodeCamp done and dusted and then I can fully focus on Javascript, using my book and online course but having freeCodeCamp as the central point to ensure I keep moving forward (and actual produce projects!).
+
+**Link(s) to work**
+1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
