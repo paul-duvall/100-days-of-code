@@ -447,3 +447,12 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
+
+### Day 68: 9 August, Thursday
+
+**Today's Progress**: Read a couple of articles on responsive layout (need to finish the second article and keep reading on this subject - lots to learn!). Used what I learnt to keep working on the layout of the Snazzy Socks page - made some decent progress in getting this sorted.
+
+**Thoughts** Hopefully what I've learnt doing the layout of Snazzy Socks will help resolve issues on Portfolio. Need to read article recommended to me on FCC forum about auto-fill / auto-fit.
+
+**Link(s) to work**
+1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
