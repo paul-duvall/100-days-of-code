@@ -456,3 +456,12 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
+
+### Day 69: 10 August, Friday
+
+**Today's Progress**: Continued to work on Snazzy Socks page, adding css for nav section, finishing design and adding form elements to sweetener section and selecting and formatting images for other sections.
+
+**Thoughts** Not long to go now for Snazzy Socks. Might be nice to add a little bit of css interactivity in there on the nav bar or some kind of movement in the trial or options section.
+
+**Link(s) to work**
+1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
