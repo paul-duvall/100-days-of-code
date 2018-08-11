@@ -465,3 +465,12 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
+
+### Day 70: 11 August, Saturday
+
+**Today's Progress**: Continued to work on Snazzy Socks page, making changes so that it passes FCC tests, including adding a media query, redoing the logo and making the images responsive.
+
+**Thoughts** Moderate success with the media query. Still gonna have to tackle the response design of my portfolio at some point!
+
+**Link(s) to work**
+1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
