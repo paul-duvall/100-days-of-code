@@ -474,3 +474,13 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
+
+### Day 71: 13 August, Monday
+
+**Today's Progress**: Final tweeks to Snazzy Socks, which has now been submitted on FreeCodeCamp. Also, a few tweeks to the Portfolio site.
+
+**Thoughts** Took at the next FCC project - will be making a start on that tomorrow, along with either playing around with CSS Grid a bit (possibly make a template that I could drop my Portfolio into - might as well do attempt number 3!) or getting back into the Javascript book.
+
+**Link(s) to work**
+1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
+2. Portfolio - https://paul-duvall.github.io/portfolio/
