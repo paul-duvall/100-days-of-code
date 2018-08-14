@@ -484,3 +484,12 @@ https://paul-duvall.github.io/portfolio/
 **Link(s) to work**
 1. Snazzy socks - https://codepen.io/duvallpj/pen/KBrpOR
 2. Portfolio - https://paul-duvall.github.io/portfolio/
+
+### Day 72: 14 August, Tuesday
+
+**Today's Progress**: Started work on FCC documentation page project, completely the majority of the html and starting to outline CSS.
+
+**Thoughts** Feel like I've approached this one in a much more logical way, focusing on the project's objectives from the get-go and ensuring my HTML layout is logical and clear.
+
+**Link(s) to work**
+1. Javascript documentation page - https://codepen.io/duvallpj/pen/wxOQrG
