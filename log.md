@@ -493,3 +493,12 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Javascript documentation page - https://codepen.io/duvallpj/pen/wxOQrG
+
+### Day 73: 15 August, Wednesday
+
+**Today's Progress**: Finished the FCC Technical Documentation page project!
+
+**Thoughts** Got my Responsive Web Design certificate! Going to be getting back into Javascript properly tomorrow.
+
+**Link(s) to work**
+1. Javascript documentation page - https://codepen.io/duvallpj/pen/wxOQrG
