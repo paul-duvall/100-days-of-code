@@ -502,3 +502,12 @@ https://paul-duvall.github.io/portfolio/
 
 **Link(s) to work**
 1. Javascript documentation page - https://codepen.io/duvallpj/pen/wxOQrG
+
+### Day 73: 15 August, Wednesday
+
+**Today's Progress**: Started the FCC Javascript ES6 section, quickly hit a road block and sidestepped into learning about higher order functions, watching video from Traversy Media - https://www.youtube.com/watch?v=rRgD1yVwIvE.
+
+**Thoughts** Took some time to learn about higher order functions - begun to understand using forEach, map, sort and reduce. Will need to practice some away from video for it to sink in.
+
+**Link(s) to work**
+None
