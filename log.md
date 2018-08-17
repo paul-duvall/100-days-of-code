@@ -503,7 +503,7 @@ https://paul-duvall.github.io/portfolio/
 **Link(s) to work**
 1. Javascript documentation page - https://codepen.io/duvallpj/pen/wxOQrG
 
-### Day 73: 16 August, Thursday
+### Day 74: 16 August, Thursday
 
 **Today's Progress**: Started the FCC Javascript ES6 section, quickly hit a road block and sidestepped into learning about higher order functions, watching video from Traversy Media - https://www.youtube.com/watch?v=rRgD1yVwIvE.
 
@@ -512,7 +512,7 @@ https://paul-duvall.github.io/portfolio/
 **Link(s) to work**
 None
 
-### Day 74: 17 August, Friday
+### Day 75: 17 August, Friday
 
 **Today's Progress**: Continued with the Javascript ES6 section on FCC
 
