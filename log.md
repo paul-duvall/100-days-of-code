@@ -520,3 +520,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 76: 20 August, Monday
+
+**Today's Progress**: Learnt about CSS Animation basics using Traversy Media video then had a little play around. Also started the regular expressions sections of FCC (skipping the remainded of ES6 for the time being).
+
+**Thoughts** Good to start finding out a bit about CSS Animation!
+
+**Link(s) to work**
+1. CSS Animation play around - https://codepen.io/pen/#
