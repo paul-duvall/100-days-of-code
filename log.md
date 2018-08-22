@@ -537,4 +537,4 @@ None
 **Thoughts** Took quite a bit of time and had to look at a couple of videos / solutions (however, when I did, I was invariably very close to the solution!). Also spent a bit of time, get a repository set up on github to store algorithm solutions. This in itself felt like a good way to spend my time - using this tool more frequently is defintely a good idea!
 
 **Link(s) to work**
-1. CSS Animation play around - https://codepen.io/pen/#
+1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
