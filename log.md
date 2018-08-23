@@ -538,3 +538,12 @@ None
 
 **Link(s) to work**
 1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+### Day 78: 23 August, Wednesday
+
+**Today's Progress**: Started a new course (why not?) on CSS, first section looking at interesting ways to style buttons. Made a start on going through the Javascript 'memory game' a second time.
+
+**Thoughts** It might seem crazy to start a new course but I like the idea of finding out more about CSS beyond the basics and this Brad Hussey course looks like it will do just that. Will give me something to do when I'm letting my brain off doing more Javascript! Only an hour today though...
+
+**Link(s) to work**
+None
