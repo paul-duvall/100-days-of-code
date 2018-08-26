@@ -556,3 +556,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 80-81: 25-26 August, Saturday - Sunday
+
+**Today's Progress**: Finished going through the Javascript 'memory game' a second time. Completed a couple of the CSS3 in 30 Days lesssons, learning about different styles for typography and using clip-path to style the outline of an image. Then completed another Javascript algorithm in FCC
+
+**Thoughts** Wrote lots of instructions for myself for potentially having a go at the memory game without watching the video. Still reckon it will be very difficult! Will give it a go though! Learnt some interesting stuff through the Brad Hussey CCS course. Todays algorithm turned out to be very simple - I spent a good 45 minutes trying to solve it!
+
+**Link(s) to work**
+1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
