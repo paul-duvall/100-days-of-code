@@ -565,3 +565,12 @@ None
 
 **Link(s) to work**
 1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+### Day 82: 28 August, Tuesday
+
+**Today's Progress**: Continued working through the Javascript - Regular Expressions section on FCC, rewatched some of the Modern Javascript from the beginning - to do list videos and started to make my own version.
+
+**Thoughts** Involved a lot of looking at the code from the video, but it still felt good to be coding something web-based using Javascript!
+
+**Link(s) to work**
+1. To do list - https://github.com/paul-duvall/to_do_list
