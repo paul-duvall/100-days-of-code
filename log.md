@@ -574,3 +574,12 @@ None
 
 **Link(s) to work**
 1. To do list - https://github.com/paul-duvall/to_do_list
+
+### Day 83: 29 August, Wednesday
+
+**Today's Progress**: Continued to work on FCC Basic Algorithm Scripting, solving 4 algorithms
+
+**Thoughts** Didn't manage to solve any of these without look at a solution, although (and perhaps I am making excuses for myself here!) I was invariably only one step away from solving it or was approaching the final step in not quite the right way.
+
+**Link(s) to work**
+1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
