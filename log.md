@@ -583,3 +583,13 @@ None
 
 **Link(s) to work**
 1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+### Day 84: 30 August, Thursday
+
+**Today's Progress**: Did some work on the to do list, adding delete functionality and some styling. Watch a video on creating a 'burger menu' and coded along. Added some additional styling to Snazzy Socks landing page, using some recently learnt CSS techniques.
+
+**Thoughts** Feels good to be working - even just a little - on some actual projects.
+
+**Link(s) to work**
+1. To do list - https://github.com/paul-duvall/to_do_list
+2. Snazzy socks - https://codepen.io/duvallpj/pen/WKPJxy?editors=1100
