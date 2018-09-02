@@ -593,3 +593,11 @@ None
 **Link(s) to work**
 1. To do list - https://github.com/paul-duvall/to_do_list
 2. Snazzy socks - https://codepen.io/duvallpj/pen/WKPJxy?editors=1100
+
+### Day 85-96: 1-2 September, Saturday - Sunday
+
+**Today's Progress**: Spent quite a bit of time setting up a word press blog, registering a domain and arranging hosting. Attempted to push forward my to do list, but pushing the items to the local storage got the better of me. Worked through a nice video about linking JSON objects to html - gonna repeat to create a mini-project.
+
+**Thoughts** 
+
+**Link(s) to work**
