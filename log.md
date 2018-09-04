@@ -594,10 +594,19 @@ None
 1. To do list - https://github.com/paul-duvall/to_do_list
 2. Snazzy socks - https://codepen.io/duvallpj/pen/WKPJxy?editors=1100
 
-### Day 85-96: 1-2 September, Saturday - Sunday
+### Day 85-86: 1-2 September, Saturday - Sunday
 
 **Today's Progress**: Spent quite a bit of time setting up a word press blog, registering a domain and arranging hosting. Attempted to push forward my to do list, but pushing the items to the local storage got the better of me. Worked through a nice video about linking JSON objects to html - gonna repeat to create a mini-project.
 
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 87: 4 September, Tuesday
+
+**Today's Progress**: Completed the FCC Javascript Debugging section and started Basic Data Structures. Completed the penultimate algorithm challenge in the Basic Algorithm Scripting section. Wrote two blog posts. Created a Javascript object containing information on a variety of superheroes to use in Javascript object to HTML project.
+
+**Thoughts** Debugging was all stuff I had worked out myself (nice when that happens). The Basic Data Structures section will be review since I've covered these subjects elsewhere. The algortihm I worked on was very tricky but I got there in the end.
+
+**Link(s) to work**
+1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
