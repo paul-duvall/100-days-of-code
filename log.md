@@ -610,3 +610,12 @@ None
 
 **Link(s) to work**
 1. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+### Day 88: 5 September, Wednesday
+
+**Today's Progress**: Worked on template literals superhero project, basically finihsed that. Wrote a couple of blog posts.
+
+**Thoughts** Enjoyed doing the mini-project. Just going to finished the last blog post and then will do first post tomorrow.
+
+**Link(s) to work**
+https://github.com/paul-duvall/Superhero_template_literals
