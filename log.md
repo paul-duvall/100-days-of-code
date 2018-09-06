@@ -625,7 +625,7 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Today's Progress**: Completed final Basic Algorithm on FCC, continued with the Basic Data Structures section
 
-**Thoughts** Posted first blog entry
+**Thoughts** Posted first blog entry, logged some jobs in my web skills document
 
 **Link(s) to work**
 1. https://github.com/paul-duvall/javascript_algorithms
