@@ -619,3 +619,13 @@ None
 
 **Link(s) to work**
 https://github.com/paul-duvall/Superhero_template_literals
+
+
+### Day 89: 6 September, Wednesday
+
+**Today's Progress**: Completed final Basic Algorithm on FCC, continued with the Basic Data Structures section
+
+**Thoughts** Posted first blog entry
+
+**Link(s) to work**
+1. https://github.com/paul-duvall/javascript_algorithms
