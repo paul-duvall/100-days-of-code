@@ -629,3 +629,12 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Link(s) to work**
 1. https://github.com/paul-duvall/javascript_algorithms
+
+### Day 90: 7 September, Thursday
+
+**Today's Progress**: Spent most of day looking at Wordpress, used handy video, went through set up of local dev environment using Local by Flywheel and started learning how to create a custom theme, which might or might not be worth continuing with...
+
+**Thoughts** 
+
+**Link(s) to work**
+
