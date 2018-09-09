@@ -639,7 +639,7 @@ https://github.com/paul-duvall/Superhero_template_literals
 **Link(s) to work**
 
 
-### Day 90: 8-9 September, Saturday - Sunday
+### Day 91-92: 8-9 September, Saturday - Sunday
 
 **Today's Progress**: Spent more time working on Wordpress, learning to set up a child site but then failing to get prismjs to work. Went through remainder of Javascript Events chapter in book and used Traversy Media course videos to finish up functionality on To do list.
 
