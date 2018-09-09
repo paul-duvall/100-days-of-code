@@ -621,7 +621,7 @@ None
 https://github.com/paul-duvall/Superhero_template_literals
 
 
-### Day 89: 6 September, Wednesday
+### Day 89: 6 September, Thursday
 
 **Today's Progress**: Completed final Basic Algorithm on FCC, continued with the Basic Data Structures section
 
@@ -630,7 +630,7 @@ https://github.com/paul-duvall/Superhero_template_literals
 **Link(s) to work**
 1. https://github.com/paul-duvall/javascript_algorithms
 
-### Day 90: 7 September, Thursday
+### Day 90: 7 September, Friday
 
 **Today's Progress**: Spent most of day looking at Wordpress, used handy video, went through set up of local dev environment using Local by Flywheel and started learning how to create a custom theme, which might or might not be worth continuing with...
 
@@ -638,3 +638,12 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Link(s) to work**
 
+
+### Day 90: 8-9 September, Saturday - Sunday
+
+**Today's Progress**: Spent more time working on Wordpress, learning to set up a child site but then failing to get prismjs to work. Went through remainder of Javascript Events chapter in book and used Traversy Media course videos to finish up functionality on To do list.
+
+**Thoughts** The whole prismjs thing has been very frustrating; just need to look at the positives - was able to set up a child theme, which I think will be helpful. 
+
+**Link(s) to work**
+1. To do list - https://codepen.io/duvallpj/pen/RYpYyy
