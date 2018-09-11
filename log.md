@@ -647,3 +647,12 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Link(s) to work**
 1. To do list - https://codepen.io/duvallpj/pen/RYpYyy
+
+### Day 93-94: 10-11 September, Monday - Tuesday
+
+**Today's Progress**: Completed the Object Orientated Programming section of FCC.
+
+**Thoughts** Less time spent - work (though did apply for a training course).
+
+**Link(s) to work**
+
