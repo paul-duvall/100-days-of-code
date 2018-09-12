@@ -656,3 +656,11 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Link(s) to work**
 
+### Day 95: 12 September, Wednesday
+
+**Today's Progress**: Started functional programming section of FCC, jumped ahead and did first intermediate algorithm.
+
+**Thoughts** Also posted a blog - need to write some more - I'm running out! Did the algorithm with no help!
+
+**Link(s) to work**
+https://github.com/paul-duvall/javascript_algorithms/tree/master/16.%20sum_all_numbers_in_a_range
