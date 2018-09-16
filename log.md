@@ -656,7 +656,7 @@ https://github.com/paul-duvall/Superhero_template_literals
 
 **Link(s) to work**
 
-### Day 95: 13 September, Wednesday
+### Day 95: 13 September, Thursday
 
 **Today's Progress**: Started functional programming section of FCC, jumped ahead and did first intermediate algorithm.
 
@@ -665,9 +665,17 @@ https://github.com/paul-duvall/Superhero_template_literals
 **Link(s) to work**
 https://github.com/paul-duvall/javascript_algorithms/tree/master/16.%20sum_all_numbers_in_a_range
 
-### Day 96: 14 September, Wednesday
+### Day 96: 14 September, Friday
 
 **Today's Progress**: Not a lot, did some job ad analysis, looked at the next intermediate algorithm on FCC
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 97: 16 September, Wednesday
+
+**Today's Progress**: Used Javascript from Beginning course to review object constructors, this keyword and prototypes.
 
 **Thoughts** 
 
