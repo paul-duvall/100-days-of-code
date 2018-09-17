@@ -681,3 +681,12 @@ https://github.com/paul-duvall/javascript_algorithms/tree/master/16.%20sum_all_n
 
 **Link(s) to work**
 
+### Day 98: 17 September, Monday
+
+**Today's Progress**: Used Javascript from Beginning course to learn about ES6 classes and subclasses. Had a practice with object constructors. Had a practice with local storage. Wrote some blog posts.
+
+**Thoughts** 
+
+**Link(s) to work**
+https://github.com/paul-duvall/javascript-practice
+
