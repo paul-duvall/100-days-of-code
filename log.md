@@ -673,7 +673,7 @@ https://github.com/paul-duvall/javascript_algorithms/tree/master/16.%20sum_all_n
 
 **Link(s) to work**
 
-### Day 97: 16 September, Wednesday
+### Day 97: 16 September, Sunday
 
 **Today's Progress**: Used Javascript from Beginning course to review object constructors, this keyword and prototypes.
 
