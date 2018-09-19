@@ -690,3 +690,12 @@ https://github.com/paul-duvall/javascript_algorithms/tree/master/16.%20sum_all_n
 **Link(s) to work**
 https://github.com/paul-duvall/javascript-practice
 
+### Day 99-100: 18-19 September, Tuesday - Wednesday
+
+**Today's Progress**: Added some custom CSS code to blog for code snippets, developed web app to practice DOM manipulation that changes a border on a div. Worked through the book list project in Javascript from the beginning.
+
+**Thoughts** 100 days done! Phew!
+
+**Link(s) to work**
+https://codepen.io/duvallpj/pen/YORPgw
+
