@@ -5,3 +5,11 @@ Thoughts: I'm pleased with the final design of the border-changer. Good to make 
 
 Link(s) to work
 https://bit.ly/2OA21Ba 
+
+Day 2: 21 September, Friday
+Today's Progress: Continued the section on jQuery in Javascript & jQuery by Jon Duckett. Made some changes to portfolio, adding more projects, a couple more languages logos and a link to my blog.
+
+Thoughts: Spent a decent chunk of my time today applying to a couple of jobs, and hunting through adverts.
+
+Link(s) to work
+https://paul-duvall.github.io/portfolio/
