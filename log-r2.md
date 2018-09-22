@@ -13,3 +13,11 @@ Thoughts: Spent a decent chunk of my time today applying to a couple of jobs, an
 
 Link(s) to work
 https://paul-duvall.github.io/portfolio/
+
+Day 3: 22 September, Saturday
+Today's Progress: Continued the section on jQuery in Javascript & jQuery by Jon Duckett. Solved the next algorithm on FCC. Posted a new blog post.
+
+Thoughts: Used the hints for the algorithm, but was able to quickly impliment methods having referred to a couple of blog posts.
+
+Link(s) to work
+https://github.com/paul-duvall/javascript_algorithms
