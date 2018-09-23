@@ -21,3 +21,11 @@ Thoughts: Used the hints for the algorithm, but was able to quickly impliment me
 
 Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms
+
+Day 4: 23 September, Sunday
+Today's Progress: Continued the section on jQuery in Javascript & jQuery by Jon Duckett, and started watching jQuery videos in Ultimate Web Designer course on Udemy to compliment book learning. Solved the next algorithm on FCC.
+
+Thoughts: Used the hints for the algorithm, but was able to quickly impliment methods having referred to a couple of documents.
+
+Link(s) to work
+https://github.com/paul-duvall/javascript_algorithms
