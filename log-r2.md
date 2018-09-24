@@ -29,3 +29,10 @@ Thoughts: Used the hints for the algorithm, but was able to quickly impliment me
 
 Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms
+
+Day 5: 24 September, Monday
+Today's Progress: A couple of lessons of CSS 30
+
+Thoughts: 
+
+Link(s) to work
