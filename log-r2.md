@@ -36,3 +36,11 @@ Today's Progress: A couple of lessons of CSS 30
 Thoughts: 
 
 Link(s) to work
+
+Day 6: 25 September, Tuesday
+Today's Progress: Tried to solve an algorithm in FCC and failed. Moved on to first lesson of Javascript 30, and produced a nice version of the drum machine using Javascript.
+
+Thoughts: Algorithm very frustrating today. Even looked at the solution and still struggled to understand what was going on. Switched over to first Javascript 30 lessons which I found really fun. Interesting to work with audio html tag and using javascript to play audio files.
+
+Link(s) to work
+https://github.com/paul-duvall/scratch_machine
