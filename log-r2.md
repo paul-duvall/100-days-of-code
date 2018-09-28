@@ -44,3 +44,8 @@ Thoughts: Algorithm very frustrating today. Even looked at the solution and stil
 
 Link(s) to work
 https://github.com/paul-duvall/scratch_machine
+
+Day 7-8: 26 and 28 September, Wednesday and Friday
+Today's Progress: Not a whole lot done, just some jQuery lessons completed.
+
+Thoughts: Also posted a blog post.
