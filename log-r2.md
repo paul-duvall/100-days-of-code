@@ -49,3 +49,8 @@ Day 7-8: 26 and 28 September, Wednesday and Friday
 Today's Progress: Not a whole lot done, just some jQuery lessons completed.
 
 Thoughts: Also posted a blog post.
+
+Day 9: 29 September, Saturday
+Today's Progress: Completed more of video course section on jQuery, progressing onto learning a bit about jQuery UI
+
+Thoughts: Made a fun car race game. jQuery UI is super cool!
