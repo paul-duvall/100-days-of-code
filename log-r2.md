@@ -54,3 +54,8 @@ Day 9: 29 September, Saturday
 Today's Progress: Completed more of video course section on jQuery, progressing onto learning a bit about jQuery UI
 
 Thoughts: Made a fun car race game. jQuery UI is super cool!
+
+Day 10: 30 September, Sunday
+Today's Progress: Watched some videos about asynchronous JavaScript, Ajax and JSON.
+
+Thoughts: Nice to be making a start on this topic!
