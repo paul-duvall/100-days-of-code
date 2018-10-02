@@ -59,3 +59,8 @@ Day 10: 30 September, Sunday
 Today's Progress: Watched some videos about asynchronous JavaScript, Ajax and JSON.
 
 Thoughts: Nice to be making a start on this topic!
+
+Day 11-12: 1-2 October, Monday - Tuesday
+Today's Progress: Continued watching videos about asynchronous JavaScript, Ajax and JSON, creating a simple page using data from an external API (Chuck Norris joke generator) and learning about REST APIs and HTTP requests. Also updated blog, wrote new post, did some research on codepen about ecommerce designs (gonna work on some stuff in that area soon),
+
+Thoughts: The API stuff is confusing but exciting! 
