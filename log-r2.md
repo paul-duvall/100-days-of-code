@@ -64,3 +64,8 @@ Day 11-12: 1-2 October, Monday - Tuesday
 Today's Progress: Continued watching videos about asynchronous JavaScript, Ajax and JSON, creating a simple page using data from an external API (Chuck Norris joke generator) and learning about REST APIs and HTTP requests. Also updated blog, wrote new post, did some research on codepen about ecommerce designs (gonna work on some stuff in that area soon),
 
 Thoughts: The API stuff is confusing but exciting! 
+
+Day 13: 3 October, Wednesday
+Today's Progress: Watched more videos about APIs, this time setting up a custom HTTP library with AJAX and callbacks.
+
+Thoughts:
