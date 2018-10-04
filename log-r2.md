@@ -69,3 +69,12 @@ Day 13: 3 October, Wednesday
 Today's Progress: Watched more videos about APIs, this time setting up a custom HTTP library with AJAX and callbacks.
 
 Thoughts:
+
+Day 14: 4 October, Thursday
+Today's Progress: 
+- Completed FCC Intermediate Algorithm - Wherefor Art Thou
+
+Thoughts:
+
+Link(s) to work
+https://github.com/paul-duvall/javascript_algorithms/tree/master/19.%20wherefore_art_though
