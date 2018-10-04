@@ -73,8 +73,10 @@ Thoughts:
 Day 14: 4 October, Thursday
 Today's Progress: 
 - Completed FCC Intermediate Algorithm - Wherefor Art Thou
+- Day 2 of 30 Days of Javascript - JS and CSS Clock
 
 Thoughts:
 
 Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms/tree/master/19.%20wherefore_art_though
+https://github.com/paul-duvall/30-days-of-javascript/tree/master/02.Clock
