@@ -80,3 +80,11 @@ Thoughts:
 Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms/tree/master/19.%20wherefore_art_though
 https://github.com/paul-duvall/30-days-of-javascript/tree/master/02.Clock
+
+Day 15: 5 October, Friday
+Today's Progress: 
+- Watched some wordpress videos
+
+Thoughts:
+
+Link(s) to work
