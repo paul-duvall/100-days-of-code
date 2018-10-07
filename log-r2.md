@@ -88,3 +88,13 @@ Today's Progress:
 Thoughts:
 
 Link(s) to work
+
+Day 16: 7 October, Sunday
+Today's Progress: 
+- Solved two algorithms on FCC Intermediate JS Algorithms
+
+Thoughts: Good to get some algorithms done. Gonna have to go back and do one I skipped over, though!
+
+Link(s) to work
+https://github.com/paul-duvall/javascript_algorithms/tree/master/21.%20pig_latin
+https://github.com/paul-duvall/javascript_algorithms/tree/master/22.%20search_and_replace
