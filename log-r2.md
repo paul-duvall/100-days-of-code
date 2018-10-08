@@ -98,3 +98,11 @@ Thoughts: Good to get some algorithms done. Gonna have to go back and do one I s
 Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms/tree/master/21.%20pig_latin
 https://github.com/paul-duvall/javascript_algorithms/tree/master/22.%20search_and_replace
+
+Day 17: 8 October, Monday
+Today's Progress: 
+Review - CSS layout properties including display, margin: auto, max-width, the box model (box-sizing: border-box) and position. Created codepen to practice position
+
+Thoughts: Good to get some algorithms done. Gonna have to go back and do one I skipped over, though!
+1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
+Link(s) to work
