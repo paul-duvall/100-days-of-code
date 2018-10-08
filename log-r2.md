@@ -105,8 +105,9 @@ Review
 - CSS layout properties including display, margin: auto, max-width, the box model (box-sizing: border-box) and position. Created codepen to practice position
 Learn 
 - Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
--        
+- Completed day 3 of Javascript30, all about controlling CSS variables using JS
 
 Thoughts: Good to get some algorithms done. Gonna have to go back and do one I skipped over, though!
-1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
+
 Link(s) to work
+1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
