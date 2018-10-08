@@ -101,7 +101,11 @@ https://github.com/paul-duvall/javascript_algorithms/tree/master/22.%20search_an
 
 Day 17: 8 October, Monday
 Today's Progress: 
-Review - CSS layout properties including display, margin: auto, max-width, the box model (box-sizing: border-box) and position. Created codepen to practice position
+Review 
+- CSS layout properties including display, margin: auto, max-width, the box model (box-sizing: border-box) and position. Created codepen to practice position
+Learn 
+- Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
+-        
 
 Thoughts: Good to get some algorithms done. Gonna have to go back and do one I skipped over, though!
 1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
