@@ -106,9 +106,11 @@ Review
 Learn 
 - Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
 - Completed day 3 of Javascript30, all about controlling CSS variables using JS
-- Redid FCC basic algorithm - converting celsius to fahrenheit so it could be added to my github repository (being a completist) and took a fresh look at intermediate algorithm - Spinal Tap Case. Will need more time...
+- Redid FCC basic algorithm - converting celsius to fahrenheit so it could be added to my github repository (being a completist) and took a fresh look at intermediate algorithm - Spinal Tap Case. 
+- Solve DNA pairing algorithm on FCC and worked on Missing Letters
 
 Thoughts:
 
 Link(s) to work
 1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
+2. FCC algorithm - DNA pairing - https://github.com/paul-duvall/javascript_algorithms/tree/master/23.%20DNA_pairing
