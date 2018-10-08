@@ -106,8 +106,9 @@ Review
 Learn 
 - Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
 - Completed day 3 of Javascript30, all about controlling CSS variables using JS
+- Redid FCC basic algorithm - converting celsius to fahrenheit so it could be added to my github repository (being a completist) and took a fresh look at intermediate algorithm - Spinal Tap Case. Will need more time...
 
-Thoughts: Good to get some algorithms done. Gonna have to go back and do one I skipped over, though!
+Thoughts:
 
 Link(s) to work
 1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
