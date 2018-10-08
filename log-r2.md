@@ -107,6 +107,7 @@ Learn
 - Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
 - Completed day 3 of Javascript30, all about controlling CSS variables using JS
 - Redid FCC basic algorithm - converting celsius to fahrenheit so it could be added to my github repository (being a completist) and took a fresh look at intermediate algorithm - Spinal Tap Case. 
+- Began outlining restaurant website project
 - Solve DNA pairing algorithm on FCC and worked on Missing Letters
 
 Thoughts:
