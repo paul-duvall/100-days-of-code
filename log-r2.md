@@ -99,19 +99,41 @@ Link(s) to work
 https://github.com/paul-duvall/javascript_algorithms/tree/master/21.%20pig_latin
 https://github.com/paul-duvall/javascript_algorithms/tree/master/22.%20search_and_replace
 
+
 Day 17: 8 October, Monday
 Today's Progress: 
+
 Review 
 - CSS layout properties including display, margin: auto, max-width, the box model (box-sizing: border-box) and position. Created codepen to practice position
+
 Learn 
 - Watched video series (https://www.youtube.com/watch?v=8Yum7EQgadM) on CSS Variables in preparations for the next bit...
 - Completed day 3 of Javascript30, all about controlling CSS variables using JS
 - Redid FCC basic algorithm - converting celsius to fahrenheit so it could be added to my github repository (being a completist) and took a fresh look at intermediate algorithm - Spinal Tap Case. 
-- Began outlining restaurant website project
 - Solve DNA pairing algorithm on FCC and worked on Missing Letters
+
+Project
+- Began outlining restaurant website project
 
 Thoughts:
 
 Link(s) to work
 1. Postion codepen - https://codepen.io/duvallpj/pen/ePBEEL
 2. FCC algorithm - DNA pairing - https://github.com/paul-duvall/javascript_algorithms/tree/master/23.%20DNA_pairing
+
+
+Day 18: 9 October, Tuesday
+Today's Progress: 
+
+Review 
+- Finished using learnlayout.com to review CSS layout basics
+- Posted new article (FCC Basic Algorithms 3) to blog
+
+Learn 
+
+Project
+
+Thoughts:
+
+Link(s) to work
+1. http://let-there-be-code.com/index.php/2018/10/09/freecodecamp-basic-algorithm-scripting-3-longest-word-in-a-string/
