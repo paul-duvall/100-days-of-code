@@ -128,6 +128,7 @@ Today's Progress:
 Review 
 - Finished using learnlayout.com to review CSS layout basics
 - Posted new article (FCC Basic Algorithms 3) to blog
+- Started watching Wes Bos' What the Flexbox videos (https://flexbox.io/) to strengthen understanding of CSS Flexbox
 
 Learn 
 
