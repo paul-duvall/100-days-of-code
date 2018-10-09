@@ -128,13 +128,15 @@ Today's Progress:
 Review 
 - Finished using learnlayout.com to review CSS layout basics
 - Posted new article (FCC Basic Algorithms 3) to blog
-- Started watching Wes Bos' What the Flexbox videos (https://flexbox.io/) to strengthen understanding of CSS Flexbox
 
 Learn 
+- Started watching Wes Bos' What the Flexbox videos (https://flexbox.io/) to strengthen understanding of CSS Flexbox
+- Solved Missing Letters algorithm on FCC
 
 Project
 
 Thoughts:
 
 Link(s) to work
-1. http://let-there-be-code.com/index.php/2018/10/09/freecodecamp-basic-algorithm-scripting-3-longest-word-in-a-string/
+1. New blog post - http://let-there-be-code.com/index.php/2018/10/09/freecodecamp-basic-algorithm-scripting-3-longest-word-in-a-string/
+2. Missing Letters algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/24.%20missing_letters
