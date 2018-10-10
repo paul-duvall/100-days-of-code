@@ -149,6 +149,7 @@ Review
 
 Learn 
 - Learnt how to use the flexslider jQuery plugin, which I'll be using for the top of my Claude's restaraunt page
+- Solved Sorted Union algorithm on FCC
 
 Project
 - Located images to use in slide (as above), started to look into creating a nice logo
