@@ -145,7 +145,7 @@ Day 18: 9 October, Tuesday
 Today's Progress: 
 
 Review 
-
+- Continued working on codepen based upon JS30 lesson 3 - review of DOM manipulation, CSS variables
 
 Learn 
 - Learnt how to use the flexslider jQuery plugin, which I'll be using for the top of my Claude's restaraunt page
@@ -157,4 +157,6 @@ Project
 Thoughts:
 
 Link(s) to work
-1. 
+1. CSS Variables codepen https://codepen.io/duvallpj/pen/ePBEEL
+2. Sorted Union - https://github.com/paul-duvall/javascript_algorithms/tree/master/25.%20sorted_union
+3. Convert HTML Entities - https://github.com/paul-duvall/javascript_algorithms/tree/master/26.%20convert_html_entities
