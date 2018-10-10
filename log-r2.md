@@ -140,3 +140,20 @@ Thoughts:
 Link(s) to work
 1. New blog post - http://let-there-be-code.com/index.php/2018/10/09/freecodecamp-basic-algorithm-scripting-3-longest-word-in-a-string/
 2. Missing Letters algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/24.%20missing_letters
+
+Day 18: 9 October, Tuesday
+Today's Progress: 
+
+Review 
+
+
+Learn 
+- Learnt how to use the flexslider jQuery plugin, which I'll be using for the top of my Claude's restaraunt page
+
+Project
+- Located images to use in slide (as above), started to look into creating a nice logo
+
+Thoughts:
+
+Link(s) to work
+1. 
