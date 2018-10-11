@@ -174,9 +174,12 @@ Learn
 - Solved Sum All Odd Fibonacci Numbers algorithm on FCC
 
 Project
+- Made codepen of name that I may use on future overhaul of portfolio
 
 
-Thoughts:
+Thoughts: Need to spend more time on the restaurant website project! Will prioritise this over the next couple of days.
 
 Link(s) to work
 1. CSS Variables fundamentals codepen = https://codepen.io/duvallpj/pen/YJVbpK
+2. Sum All Odd Fibonacci Numbers algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/27.%20sum_all_odd_fibonacci_numbers
+3. Colourful name - https://codepen.io/duvallpj/pen/MPormy
