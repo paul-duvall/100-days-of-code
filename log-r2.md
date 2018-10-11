@@ -141,7 +141,7 @@ Link(s) to work
 1. New blog post - http://let-there-be-code.com/index.php/2018/10/09/freecodecamp-basic-algorithm-scripting-3-longest-word-in-a-string/
 2. Missing Letters algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/24.%20missing_letters
 
-Day 18: 9 October, Tuesday
+Day 19: 10 October, Wednesday
 Today's Progress: 
 
 Review 
@@ -160,3 +160,21 @@ Link(s) to work
 1. CSS Variables codepen https://codepen.io/duvallpj/pen/ePBEEL
 2. Sorted Union - https://github.com/paul-duvall/javascript_algorithms/tree/master/25.%20sorted_union
 3. Convert HTML Entities - https://github.com/paul-duvall/javascript_algorithms/tree/master/26.%20convert_html_entities
+
+Day 20: 11 October, Thursday
+Today's Progress: 
+
+Review 
+- CSS Variables
+
+Learn 
+- Read some articles about CSS Flexbox
+- Solved Sum All Odd Fibonacci Numbers algorithm on FCC
+
+Project
+
+
+Thoughts:
+
+Link(s) to work
+1. CSS Variables fundamentals codepen = https://codepen.io/duvallpj/pen/YJVbpK
