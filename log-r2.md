@@ -170,6 +170,7 @@ Review
 
 Learn 
 - Read some articles about CSS Flexbox
+- Completed some more 'What the Flexbox' videos
 - Solved Sum All Odd Fibonacci Numbers algorithm on FCC
 
 Project
