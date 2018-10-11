@@ -165,7 +165,8 @@ Day 20: 11 October, Thursday
 Today's Progress: 
 
 Review 
-- CSS Variables
+- CSS Variables - creating codepen to practice
+- Wrote 2 blog posts, one about CSS variables, and one about FCC algorithm 4
 
 Learn 
 - Read some articles about CSS Flexbox
