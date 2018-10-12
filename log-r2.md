@@ -183,3 +183,20 @@ Link(s) to work
 1. CSS Variables fundamentals codepen = https://codepen.io/duvallpj/pen/YJVbpK
 2. Sum All Odd Fibonacci Numbers algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/27.%20sum_all_odd_fibonacci_numbers
 3. Colourful name - https://codepen.io/duvallpj/pen/MPormy
+
+Day 21: 12 October, Friday
+Today's Progress: 
+
+Review 
+
+Learn 
+- Completed some more 'What the Flexbox' videos, making responsive nav using flexbox
+
+Project
+- Amended name codepen to make transitions smoother and add a bit of styling.
+
+
+Thoughts:
+
+Link(s) to work
+1. Colourful name - https://codepen.io/duvallpj/pen/MPormy
