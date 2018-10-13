@@ -200,3 +200,19 @@ Thoughts:
 
 Link(s) to work
 1. Colourful name - https://codepen.io/duvallpj/pen/MPormy
+
+Day 22: 13 October, Saturday
+Today's Progress: 
+
+Review 
+Learn 
+
+Project
+- Sketched out front page of restaurant website
+- created a menu item for practice on codepen
+
+
+Thoughts:
+
+Link(s) to work
+1. Menu item - https://codepen.io/duvallpj/pen/bmrZdW
