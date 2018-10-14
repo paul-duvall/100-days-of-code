@@ -216,3 +216,21 @@ Thoughts:
 
 Link(s) to work
 1. Menu item - https://codepen.io/duvallpj/pen/bmrZdW
+
+Day 23: 14 October, Sunday
+Today's Progress: 
+
+Review 
+
+
+Learn 
+- Solved sum all primes algorithm in FCC
+
+Project
+- Continued to work on menu component, restyling so the title is separate and the description animates on hover
+
+Thoughts: Spent a long time on the algorithm today, was ultimately saved by my paired coding partner! Very happy with the result on the menu component - achieved the animation effect I was hoping for, though I would like it to 
+
+Link(s) to work
+1. Sum all primes algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/28.%20sum_all_primes
+2. Menu component - https://codepen.io/duvallpj/pen/ZqXKZv
