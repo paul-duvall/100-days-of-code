@@ -221,8 +221,6 @@ Day 23: 14 October, Sunday
 Today's Progress: 
 
 Review 
-
-
 Learn 
 - Solved sum all primes algorithm in FCC
 
@@ -234,3 +232,16 @@ Thoughts: Spent a long time on the algorithm today, was ultimately saved by my p
 Link(s) to work
 1. Sum all primes algorithm - https://github.com/paul-duvall/javascript_algorithms/tree/master/28.%20sum_all_primes
 2. Menu component - https://codepen.io/duvallpj/pen/ZqXKZv
+
+Day 24: 15 October, Monday
+Today's Progress: 
+
+Review 
+Learn 
+- Completed day 4 of Javascript30 - reviewing array methods
+
+Project
+Thoughts: Still lacking in confidence with some of these, though they are gradually becoming more familiar. Good to see arrow functions and ternary operator in action a bit.
+
+Link(s) to work
+1. Javascript 30 code - https://github.com/paul-duvall/30-days-of-javascript
