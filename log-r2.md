@@ -245,3 +245,19 @@ Thoughts: Still lacking in confidence with some of these, though they are gradua
 
 Link(s) to work
 1. Javascript 30 code - https://github.com/paul-duvall/30-days-of-javascript
+
+Day 25-26: 18-19 October, Thursday - Friday
+Today's Progress: 
+
+Review 
+Learn 
+- Watched a series of videos from Kevin Powell, coding along as he made a static page for a brewery.
+
+Project
+- Started to put together html and styling for header section and hero image section.
+- Finished logo design and added to page
+
+Thoughts: 
+
+Link(s) to work
+
