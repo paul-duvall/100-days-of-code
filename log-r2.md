@@ -261,3 +261,16 @@ Thoughts:
 
 Link(s) to work
 
+Day 27: 21 October, Sunday
+Today's Progress: 
+
+Review 
+Learn 
+
+
+Project
+- Continued to work on top section of site, adding social media icons, making navigation responsive and adding fadeIn animation to hero image logo and text.
+
+Thoughts: 
+
+Link(s) to work
