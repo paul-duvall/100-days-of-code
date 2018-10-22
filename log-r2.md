@@ -266,7 +266,20 @@ Today's Progress:
 
 Review 
 Learn 
+Project
+- Continued to work on top section of site, adding social media icons, making navigation responsive and adding fadeIn animation to hero image logo and text.
 
+Thoughts: 
+
+Link(s) to work
+
+Day 28: 22 October, Monday
+Today's Progress: 
+
+Review 
+- Went over flexbox basics again in order to write a blog post.
+
+Learn 
 
 Project
 - Continued to work on top section of site, adding social media icons, making navigation responsive and adding fadeIn animation to hero image logo and text.
