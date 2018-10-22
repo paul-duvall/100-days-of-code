@@ -276,14 +276,13 @@ Link(s) to work
 Day 28: 22 October, Monday
 Today's Progress: 
 
-Review 
+Review: 
 - Went over flexbox basics again in order to write a blog post.
 
-Learn 
-
-Project
-- Continued to work on top section of site, adding social media icons, making navigation responsive and adding fadeIn animation to hero image logo and text.
-
+Learn:
+- Wordpress course - learnt how to fix site if broken in different ways, how to edit database and php files through the file structure and from wp admin, how to edit user account names using the database
+Udemy20160607
+Project:
 Thoughts: 
 
 Link(s) to work
