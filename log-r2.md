@@ -280,9 +280,9 @@ Review:
 - Went over flexbox basics again in order to write a blog post.
 
 Learn:
-- Wordpress course - learnt how to fix site if broken in different ways, how to edit database and php files through the file structure and from wp admin, how to edit user account names using the database
-Udemy20160607
+- Wordpress course - learnt how to fix site if broken in different ways, how to edit database and php files through the file structure and from wp admin, how to edit user account names using the database, started to go through section on creating a basic brochure site.
+
 Project:
-Thoughts: 
+Thoughts: Posted blog article on FCC algorithm
 
 Link(s) to work
