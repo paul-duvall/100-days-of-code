@@ -286,3 +286,16 @@ Project:
 Thoughts: Posted blog article on FCC algorithm
 
 Link(s) to work
+
+Day 29-30: 23-24 October, Tuesday-Wednesday
+Today's Progress: 
+
+Review: 
+Learn:
+- Started new course on Wordpress, focusing on creating themes from scratch.
+
+Project:
+Thoughts: Wordpress course more in line with my needs - https://www.youtube.com/watch?v=oTRZYnYQlmo Hopefully this will move me towards being able to create a site from scratch and then transfer it into wordpress.
+
+Link(s) to work
+1. Wordpress practice theme - https://github.com/paul-duvall/Wordpress-practice-theme
