@@ -292,7 +292,7 @@ Today's Progress:
 
 Review: 
 Learn:
-- Started new course on Wordpress, focusing on creating themes from scratch.
+- Started new course on Wordpress, focusing on creating themes from scratch. Has covered setting up the initial files, incorporating css and js files, creating custom menus, using the post loop and adding custom body classes.
 
 Project:
 Thoughts: Wordpress course more in line with my needs - https://www.youtube.com/watch?v=oTRZYnYQlmo Hopefully this will move me towards being able to create a site from scratch and then transfer it into wordpress.
