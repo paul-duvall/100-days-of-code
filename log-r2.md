@@ -299,3 +299,20 @@ Thoughts: Wordpress course more in line with my needs - https://www.youtube.com/
 
 Link(s) to work
 1. Wordpress practice theme - https://github.com/paul-duvall/Wordpress-practice-theme
+
+Day 31: 25 October, Thursday
+Today's Progress: 
+
+Review: 
+- Went over creating a nav bar with flexbox again, writing a blog article 
+
+Learn:
+- 
+
+Project:
+- Added burger menu for smaller viewports, main menu disappears, also, made the nav-bar menu increase in size for smaller viewports and logo from hero image disappear for smaller viewports.
+
+Thoughts: Used slicknav, a jQuery plugin, for the burger menu. Pretty good though not exactly how I want it, it'll do for now.
+
+Link(s) to work
+1. Wordpress practice theme - https://github.com/paul-duvall/Wordpress-practice-theme
