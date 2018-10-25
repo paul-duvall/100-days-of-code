@@ -315,4 +315,4 @@ Project:
 Thoughts: Used slicknav, a jQuery plugin, for the burger menu. Pretty good though not exactly how I want it, it'll do for now.
 
 Link(s) to work
-1. Wordpress practice theme - https://github.com/paul-duvall/Wordpress-practice-theme
+1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
