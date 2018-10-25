@@ -307,7 +307,7 @@ Review:
 - Went over creating a nav bar with flexbox again, writing a blog article 
 
 Learn:
-- 
+- Watched next part in WP series (https://www.youtube.com/watch?v=ghmdq1hEm14) about adding theme features including custom header, custom background and post thumbnails for blog posts.
 
 Project:
 - Added burger menu for smaller viewports, main menu disappears, also, made the nav-bar menu increase in size for smaller viewports and logo from hero image disappear for smaller viewports.
