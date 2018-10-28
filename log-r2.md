@@ -327,7 +327,7 @@ Learn:
 Project:
 - Added in images for restaurant awards and started to add in the menu sections
 
-Thoughts: 
+Thoughts: Had a good think about what I'm going to achieve during the coming week; think I need to start making a habit of doing a weekly review on Sundays (perhaps even with a brief blog post) and then putting together targets for the coming week. Also had an email clearout, putting together a new evernote note of articles to read.
 
 Link(s) to work
 1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
