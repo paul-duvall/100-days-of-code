@@ -316,3 +316,19 @@ Thoughts: Used slicknav, a jQuery plugin, for the burger menu. Pretty good thoug
 
 Link(s) to work
 1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
+
+Day 32: 28 October, Sunday
+Today's Progress: 
+
+Review: 
+Learn:
+- Watched and coded along with a video on JS algorithms from Traversy Media https://www.youtube.com/watch?v=M2bJBuaOeOQ
+
+Project:
+- Added in images for restaurant awards and started to add in the menu sections
+
+Thoughts: 
+
+Link(s) to work
+1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
+2. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms/tree/master/traversy_cardio_algorithms
