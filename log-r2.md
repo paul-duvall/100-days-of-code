@@ -350,4 +350,4 @@ Thoughts: Need to push on with API related stuff and get lots of practice so tha
 
 Link(s) to work
 1. API Wordpress - https://codepen.io/duvallpj/pen/VEJQpJ
-2. Algorithms - 
+2. Algorithms - https://github.com/paul-duvall/javascript_algorithms
