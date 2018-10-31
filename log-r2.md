@@ -332,3 +332,21 @@ Thoughts: Had a good think about what I'm going to achieve during the coming wee
 Link(s) to work
 1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
 2. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms/tree/master/traversy_cardio_algorithms
+
+Day 33-35: 29-30 October, Monday-Tuesday
+Today's Progress: 
+
+Review: 
+- Reviews AJAX, writing a blog article and making a simple API app on codepen
+
+Learn:
+- Complete three algorithms on FCC!
+- A couple of wordpress videos
+
+Project:
+
+Thoughts: Need to push on with API related stuff and get lots of practice so that it sinks in! Not sure about these wordpress videos - well explained but no clear structure to them
+
+Link(s) to work
+1. API Wordpress - https://codepen.io/duvallpj/pen/VEJQpJ
+2. Algorithms - 
