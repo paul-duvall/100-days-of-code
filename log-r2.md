@@ -343,6 +343,7 @@ Review:
 Learn:
 - Complete three algorithms on FCC!
 - A couple of wordpress videos
+- Completed day 5 of 30 days of JS
 
 Project:
 
