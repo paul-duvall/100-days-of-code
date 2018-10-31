@@ -337,7 +337,8 @@ Day 33-35: 29-30 October, Monday-Tuesday
 Today's Progress: 
 
 Review: 
-- Reviews AJAX, writing a blog article and making a simple API app on codepen
+- Reviewed AJAX, writing a blog article and making a simple API app on codepen
+- Posted second article on flexbox
 
 Learn:
 - Complete three algorithms on FCC!
