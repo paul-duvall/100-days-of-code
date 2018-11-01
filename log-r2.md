@@ -352,3 +352,16 @@ Thoughts: Need to push on with API related stuff and get lots of practice so tha
 Link(s) to work
 1. API Wordpress - https://codepen.io/duvallpj/pen/VEJQpJ
 2. Algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+Day 33-35: 29-30 October, Monday-Tuesday
+Today's Progress: 
+
+Review: 
+Learn:
+- Completed JS30 Day 6
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. JS30 project - https://github.com/paul-duvall/30-days-of-javascript/tree/master/6.type_ahead
