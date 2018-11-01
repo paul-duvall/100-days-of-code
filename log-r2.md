@@ -333,7 +333,7 @@ Link(s) to work
 1. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
 2. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms/tree/master/traversy_cardio_algorithms
 
-Day 33-35: 29-30 October, Monday-Tuesday
+Day 33-35: 29-30 October, Monday-Wednesday
 Today's Progress: 
 
 Review: 
@@ -353,7 +353,7 @@ Link(s) to work
 1. API Wordpress - https://codepen.io/duvallpj/pen/VEJQpJ
 2. Algorithms - https://github.com/paul-duvall/javascript_algorithms
 
-Day 33-35: 29-30 October, Monday-Tuesday
+Day 36: 1 November, Thursday
 Today's Progress: 
 
 Review: 
