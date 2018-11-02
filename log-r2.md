@@ -380,4 +380,4 @@ Project:
 Thoughts: Hopefully Treehouse can provide the structure i need to move forward with understanding Wordpress deeply!
 
 Link(s) to work
-1. 
+1. FCC Algorithms - https://github.com/paul-duvall/javascript_algorithms
