@@ -365,3 +365,19 @@ Thoughts:
 
 Link(s) to work
 1. JS30 project - https://github.com/paul-duvall/30-days-of-javascript/tree/master/6.type_ahead
+
+Day 37: 2 November, Friday
+Today's Progress: 
+
+Review: 
+Learn:
+- Started Treehouse Wordpress course
+- Completed two more intermediate algorithms on FCC
+- Took up reading JDKJS: Up and Going again, reading about coersion, equality and inequality with variables, hoisting, nesting scopes, conditionals and strict mode
+- Read article about closures - https://t.co/v1KA3yMdAe
+
+Project:
+Thoughts: Hopefully Treehouse can provide the structure i need to move forward with understanding Wordpress deeply!
+
+Link(s) to work
+1. 
