@@ -388,10 +388,11 @@ Today's Progress:
 Review: 
 Learn:
 - Completed final intermediate algorithms on FCC + first two projects
-- 
+- Read some more YDKJS
+- Completed the basic wordpress section of treehouse
 
 Project:
-Thoughts: 
+Thoughts: On to PHP basics in treehouse next. Definitely also need to do a bit of Claude's project tomorrow
 
 Link(s) to work
 1. FCC Algorithms - 
