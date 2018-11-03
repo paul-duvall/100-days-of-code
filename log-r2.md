@@ -381,3 +381,17 @@ Thoughts: Hopefully Treehouse can provide the structure i need to move forward w
 
 Link(s) to work
 1. FCC Algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+Day 38: 3 November, Saturday
+Today's Progress: 
+
+Review: 
+Learn:
+- Completed final intermediate algorithms on FCC + first two projects
+- 
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. FCC Algorithms - 
