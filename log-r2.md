@@ -396,3 +396,16 @@ Thoughts: On to PHP basics in treehouse next. Definitely also need to do a bit o
 
 Link(s) to work
 1. FCC Algorithms - 
+
+Day 39: 4 November, Sunday
+Today's Progress: 
+
+Review: 
+Learn:
+- Started working through the basic php section on Treehouse, learning about variables, comments, operators, escape sequences, concatenation, conditionals (if, elseif, else), basic use in html to call in strings and include other php files
+
+Project:
+Thoughts:
+
+Link(s) to work
+1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
