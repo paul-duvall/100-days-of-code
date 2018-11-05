@@ -409,3 +409,19 @@ Thoughts:
 
 Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
+
+Day 40: 5 November, Monday
+Today's Progress: 
+
+Review: 
+Learn:
+- Continue working with the basic php section of Treehouse:
+- arrays, including indexed arrays, adding array elements, removing array elements, editing array elements, modifying arrays, associative arrays, multidimensional arrays, sorting arrays
+- Loops - do while and while loops, for and foreach loops
+- Begun making a php to do list
+
+Project:
+Thoughts:
+
+Link(s) to work
+1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
