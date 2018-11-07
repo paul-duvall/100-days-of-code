@@ -425,3 +425,17 @@ Thoughts:
 
 Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
+
+Day 41: 7 November, Wednesday
+Today's Progress: 
+
+Review: 
+Learn:
+- Continue working with the basic php section of Treehouse:
+  - Functions - arguments, default arguments, returning values, variable functions, closures, string functions, array functions
+
+Project:
+Thoughts:
+
+Link(s) to work
+1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
