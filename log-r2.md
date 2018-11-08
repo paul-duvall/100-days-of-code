@@ -439,3 +439,25 @@ Thoughts:
 
 Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
+
+Day 42: 8 November, Thursday
+Today's Progress: 
+
+Review: 
+Learn:
+- Continue working with the basic php section of Treehouse:
+  - Error handling - turning errors on / off using php.ini, .htaccess and individual php files, general error handling, logging errors
+  - Building a php website  - Using php code on a site
+                            - Using include to incorporate content from separate php documents
+                            - Separate header / footer php documents
+                            - Using variables to change page titles
+                            - Using $_GET["category"] to change content depending upon category in url
+                            - Looping through an array to generate page content
+                            - using array_rand and foreach loop to add four random items to the main page
+
+Project:
+Thoughts:
+
+Link(s) to work
+1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
+2. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
