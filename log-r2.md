@@ -461,3 +461,19 @@ Thoughts:
 Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
 2. Javascript algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+Day 43: 9 November, Friday
+Today's Progress: 
+
+Review: 
+- Posted new blog post on flexbox
+
+Learn:
+- Continue working with the basic php section of Treehouse, completing building php website, completing sorting and listing items from a database and starting the basic form section
+
+Project:
+- Fixed bugs on homepage and started working on review section
+
+Link(s) to work
+1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
+2. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
