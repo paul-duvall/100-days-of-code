@@ -488,6 +488,7 @@ Learn:
 - Watched a video about lazy load images
 - Read some of YDKNJS: Types and Grammar
 - Code along Pluralsight login page clone (https://www.youtube.com/watch?v=wIx1O5Y5EB4&feature=em-uploademail)
+- Continued with Treehouse basic php - adding functionality to form
 
 Project:
 
