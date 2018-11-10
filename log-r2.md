@@ -487,7 +487,9 @@ Review:
 Learn:
 - Watched a video about lazy load images
 - Read some of YDKNJS: Types and Grammar
+- Code along Pluralsight login page clone (https://www.youtube.com/watch?v=wIx1O5Y5EB4&feature=em-uploademail)
 
 Project:
 
 Link(s) to work
+1. Pluralsight login page clone - https://github.com/paul-duvall/Code-alongs/tree/master/pluralsight-login-page-clone
