@@ -477,3 +477,17 @@ Project:
 Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
 2. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
+
+Day 43: 9 November, Friday
+Today's Progress: 
+
+Review: 
+- Wrote blog post of syntax episodes for beginners
+
+Learn:
+- Watched a video about lazy load images
+- Read some of YDKNJS: Types and Grammar
+
+Project:
+
+Link(s) to work
