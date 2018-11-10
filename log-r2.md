@@ -478,7 +478,7 @@ Link(s) to work
 1. Basic PHP Treehouse files - https://github.com/paul-duvall/php_basics_treehouse
 2. Claude's restaurant - https://github.com/paul-duvall/Claudes-restaurant
 
-Day 43: 9 November, Friday
+Day 44: 10 November, Saturday
 Today's Progress: 
 
 Review: 
