@@ -494,3 +494,14 @@ Project:
 
 Link(s) to work
 1. Pluralsight login page clone - https://github.com/paul-duvall/Code-alongs/tree/master/pluralsight-login-page-clone
+
+Day 45: 11 November, Sunday
+Today's Progress: 
+
+Review: 
+Learn:
+- Continued with Treehouse basic php - adding functionality to form
+Project:
+
+Link(s) to work
+
