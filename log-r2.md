@@ -505,3 +505,20 @@ Project:
 
 Link(s) to work
 
+Day 46-47: 12-13 November, Monday - Tuesday
+Today's Progress: 
+
+Review: 
+- Posted article about Syntax.fm to blog
+
+Learn:
+- Worked on the final fcc javascript project
+
+Project:
+- Put together review component for frontpage of Claude's, added titles to section on front page
+
+Thoughts: Made some good progress on the fcc project; may have hit a stumbling block now, but will reassess tomorrow. Pretty sure I need to add an 'about' section to the front page.
+
+Link(s) to work
+1. Restaurant component - https://codepen.io/duvallpj/pen/PxbOrO
+2. Claudes on github - https://github.com/paul-duvall/Claudes-restaurant
