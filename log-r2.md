@@ -513,6 +513,7 @@ Review:
 
 Learn:
 - Worked on the final fcc javascript project
+- Started short series of video tutorials on making a javascript / jquery text adventure game!
 
 Project:
 - Put together review component for frontpage of Claude's, added titles to section on front page
@@ -522,3 +523,4 @@ Thoughts: Made some good progress on the fcc project; may have hit a stumbling b
 Link(s) to work
 1. Restaurant component - https://codepen.io/duvallpj/pen/PxbOrO
 2. Claudes on github - https://github.com/paul-duvall/Claudes-restaurant
+3. Text adventure game - https://github.com/paul-duvall/Text-adventure-game
