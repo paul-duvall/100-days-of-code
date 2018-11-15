@@ -524,3 +524,20 @@ Link(s) to work
 1. Restaurant component - https://codepen.io/duvallpj/pen/PxbOrO
 2. Claudes on github - https://github.com/paul-duvall/Claudes-restaurant
 3. Text adventure game - https://github.com/paul-duvall/Text-adventure-game
+
+
+Day 48-49: 14-15 November, Wednesday - Thursday
+Today's Progress: 
+
+Review: 
+
+Learn:
+- Completed the final fcc javascript project!
+- Continued series of video tutorials on making a javascript / jquery text adventure game and started to write up some content for my own text adventure
+
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. Text adventure game - https://github.com/paul-duvall/Text-adventure-game
