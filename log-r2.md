@@ -530,11 +530,12 @@ Day 48-49: 14-15 November, Wednesday - Thursday
 Today's Progress: 
 
 Review: 
+- Continued reading YDKJS: Types and Grammar
 
 Learn:
 - Completed the final fcc javascript project!
 - Continued series of video tutorials on making a javascript / jquery text adventure game and started to write up some content for my own text adventure
-- Continued reading YDKJS: Types and Grammar
+- Completed the basic php section of Treehouse
 
 Project:
 
@@ -542,3 +543,5 @@ Thoughts:
 
 Link(s) to work
 1. Text adventure game - https://github.com/paul-duvall/Text-adventure-game
+2. Basic PHP Treehouse - https://github.com/paul-duvall/php_basics_treehouse
+3. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms
