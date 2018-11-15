@@ -534,6 +534,7 @@ Review:
 Learn:
 - Completed the final fcc javascript project!
 - Continued series of video tutorials on making a javascript / jquery text adventure game and started to write up some content for my own text adventure
+- Continued reading YDKJS: Types and Grammar
 
 Project:
 
