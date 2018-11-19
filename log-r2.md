@@ -545,3 +545,17 @@ Link(s) to work
 1. Text adventure game - https://github.com/paul-duvall/Text-adventure-game
 2. Basic PHP Treehouse - https://github.com/paul-duvall/php_basics_treehouse
 3. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms
+
+Day 50-51
+Today's Progress: 
+
+Review: 
+Learn:
+- Completed days 7 and 8 of Javascript30 (covering array methods and HTML5 canvas)
+
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1.Javascrip30 - https://github.com/paul-duvall/30-days-of-javascript
