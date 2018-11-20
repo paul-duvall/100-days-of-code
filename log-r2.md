@@ -566,6 +566,7 @@ Today's Progress:
 
 Review / Learn:
 - Completed rock / paper / scissors game code along
+- Continued reading JDKJS - Types and Grammar, finishing the Values chapter (learning about infinities, negative zero (what, what, what?) and value vs reference in scalar primatives (string, number, etc.) and compound objects (arrays, objects, etc.).
 
 Project:
 
