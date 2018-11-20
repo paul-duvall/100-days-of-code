@@ -564,13 +564,12 @@ Link(s) to work
 Day 52 - Tuesday 20 November 2018
 Today's Progress: 
 
-Review: 
-Learn:
+Review / Learn:
 - Completed rock / paper / scissors game code along
 
 Project:
 
-Thoughts: Also applied for a couple of jobs today.
+Thoughts: Also applied for a couple of jobs today. Wrote a blog article on my #100DaysOfCode progress and posted straight to blog.
 
 Link(s) to work
 1.Rock / paper / scissors - https://github.com/paul-duvall/Code-alongs/tree/master/rock-paper-scissors-game
