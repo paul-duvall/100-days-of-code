@@ -546,7 +546,7 @@ Link(s) to work
 2. Basic PHP Treehouse - https://github.com/paul-duvall/php_basics_treehouse
 3. JS Algorithms - https://github.com/paul-duvall/javascript_algorithms
 
-Day 50-51
+Day 50-51 - 16 / 19 November 2018
 Today's Progress: 
 
 Review: 
@@ -559,3 +559,18 @@ Thoughts:
 
 Link(s) to work
 1.Javascrip30 - https://github.com/paul-duvall/30-days-of-javascript
+
+
+Day 52 - Tuesday 20 November 2018
+Today's Progress: 
+
+Review: 
+Learn:
+- Completed rock / paper / scissors game code along
+
+Project:
+
+Thoughts: Also applied for a couple of jobs today.
+
+Link(s) to work
+1.Rock / paper / scissors - https://github.com/paul-duvall/Code-alongs/tree/master/rock-paper-scissors-game
