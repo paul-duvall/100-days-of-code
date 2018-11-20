@@ -569,8 +569,10 @@ Review / Learn:
 - Continued reading JDKJS - Types and Grammar, finishing the Values chapter (learning about infinities, negative zero (what, what, what?) and value vs reference in scalar primatives (string, number, etc.) and compound objects (arrays, objects, etc.).
 
 Project:
+- Claudes - Styled footer for main page and added about section (began styling - will need to finish and make responsive)
 
 Thoughts: Also applied for a couple of jobs today. Wrote a blog article on my #100DaysOfCode progress and posted straight to blog.
 
 Link(s) to work
 1.Rock / paper / scissors - https://github.com/paul-duvall/Code-alongs/tree/master/rock-paper-scissors-game
+2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
