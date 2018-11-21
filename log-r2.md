@@ -576,3 +576,17 @@ Thoughts: Also applied for a couple of jobs today. Wrote a blog article on my #1
 Link(s) to work
 1.Rock / paper / scissors - https://github.com/paul-duvall/Code-alongs/tree/master/rock-paper-scissors-game
 2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
+
+
+Day 53 - Wednesday 21 November 2018
+Today's Progress: 
+
+Review / Learn:
+- Continued with Treehouse Wordpress learning, moving on to making wordpress themes, including how to link CSS and Javascript into Wordpress themes
+
+Project:
+Thoughts: Not a lot done but feels good to push on with Wordpress stuff and I now feel motivated to get back into a rhythm with this stuff
+
+Link(s) to work
+1.https://github.com/paul-duvall/wordpress-theme-dev-treehouse
+
