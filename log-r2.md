@@ -590,3 +590,14 @@ Thoughts: Not a lot done but feels good to push on with Wordpress stuff and I no
 Link(s) to work
 1.https://github.com/paul-duvall/wordpress-theme-dev-treehouse
 
+Day 54 - Thursday 22 November 2018
+Today's Progress: 
+
+Review / Learn:
+- Continued with Treehouse Wordpress themes section, learning about the Wordpress loop and building page templates
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1.https://github.com/paul-duvall/wordpress-theme-dev-treehouse
