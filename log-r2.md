@@ -601,3 +601,18 @@ Thoughts:
 
 Link(s) to work
 1.https://github.com/paul-duvall/wordpress-theme-dev-treehouse
+
+Day 55 - Thursday 23 November 2018
+Today's Progress: 
+Review / Learn:
+- Complete the Custom HTTP library project in Javascript from the beginning
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. Custom HTTP library project - https://github.com/paul-duvall/javascript-practice
+
+
+
+
