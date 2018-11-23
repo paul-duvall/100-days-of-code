@@ -606,11 +606,11 @@ Day 55 - Thursday 23 November 2018
 Today's Progress: 
 Review / Learn:
 - Complete the Custom HTTP library project in Javascript from the beginning
-- Also on JS from beginning, watch videos about promises, the fetch API, arrow functions
+- Also on JS from beginning, watch videos about promises, the fetch API, arrow functions, async and await
 - Watched some videos about HTTP
 
 Project:
 Thoughts: 
 
 Link(s) to work
-1. Custom HTTP library project - https://github.com/paul-duvall/javascript-practice
+1. Custom HTTP library projects - https://github.com/paul-duvall/javascript-practice
