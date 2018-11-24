@@ -614,3 +614,15 @@ Thoughts:
 
 Link(s) to work
 1. Custom HTTP library projects - https://github.com/paul-duvall/javascript-practice
+
+Day 56 - Thursday 24 November 2018
+Today's Progress: 
+Review / Learn:
+- Started the Github user search app for Modern Javascript from the beginning
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. Github user search - https://github.com/paul-duvall/javascript-practice
+
