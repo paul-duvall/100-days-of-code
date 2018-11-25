@@ -632,10 +632,14 @@ Today's Progress:
 Review / Learn:
 - Finished the Github user search app for Modern Javascript from the beginning, adding error message functionality for when the username inputted is not found and code to display five most recently updated repos
 - Continued working on Wordpress theme development using Treehouse, completing section on building a WordPress navigation
+- Read some more of YDKJS
 
 Project:
+- Finished styling the homepage about section and made this part responsive
+
 Thoughts: 
 
 Link(s) to work
 1. Github user search - https://github.com/paul-duvall/javascript-practice
 2. Treehouse Wordpress theme - https://github.com/paul-duvall/wordpress-theme-dev-treehouse
+3. Claudes - https://github.com/paul-duvall/Claudes-restaurant
