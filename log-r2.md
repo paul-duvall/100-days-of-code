@@ -602,7 +602,7 @@ Thoughts:
 Link(s) to work
 1.https://github.com/paul-duvall/wordpress-theme-dev-treehouse
 
-Day 55 - Thursday 23 November 2018
+Day 55 - Friday 23 November 2018
 Today's Progress: 
 Review / Learn:
 - Complete the Custom HTTP library project in Javascript from the beginning
@@ -615,7 +615,7 @@ Thoughts:
 Link(s) to work
 1. Custom HTTP library projects - https://github.com/paul-duvall/javascript-practice
 
-Day 56 - Thursday 24 November 2018
+Day 56 - Saturday 24 November 2018
 Today's Progress: 
 Review / Learn:
 - Started the Github user search app for Modern Javascript from the beginning
@@ -626,3 +626,14 @@ Thoughts:
 Link(s) to work
 1. Github user search - https://github.com/paul-duvall/javascript-practice
 
+
+Day 57 - Sunday 24 November 2018
+Today's Progress: 
+Review / Learn:
+- Finished the Github user search app for Modern Javascript from the beginning, adding error message functionality for when the username inputted is not found and code to display five most recently updated repos
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. Github user search - https://github.com/paul-duvall/javascript-practice
