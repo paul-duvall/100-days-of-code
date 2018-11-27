@@ -643,3 +643,15 @@ Link(s) to work
 1. Github user search - https://github.com/paul-duvall/javascript-practice
 2. Treehouse Wordpress theme - https://github.com/paul-duvall/wordpress-theme-dev-treehouse
 3. Claudes - https://github.com/paul-duvall/Claudes-restaurant
+
+
+Day 57 - Sunday 24 November 2018
+Today's Progress: 
+Review / Learn:
+- Reviewed fetch API, watched a video and read an article (https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) and set up an example using the Random User API, which I'd like to extend and adapt to get a bit more practice
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. Random user generator - https://github.com/paul-duvall/javascript-practice/tree/master/random-user-generator
