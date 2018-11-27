@@ -645,7 +645,7 @@ Link(s) to work
 3. Claudes - https://github.com/paul-duvall/Claudes-restaurant
 
 
-Day 57 - Sunday 24 November 2018
+Day 58 - Tuesday 25 November 2018
 Today's Progress: 
 Review / Learn:
 - Reviewed fetch API, watched a video and read an article (https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) and set up an example using the Random User API, which I'd like to extend and adapt to get a bit more practice
