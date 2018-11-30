@@ -656,3 +656,18 @@ Thoughts:
 
 Link(s) to work
 1. Random user generator - https://github.com/paul-duvall/javascript-practice/tree/master/random-user-generator
+
+
+Day 60 / 61 - Thursday / Friday 29-30 November 2018
+Today's Progress: 
+Review / Learn:
+- Read about ES6 Modules - https://medium.freecodecamp.org/how-to-use-es6-modules-and-why-theyre-important-a9b20b480773
+- Continued working on Random user generator, adding styling, changing layout, adding in contact icons
+
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. Random user generator - https://github.com/paul-duvall/javascript-practice/tree/master/random-user-generator 
+(also on codepen - https://codepen.io/duvallpj/pen/eQPMMp)
