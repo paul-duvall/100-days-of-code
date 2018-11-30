@@ -671,3 +671,4 @@ Thoughts:
 Link(s) to work
 1. Random user generator - https://github.com/paul-duvall/javascript-practice/tree/master/random-user-generator 
 (also on codepen - https://codepen.io/duvallpj/pen/eQPMMp)
+2. Weather app - https://github.com/paul-duvall/weather-app
