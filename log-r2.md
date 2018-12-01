@@ -1,4 +1,4 @@
-##Day 1: 20 September, Thursday
+Day 1: 20 September, Thursday
 Today's Progress: Finishing touches on my border-changing codepen. New blog post about #100DaysOfCode. Started the section on jQuery in Javascript & jQuery by Jon Duckett.
 
 Thoughts: I'm pleased with the final design of the border-changer. Good to make a start of jQuery - something new!
