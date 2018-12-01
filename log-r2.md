@@ -683,9 +683,11 @@ Review / Learn:
 Project:
 - Fixed a couple of bugs on homepage
 - Added in subpages and started to work on menus page
+- Added Claudes to portfolio
 
 Thoughts: 
 
 Link(s) to work
 1. My learning tracker - https://github.com/paul-duvall/my-learning-tracker
 2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
+3. Portfolio - https://t.co/u5RaEiNeYi
