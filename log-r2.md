@@ -681,7 +681,11 @@ Review / Learn:
 - Set up My learning Tracker repository
 
 Project:
+- Fixed a couple of bugs on homepage
+- Added in subpages and started to work on menus page
+
 Thoughts: 
 
 Link(s) to work
 1. My learning tracker - https://github.com/paul-duvall/my-learning-tracker
+2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
