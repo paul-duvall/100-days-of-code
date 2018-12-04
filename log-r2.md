@@ -691,3 +691,18 @@ Link(s) to work
 1. My learning tracker - https://github.com/paul-duvall/my-learning-tracker
 2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
 3. Portfolio - https://t.co/u5RaEiNeYi
+
+
+Day 63 - Tuesday 4 December 2018
+Today's Progress: 
+Review / Learn:
+- Completed days 9 and 10 of Javascript 30
+
+
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. Javascript 30 - https://github.com/paul-duvall/30-days-of-javascript
+
