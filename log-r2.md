@@ -700,9 +700,10 @@ Review / Learn:
 
 
 Project:
+- Worked on menu page of Claude's, setting lunch menu to default, styling selection bar a bit, adding some content to lunch menu and beginning to style menu components
 
 Thoughts: 
 
 Link(s) to work
 1. Javascript 30 - https://github.com/paul-duvall/30-days-of-javascript
-
+2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
