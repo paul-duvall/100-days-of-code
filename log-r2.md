@@ -697,6 +697,7 @@ Day 63 - Tuesday 4 December 2018
 Today's Progress: 
 Review / Learn:
 - Completed days 9 and 10 of Javascript 30
+- Completed the Regular expressions section of Javascript from the beginning, including a mini-project on form validation using regular expressions
 
 
 Project:
@@ -707,3 +708,4 @@ Thoughts:
 Link(s) to work
 1. Javascript 30 - https://github.com/paul-duvall/30-days-of-javascript
 2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
+3. Form validation mini-project - https://github.com/paul-duvall/javascript-practice/tree/master/form-validation-regex
