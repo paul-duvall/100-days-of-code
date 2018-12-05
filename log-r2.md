@@ -709,3 +709,15 @@ Link(s) to work
 1. Javascript 30 - https://github.com/paul-duvall/30-days-of-javascript
 2. Claudes - https://github.com/paul-duvall/Claudes-restaurant
 3. Form validation mini-project - https://github.com/paul-duvall/javascript-practice/tree/master/form-validation-regex
+
+
+Day 64 - Wednesday 5 December 2018
+Today's Progress: 
+Review / Learn:
+- Completed the Iterators and Generators sections of Javascript from the beginning (including profile scroller mini-project) and section on symbols
+
+Project:
+Thoughts: All confusing though the iterator project helped me to see how exactly this tool can be applied in the real world. Symbols...I'm closer to being aware of what they are but have no understanding of why they might be used.
+
+Link(s) to work
+1. Profile scroller - https://github.com/paul-duvall/javascript-practice/tree/master/profile-scroller
