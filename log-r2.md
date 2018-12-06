@@ -721,3 +721,14 @@ Thoughts: All confusing though the iterator project helped me to see how exactly
 
 Link(s) to work
 1. Profile scroller - https://github.com/paul-duvall/javascript-practice/tree/master/profile-scroller
+
+
+Day 65 - Thursday 6 December 2018
+Today's Progress: 
+Review / Learn:
+Project:
+- Continued adding content to the menus page, updating css and tweaking layout
+Thoughts: 
+
+Link(s) to work
+1. Claudes - https://github.com/paul-duvall/Claudes-restaurant
