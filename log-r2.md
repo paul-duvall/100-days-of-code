@@ -736,7 +736,7 @@ Link(s) to work
 
 Day 66-67 - Friday-Saturday 7-8 December 2018
 Today's Progress: 
-- Continued with Javascript from the beginning, covering destructuring, ES6 Maps
+- Continued with Javascript from the beginning, covering destructuring, ES6 Maps, and started the section on Javascript patterns, learning about the module and revealing module pattern
 - 30 Days of Javascript - 11.HTML5 video editor
 
 Review / Learn:
