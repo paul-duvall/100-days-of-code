@@ -732,3 +732,17 @@ Thoughts:
 
 Link(s) to work
 1. Claudes - https://github.com/paul-duvall/Claudes-restaurant
+
+
+Day 66-67 - Friday-Saturday 7-8 December 2018
+Today's Progress: 
+- Continued with Javascript from the beginning, covering destructuring, ES6 Maps
+- 30 Days of Javascript - 11.HTML5 video editor
+
+Review / Learn:
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. 30 Days of Javascript - https://github.com/paul-duvall/30-days-of-javascript
