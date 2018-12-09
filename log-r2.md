@@ -746,3 +746,16 @@ Thoughts:
 
 Link(s) to work
 1. 30 Days of Javascript - https://github.com/paul-duvall/30-days-of-javascript
+
+
+Day 68 - Sunday 9 December 2018
+Today's Progress: 
+- Continued with Javascript from the beginning, covering the remainder of the design patterns and then starting the Tracalorie project
+
+Review / Learn:
+
+Project:
+Thoughts: I did want to do more today (posting to blog, pressing on with a personal project) but I'm getting so close to the end of Javascript from the beginning, I really want to get it done!
+
+Link(s) to work
+1. 30 Days of Javascript - https://github.com/paul-duvall/30-days-of-javascript
