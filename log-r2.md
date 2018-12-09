@@ -758,4 +758,4 @@ Project:
 Thoughts: I did want to do more today (posting to blog, pressing on with a personal project) but I'm getting so close to the end of Javascript from the beginning, I really want to get it done!
 
 Link(s) to work
-1. 30 Days of Javascript - https://github.com/paul-duvall/30-days-of-javascript
+1. Tracalorie app - https://github.com/paul-duvall/javascript-practice/tree/master/tracalorie
