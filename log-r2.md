@@ -777,6 +777,8 @@ Review / Learn:
 - Continued with Javascript from the beginning, completing the Tracalorie project, adding functionality to delete / update items, clear all items and persist the data to local storage
 
 Project:
+- Started to add html for reservation page on Claude's
+
 Thoughts: Tracalorie project very enjoyable - I think it would be really great to either improve on this app by adding functionality / use the general design of this app to work on something similar, like a task tracking app
 
 Link(s) to work
