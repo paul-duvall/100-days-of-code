@@ -762,12 +762,23 @@ Link(s) to work
 
 Day 69 - Monday 10 December 2018
 Today's Progress: 
-- Continued with Javascript from the beginning, working on the Tracalorie project, adding functionality to add items to the user interface, summing the total calories and displaying and starting to prep for an edit state
-
 Review / Learn:
+- Continued with Javascript from the beginning, working on the Tracalorie project, adding functionality to add items to the user interface, summing the total calories and displaying and starting to prep for an edit state
 
 Project:
 Thoughts: 
 
 Link(s) to work
 1. Tracalorie app - https://github.com/paul-duvall/javascript-practice/tree/master/tracalorie
+
+Day 70 - Tuesday 11 December 2018
+Today's Progress: 
+Review / Learn:
+- Continued with Javascript from the beginning, completing the Tracalorie project, adding functionality to delete / update items, clear all items and persist the data to local storage
+
+Project:
+Thoughts: Tracalorie project very enjoyable - I think it would be really great to either improve on this app by adding functionality / use the general design of this app to work on something similar, like a task tracking app
+
+Link(s) to work
+1. Tracalorie app - https://github.com/paul-duvall/javascript-practice/tree/master/tracalorie
+
