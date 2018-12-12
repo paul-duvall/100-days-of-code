@@ -788,6 +788,7 @@ Link(s) to work
 Day 71 - Tuesday 12 December 2018
 Today's Progress: 
 Review / Learn:
+- Completed day 14 of Javascript30 - creating a slide in on scroll effect for images
 
 Project:
 - Updated blog with post on AJAX
@@ -799,3 +800,4 @@ Thoughts: Also spent some time looking at websites for local organisations in pr
 Link(s) to work
 1. Blog post - http://let-there-be-code.com/2018/12/12/async-js-ajax/
 2. Trump-o-matic - https://codepen.io/duvallpj/full/VEJQpJ
+3. Javascript30 - Slide in on scroll - https://github.com/paul-duvall/30-days-of-javascript/tree/master/13.slide_in_on_scroll
