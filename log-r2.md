@@ -791,6 +791,7 @@ Review / Learn:
 
 Project:
 - Updated blog with post on AJAX
+- Wrote a blog post about freeCodeCamp - Javascript Data Structures and Algorithms
 
 Thoughts: Also spent some time looking at websites for local organisations in preparation for approaching some about making a site! Also started a list of local web design agencies in preparation for contacting them in the new year.
 
