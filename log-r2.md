@@ -784,3 +784,16 @@ Thoughts: Tracalorie project very enjoyable - I think it would be really great t
 Link(s) to work
 1. Tracalorie app - https://github.com/paul-duvall/javascript-practice/tree/master/tracalorie
 
+
+Day 71 - Tuesday 12 December 2018
+Today's Progress: 
+Review / Learn:
+
+Project:
+- Updated blog with post on AJAX
+
+Thoughts: Also spent some time looking at websites for local organisations in preparation for approaching some about making a site! Also started a list of local web design agencies in preparation for contacting them in the new year.
+
+Link(s) to work
+1. Blog post - http://let-there-be-code.com/2018/12/12/async-js-ajax/
+
