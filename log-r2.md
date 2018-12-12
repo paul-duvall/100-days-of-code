@@ -792,9 +792,10 @@ Review / Learn:
 Project:
 - Updated blog with post on AJAX
 - Wrote a blog post about freeCodeCamp - Javascript Data Structures and Algorithms
+- Added new functionality to Trump-o-matic
 
 Thoughts: Also spent some time looking at websites for local organisations in preparation for approaching some about making a site! Also started a list of local web design agencies in preparation for contacting them in the new year.
 
 Link(s) to work
 1. Blog post - http://let-there-be-code.com/2018/12/12/async-js-ajax/
-
+2. Trump-o-matic - https://codepen.io/duvallpj/full/VEJQpJ
