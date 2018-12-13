@@ -785,7 +785,7 @@ Link(s) to work
 1. Tracalorie app - https://github.com/paul-duvall/javascript-practice/tree/master/tracalorie
 
 
-Day 71 - Tuesday 12 December 2018
+Day 71 - Wednesday 12 December 2018
 Today's Progress: 
 Review / Learn:
 - Completed day 14 of Javascript30 - creating a slide in on scroll effect for images
@@ -801,3 +801,16 @@ Link(s) to work
 1. Blog post - http://let-there-be-code.com/2018/12/12/async-js-ajax/
 2. Trump-o-matic - https://codepen.io/duvallpj/full/VEJQpJ
 3. Javascript30 - Slide in on scroll - https://github.com/paul-duvall/30-days-of-javascript/tree/master/13.slide_in_on_scroll
+
+
+Day 72 - Thursday 13 December 2018
+Today's Progress: 
+Review / Learn:
+
+Project:
+- Continued to work on Claude's reservation page, separating into two columns and adding content to 'info content'. Continued to work on styling of the form.
+
+Thoughts: 
+
+Link(s) to work
+1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
