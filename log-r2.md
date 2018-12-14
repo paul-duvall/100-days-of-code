@@ -803,12 +803,12 @@ Link(s) to work
 3. Javascript30 - Slide in on scroll - https://github.com/paul-duvall/30-days-of-javascript/tree/master/13.slide_in_on_scroll
 
 
-Day 72 - Thursday 13 December 2018
+Day 72-73 - Thursday / Friday 13-14 December 2018
 Today's Progress: 
 Review / Learn:
 
 Project:
-- Continued to work on Claude's reservation page, separating into two columns and adding content to 'info content'. Continued to work on styling of the form.
+- Continued to work on Claude's reservation page, separating into two columns and adding content to 'info content'. Continued to work on styling and layout of the form and left hand content area
 
 Thoughts: 
 
