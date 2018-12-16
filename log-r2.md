@@ -814,3 +814,17 @@ Thoughts:
 
 Link(s) to work
 1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
+
+
+Day 74-75 - Saturday / Sunday 15-16 December 2018
+Today's Progress: 
+Review / Learn:
+- Completed the final project - creating a blogging platform called Microposts - in Javascript from the Beginning
+- Watched a video outlining the range of skills that should be acquired before learning a Javascript framework
+
+Project: 
+Thoughts: 
+Final project very interesting - as well being an introduction to Babel / Webpack to manage modules, it was another opportunity to put a range of skills learnt into practice.
+
+Link(s) to work
+1. Microposts - https://github.com/paul-duvall/javascript-practice/tree/master/microposts
