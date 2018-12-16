@@ -828,3 +828,4 @@ Final project very interesting - as well being an introduction to Babel / Webpac
 
 Link(s) to work
 1. Microposts - https://github.com/paul-duvall/javascript-practice/tree/master/microposts
+2. Video - https://www.youtube.com/watch?v=qi9VQqYcXqY&feature=em-uploademail
