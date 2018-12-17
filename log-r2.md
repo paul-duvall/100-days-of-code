@@ -829,3 +829,18 @@ Final project very interesting - as well being an introduction to Babel / Webpac
 Link(s) to work
 1. Microposts - https://github.com/paul-duvall/javascript-practice/tree/master/microposts
 2. Video - https://www.youtube.com/watch?v=qi9VQqYcXqY&feature=em-uploademail
+
+
+
+Day 76 - Monday 17 December 2018
+Today's Progress: 
+Review / Learn:
+- Watched some videos about HTML5 Canvas
+
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. HTML5 Canvas practice - https://github.com/paul-duvall/html5-canvas
+2. Video - https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&index=2&t=90s
