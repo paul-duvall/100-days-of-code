@@ -850,6 +850,7 @@ Day 78 - Wednesday 19 December 2018
 Today's Progress: 
 Review / Learn:
 - Reviewed spread / rest operators using a youtube video, linked below.
+- Started writing blog article about spread / rest to review
 - Watched a video tutorial about creating a nice CSS image-hover effect
 - Finished writing blog article on the Trump-o-matic, reviewing AJAX
 
