@@ -849,6 +849,7 @@ Link(s) to work
 Day 78 - Wednesday 19 December 2018
 Today's Progress: 
 Review / Learn:
+- Watched a video tutorial about creating a nice CSS image-hover effect
 
 Project:
 - Worked on Claude's, making reservations page responsive, adding some final styling to the form and tidying up file structure for css files
@@ -857,4 +858,4 @@ Thoughts:
 
 Link(s) to work
 1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
-
+2. Hover-over effect - https://codepen.io/duvallpj/pen/roWvLw
