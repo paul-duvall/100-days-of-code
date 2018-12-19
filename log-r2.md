@@ -849,6 +849,7 @@ Link(s) to work
 Day 78 - Wednesday 19 December 2018
 Today's Progress: 
 Review / Learn:
+- Reviewed spread / rest operators using a youtube video, linked below.
 - Watched a video tutorial about creating a nice CSS image-hover effect
 
 Project:
@@ -859,3 +860,4 @@ Thoughts:
 Link(s) to work
 1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
 2. Hover-over effect - https://codepen.io/duvallpj/pen/roWvLw
+3. Rest / spread operator video - https://www.youtube.com/watch?v=j2DMwUYEC88
