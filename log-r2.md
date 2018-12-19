@@ -846,3 +846,15 @@ Link(s) to work
 2. Video - https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&index=2&t=90s
 
 
+Day 78 - Wednesday 19 December 2018
+Today's Progress: 
+Review / Learn:
+
+Project:
+- Worked on Claude's, making reservations page responsive, adding some final styling to the form and tidying up file structure for css files
+
+Thoughts: 
+
+Link(s) to work
+1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
+
