@@ -851,6 +851,7 @@ Today's Progress:
 Review / Learn:
 - Reviewed spread / rest operators using a youtube video, linked below.
 - Watched a video tutorial about creating a nice CSS image-hover effect
+- Finished writing blog article on the Trump-o-matic, reviewing AJAX
 
 Project:
 - Worked on Claude's, making reservations page responsive, adding some final styling to the form and tidying up file structure for css files
