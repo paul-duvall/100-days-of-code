@@ -870,9 +870,12 @@ Today's Progress:
 Review / Learn:
 - Finished writing blog article about spread / rest to review
 - Continued play around with html5 canvas, created an animated square that bounces around the canvas, changing size
+
 Project:
+- Added content and styling for About Us page for Claude's
 
 Thoughts: 
 
 Link(s) to work
 1. HTML5 Canvas - https://github.com/paul-duvall/html5-canvas/blob/master/canvas-animated3.js
+2. Claude's About Us page - https://wonderful-wilson-e250a9.netlify.com/about_us.html
