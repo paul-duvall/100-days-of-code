@@ -863,3 +863,16 @@ Link(s) to work
 1. Claude's - https://github.com/paul-duvall/Claudes-restaurant
 2. Hover-over effect - https://codepen.io/duvallpj/pen/roWvLw
 3. Rest / spread operator video - https://www.youtube.com/watch?v=j2DMwUYEC88
+
+
+Day 79 - Thursday 20 December 2018
+Today's Progress: 
+Review / Learn:
+- Finished writing blog article about spread / rest to review
+- Continued play around with html5 canvas, created an animated square that bounces around the canvas, changing size
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. HTML5 Canvas - https://github.com/paul-duvall/html5-canvas/blob/master/canvas-animated3.js
