@@ -870,6 +870,8 @@ Today's Progress:
 Review / Learn:
 - Finished writing blog article about spread / rest to review
 - Continued play around with html5 canvas, created an animated square that bounces around the canvas, changing size
+- JS30 video tutorial about the difference between reference and copy in JS
+- Rewatch video on module pattern in preparation for project / blog article
 
 Project:
 - Added content and styling for About Us page for Claude's
