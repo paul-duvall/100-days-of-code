@@ -881,3 +881,16 @@ Thoughts:
 Link(s) to work
 1. HTML5 Canvas - https://github.com/paul-duvall/html5-canvas/blob/master/canvas-animated3.js
 2. Claude's About Us page - https://wonderful-wilson-e250a9.netlify.com/about_us.html
+
+
+Day 80 - Friday 21 December 2018
+Today's Progress: 
+Review / Learn:
+
+Project:
+- Started to work on DevLearn app, creating a mock up of main screen, starting to build out interface and structure javascript
+
+Thoughts: Quite apprehensive about this project and I feel I may have bitten off more than I can chew, but then again, that may be a good thing!
+
+Link(s) to work
+1. DevLearn - https://github.com/paul-duvall/devlearn
