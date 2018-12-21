@@ -886,6 +886,7 @@ Link(s) to work
 Day 80 - Friday 21 December 2018
 Today's Progress: 
 Review / Learn:
+- Posted article about Trump-o-matic to blog
 
 Project:
 - Started to work on DevLearn app, creating a mock up of main screen, starting to build out interface and structure javascript
