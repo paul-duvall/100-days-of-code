@@ -895,3 +895,17 @@ Thoughts: Quite apprehensive about this project and I feel I may have bitten off
 
 Link(s) to work
 1. DevLearn - https://github.com/paul-duvall/devlearn
+
+
+Day 81 - Sunday 23 December 2018
+Today's Progress: 
+Review / Learn:
+
+
+Project:
+- Continued with devLearn, adding item contstructor and data structure to task controller and initialising function to App controller
+
+Thoughts: 
+
+Link(s) to work
+1. DevLearn - https://github.com/paul-duvall/devlearn
