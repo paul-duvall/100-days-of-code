@@ -900,7 +900,7 @@ Link(s) to work
 Day 81 - Sunday 23 December 2018
 Today's Progress: 
 Review / Learn:
-
+- Reviewed promises and fetch api, starting an article on the latter.
 
 Project:
 - Continued with devLearn, adding item contstructor and data structure to task controller and initialising function to App controller
