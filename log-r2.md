@@ -915,6 +915,7 @@ Day 82 - Monday 24 December 2018
 Today's Progress: 
 Review / Learn:
 - Completed article on fetch API
+- Completed JS30 tutorial about local storage and event delegation
 
 Project:
 - Continued with devLearn, adding function to populate tasks to the DOM. This now works for hard-coded practice data. Some styling added and layout adjusted.
