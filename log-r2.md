@@ -918,8 +918,10 @@ Review / Learn:
 
 Project:
 - Continued with devLearn, adding function to populate tasks to the DOM. This now works for hard-coded practice data. Some styling added and layout adjusted.
+- About us page on Claude's made responsive
 
 Thoughts: 
 
 Link(s) to work
 1. DevLearn - https://github.com/paul-duvall/devlearn
+2. Claude's About Us page - https://wonderful-wilson-e250a9.netlify.com/about_us.html
