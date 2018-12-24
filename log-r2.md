@@ -925,3 +925,4 @@ Thoughts:
 Link(s) to work
 1. DevLearn - https://github.com/paul-duvall/devlearn
 2. Claude's About Us page - https://wonderful-wilson-e250a9.netlify.com/about_us.html
+3. JS30 - https://github.com/paul-duvall/30-days-of-javascript
