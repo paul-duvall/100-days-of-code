@@ -927,3 +927,15 @@ Link(s) to work
 1. DevLearn - https://github.com/paul-duvall/devlearn
 2. Claude's About Us page - https://wonderful-wilson-e250a9.netlify.com/about_us.html
 3. JS30 - https://github.com/paul-duvall/30-days-of-javascript
+
+
+Day 83 - Sunday 27 December 2018
+Today's Progress: 
+Review / Learn:
+Project:
+- Continued with devLearn, adding functionality to add data inputed by user to the data structure
+
+Thoughts: 
+
+Link(s) to work
+1. DevLearn - https://github.com/paul-duvall/devlearn
