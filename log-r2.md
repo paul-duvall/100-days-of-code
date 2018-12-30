@@ -929,11 +929,24 @@ Link(s) to work
 3. JS30 - https://github.com/paul-duvall/30-days-of-javascript
 
 
-Day 83 - Sunday 27 December 2018
+Day 83 - Thursday 27 December 2018
 Today's Progress: 
 Review / Learn:
 Project:
 - Continued with devLearn, adding functionality to add data inputed by user to the data structure
+
+Thoughts: 
+
+Link(s) to work
+1. DevLearn - https://github.com/paul-duvall/devlearn
+
+
+
+Day 84 - Sunday 30 December 2018
+Today's Progress: 
+Review / Learn:
+Project:
+- Continued with devLearn, adding functionality update UI with data from data structure (along with clearing form fields after data is successfully added and closing the modal window automatically)
 
 Thoughts: 
 
