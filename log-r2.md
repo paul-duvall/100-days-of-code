@@ -957,7 +957,7 @@ Link(s) to work
 Day 85 - Wednesday 2 January 2019
 Today's Progress: 
 Review / Learn:
-- Started React course. Installed node.js, yarn, live-server
+- Started React course. Installed node.js, yarn, live-server, babel and started using JSX and ReactDOM.render
 Project:
 
 Thoughts: 
