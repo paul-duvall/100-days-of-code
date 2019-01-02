@@ -952,3 +952,15 @@ Thoughts:
 
 Link(s) to work
 1. DevLearn - https://github.com/paul-duvall/devlearn
+
+
+Day 85 - Wednesday 2 January 2019
+Today's Progress: 
+Review / Learn:
+- Started React course. Installed node.js, yarn, live-server
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. DevLearn - https://github.com/paul-duvall/devlearn
