@@ -963,4 +963,14 @@ Project:
 Thoughts: 
 
 Link(s) to work
-1. DevLearn - https://github.com/paul-duvall/devlearn
+
+Day 86 - Thursday 3 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued React course, completing rendering using JSX and then completing ES6 review sections on const / let and arrow function
+Project:
+
+Thoughts: Course is very clear, mini-challenges are welcome (not present in Javascript from the beginning). They are do-able and definitely help in reinforcing what has been covered.
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
