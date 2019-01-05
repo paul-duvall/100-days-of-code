@@ -974,3 +974,13 @@ Thoughts: Course is very clear, mini-challenges are welcome (not present in Java
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 87 - Saturday 5 January 2019
+Today's Progress: 
+Review / Learn:
+- Started writing article about arrow functions
+
+Thoughts: Used React course video and some other resources to write article, hoping that this will cement arrow functions once and for all in my brain!
+
+Link(s) to work
