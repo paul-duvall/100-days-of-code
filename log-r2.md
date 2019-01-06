@@ -990,6 +990,9 @@ Day 88 - Sunday 6 January 2019
 Today's Progress: 
 Review / Learn:
 - Watched 'The all-powerful frontend developer' Chris Coyier talk
+- Finished writing article on arrow functions
+
+Project:
 
 Thoughts: Used React course video and some other resources to write article, hoping that this will cement arrow functions once and for all in my brain!
 
