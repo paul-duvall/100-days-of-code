@@ -991,7 +991,7 @@ Today's Progress:
 Review / Learn:
 - Watched 'The all-powerful frontend developer' Chris Coyier talk
 - Finished writing article on arrow functions
-- Continued with React course, learning about events and attributes.
+- Continued with React course, learning about events and attributes. Created a simple counter app that required events to update the DOM with a current count. Worked with forms and input to use user input to update data within an array.
 
 Project:
 
