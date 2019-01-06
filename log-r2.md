@@ -991,10 +991,11 @@ Today's Progress:
 Review / Learn:
 - Watched 'The all-powerful frontend developer' Chris Coyier talk
 - Finished writing article on arrow functions
+- Continued with React course, learning about events and attributes.
 
 Project:
 
-Thoughts: Used React course video and some other resources to write article, hoping that this will cement arrow functions once and for all in my brain!
+Thoughts: React thoughts - Some attributes within JSX are named diffrently, for example class becomes className. Most attributes(?) are camelcased. click events can be created using the onClick attribute, which can be set using curly brackets to run a function located elsewhere.
 
 Link(s) to work
 1. The all-powerful frontend developer - https://www.youtube.com/watch?v=vXJpOHz3_sY&list=WL&index=126&t=1s
