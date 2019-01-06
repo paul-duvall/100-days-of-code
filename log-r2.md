@@ -984,3 +984,14 @@ Review / Learn:
 Thoughts: Used React course video and some other resources to write article, hoping that this will cement arrow functions once and for all in my brain!
 
 Link(s) to work
+
+
+Day 88 - Sunday 6 January 2019
+Today's Progress: 
+Review / Learn:
+- Watched 'The all-powerful frontend developer' Chris Coyier talk
+
+Thoughts: Used React course video and some other resources to write article, hoping that this will cement arrow functions once and for all in my brain!
+
+Link(s) to work
+1. The all-powerful frontend developer - https://www.youtube.com/watch?v=vXJpOHz3_sY&list=WL&index=126&t=1s
