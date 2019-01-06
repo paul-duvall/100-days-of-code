@@ -992,6 +992,7 @@ Review / Learn:
 - Watched 'The all-powerful frontend developer' Chris Coyier talk
 - Finished writing article on arrow functions
 - Continued with React course, learning about events and attributes. Created a simple counter app that required events to update the DOM with a current count. Worked with forms and input to use user input to update data within an array.
+- Posted article to blog about rest parameter / spread operator
 
 Project:
 
@@ -999,3 +1000,4 @@ Thoughts: React thoughts - Some attributes within JSX are named diffrently, for 
 
 Link(s) to work
 1. The all-powerful frontend developer - https://www.youtube.com/watch?v=vXJpOHz3_sY&list=WL&index=126&t=1s
+2. React course files - https://github.com/paul-duvall/complete-react-course
