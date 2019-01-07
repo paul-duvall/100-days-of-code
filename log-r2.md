@@ -1001,3 +1001,16 @@ Thoughts: React thoughts - Some attributes within JSX are named diffrently, for 
 Link(s) to work
 1. The all-powerful frontend developer - https://www.youtube.com/watch?v=vXJpOHz3_sY&list=WL&index=126&t=1s
 2. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 89 - Monday 7 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued with React course, learning about how JSX handles arrays and using this knowledge to update the 'pick an random option' functionality in the Indecision App. Also completed a mini-challenge, reviewing what has been learnt so far by building a simple app with a button that toggles the visibility of some text.
+
+Project:
+
+Thoughts: 
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
