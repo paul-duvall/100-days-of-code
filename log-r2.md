@@ -1014,3 +1014,16 @@ Thoughts:
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 90 - Tuesday 8 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued with React course, reviewing ES6 classes
+
+Project:
+
+Thoughts: Very thorough overview of a topic I've covered a number of times. Again, really clear explanation and actually filled in some gaps / clarified some aspects.
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
