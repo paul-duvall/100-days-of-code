@@ -1035,9 +1035,9 @@ Review / Learn:
 - Continued with React course, learning about React components. Learn how to set up a React component, how to create nested components, using component props, using events and methods within components
 
 Project:
+- Made list of tasks to do for the devLearn app
 
 Thoughts:
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
-
