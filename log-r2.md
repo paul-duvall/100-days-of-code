@@ -1032,11 +1032,11 @@ Link(s) to work
 Day 91 - Wednesday 9 January 2019
 Today's Progress: 
 Review / Learn:
-- Continued with React course, learning about React components. Learn how to set up a React component, how to create nested components
+- Continued with React course, learning about React components. Learn how to set up a React component, how to create nested components, using component props
 
 Project:
 
-Thoughts: Very thorough overview of a topic I've covered a number of times. Again, really clear explanation and actually filled in some gaps / clarified some aspects.
+Thoughts:
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
