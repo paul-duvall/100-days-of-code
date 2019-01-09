@@ -1033,6 +1033,7 @@ Day 91 - Wednesday 9 January 2019
 Today's Progress: 
 Review / Learn:
 - Continued with React course, learning about React components. Learn how to set up a React component, how to create nested components, using component props, using events and methods within components
+- Two more days of Javascript30 completed
 
 Project:
 - Made list of tasks to do for the devLearn app, integrated the modal js code into the main file structure, made live via Netlify
@@ -1041,5 +1042,4 @@ Thoughts: Good to make some progress on personal project even though uploading i
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
-2. devLearn - https://boring-bohr-ee6bf1.netlify.com/
 2. devLearn - https://boring-bohr-ee6bf1.netlify.com/
