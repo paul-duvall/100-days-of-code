@@ -1049,10 +1049,10 @@ Link(s) to work
 Day 92 - Friday 11 January 2019
 Today's Progress: 
 Review / Learn:
-- Continued with React course, learning about method binding and component state
+- Continued with React course, learning about method binding and component state, including setState(). Updated the Counter and VisibilityToggle apps using React components and state
 
 Project:
-Thoughts: Definitely going to have to review this React concepts again - did not make a whole lot of sense to me!
+Thoughts: Definitely going to have to review these React concepts again - particularly binding and using bind(this) within the the constructor function of a React component
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
