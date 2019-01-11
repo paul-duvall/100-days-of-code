@@ -1043,3 +1043,16 @@ Thoughts: Good to make some progress on personal project even though uploading i
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
 2. devLearn - https://boring-bohr-ee6bf1.netlify.com/
+
+
+
+Day 92 - Friday 11 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued with React course, learning about method binding and component state
+
+Project:
+Thoughts: Definitely going to have to review this React concepts again - did not make a whole lot of sense to me!
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
