@@ -1061,7 +1061,7 @@ Link(s) to work
 Day 93-94 - Saturday / Sunday 12-13 January 2019
 Today's Progress: 
 Review / Learn:
-- Started a tutorial video to brush up on HTML / CSS fundamentals ahead of making new portfolio
+- Worked through a tutorial video to brush up on HTML / CSS fundamentals ahead of making new portfolio
 - Worked through a video tutorial series on Adobe XD, learning the fundamentals of using this software
 
 Project:
