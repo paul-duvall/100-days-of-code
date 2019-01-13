@@ -1056,3 +1056,18 @@ Thoughts: Definitely going to have to review these React concepts again - partic
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 93-94 - Saturday / Sunday 12-13 January 2019
+Today's Progress: 
+Review / Learn:
+- Started a tutorial video to brush up on HTML / CSS fundamentals ahead of making new portfolio
+- Worked through a video tutorial series on Adobe XD, learning the fundamentals of using this software
+
+Project:
+- Researched some other portfolios and started to put together design using Adobe XD
+
+Thoughts: 
+
+Link(s) to work
+1. Portfolio 2 files - https://github.com/paul-duvall/portfolio-2
