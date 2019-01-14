@@ -1071,3 +1071,15 @@ Thoughts:
 
 Link(s) to work
 1. Portfolio 2 files - https://github.com/paul-duvall/portfolio-2
+
+
+Day 95 - Monday 14 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued with React course, implimenting state and some other functionality to the Indecision App
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
