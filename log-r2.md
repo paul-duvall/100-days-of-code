@@ -1094,6 +1094,7 @@ Review / Learn:
   - React dev tools
   - lifecycle methods, including componentDidMount and componentDidUpdate
 Also added functionality to Indecision App to allow individual options to be removed. This required the use of filter() as well as an understanding of how to pass methods down multiple layers of components using props. Also used componentDidMount and componentDidUpdate to work with local storage
+- Posted article about fetch API to my blog
 
 Project:
 Thoughts: 
