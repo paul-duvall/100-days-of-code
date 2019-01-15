@@ -1083,3 +1083,20 @@ Thoughts:
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 96 - Tuesday 15 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued with React course, learning about:
+  - Stateless functional components
+  - default prop values
+  - React dev tools
+  - lifecycle methods
+Also added functionality to Indecision App to allow individual options to be removed. This required the use of filter() as well as an understanding of how to pass methods down multiple layers of components using props.
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
