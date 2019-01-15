@@ -1097,7 +1097,10 @@ Also added functionality to Indecision App to allow individual options to be rem
 - Posted article about fetch API to my blog
 
 Project:
+- Fixed bug in devLearn (items not being loaded into data object when added) and started to work on local storage
+
 Thoughts: 
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+2. devLearn - https://boring-bohr-ee6bf1.netlify.com/
