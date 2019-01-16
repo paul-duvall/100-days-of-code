@@ -1110,6 +1110,7 @@ Day 97 - Wednesday 16 January 2019
 Today's Progress: 
 Review / Learn:
 - Read about HSB / HSL Colour
+- Continued React course, starting the section on webpack
 
 Project:
 - Continued with portfolio redesign in Adobe XD
