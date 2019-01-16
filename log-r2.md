@@ -1104,3 +1104,18 @@ Thoughts:
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
 2. devLearn - https://boring-bohr-ee6bf1.netlify.com/
+
+
+Day 97 - Wednesday 16 January 2019
+Today's Progress: 
+Review / Learn:
+- Read about HSB / HSL Colour
+
+Project:
+- Continued with portfolio redesign in Adobe XD
+- Contacted three local businesses to offer to make them a website for free
+
+Thoughts: 
+
+Link(s) to work
+1. 
