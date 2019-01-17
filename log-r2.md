@@ -1110,7 +1110,7 @@ Day 97 - Wednesday 16 January 2019
 Today's Progress: 
 Review / Learn:
 - Read about HSB / HSL Colour
-- Continued React course, starting the section on webpack
+- Continued React course, starting the section on webpack, learning how to how to use import / export
 
 Project:
 - Continued with portfolio redesign in Adobe XD
@@ -1119,4 +1119,17 @@ Project:
 Thoughts: 
 
 Link(s) to work
-1. 
+1. 1. Portfolio 2 files - https://github.com/paul-duvall/portfolio-2
+
+
+Day 98 - Thursday 17 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued webpack section of React course, learning how to set default imports, importing node modules, and setting up babel with webpack
+
+Project:
+Thoughts: There has been a lot of super techy stuff here and a lot of the times I'm really just doing what the teacher says with what amounts to a cursory understanding of what is actually going on. Without a doubt, I'm going to have to watch this again but this is an amazing introduction to the work of webpack, babel, yarn, etc.
+
+Link(s) to work
+1. Portfolio 2 files - https://github.com/paul-duvall/portfolio-2
+2. React course files - https://github.com/paul-duvall/complete-react-course
