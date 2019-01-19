@@ -1139,7 +1139,7 @@ Link(s) to work
 Day 99 - Saturday 19 January 2019
 Today's Progress: 
 Review / Learn:
-- Continued webpack section of React course, splitting IndecisionApp down into multiple component files and linking them using import/export
+- Continued webpack section of React course, splitting IndecisionApp down into multiple component files and linking them using import/export, using source maps and webpack dev server for webpack, installing and using a third party component.
 
 Project:
 Thoughts: 
