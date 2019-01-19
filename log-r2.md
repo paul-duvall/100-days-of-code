@@ -1133,3 +1133,16 @@ Thoughts: There has been a lot of super techy stuff here and a lot of the times 
 Link(s) to work
 1. Portfolio 2 files - https://github.com/paul-duvall/portfolio-2
 2. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+
+Day 99 - Saturday 19 January 2019
+Today's Progress: 
+Review / Learn:
+- Continued webpack section of React course, splitting IndecisionApp down into multiple component files and linking them using import/export
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
