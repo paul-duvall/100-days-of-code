@@ -1154,6 +1154,8 @@ Review / Learn:
 - Completed the styling section for the first part of the React course, styling the indecision app using Sass - setting up webpack with SCSS, theming with variables, styling a third-party component, responsivity using media queries and including a favicon
 
 Project:
+- Update learning tracker with new skills and adding first project
+
 Thoughts: 
 
 Link(s) to work
