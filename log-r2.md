@@ -1146,3 +1146,15 @@ Thoughts:
 
 Link(s) to work
 1. React course files - https://github.com/paul-duvall/complete-react-course
+
+
+Day 100 - Sunday 20 January 2019
+Today's Progress: 
+Review / Learn:
+- Completed the styling section for the first part of the React course, styling the indecision app using Sass - setting up webpack with SCSS, theming with variables, styling a third-party component, responsivity using media queries and including a favicon
+
+Project:
+Thoughts: 
+
+Link(s) to work
+1. React course files - https://github.com/paul-duvall/complete-react-course
