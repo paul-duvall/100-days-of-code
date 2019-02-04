@@ -1,12 +1,10 @@
 # 100 Days of Code - Round 3
 
 ## Day 1
-### Sunday 20 January 2019 
-
-#### Today's Progress: 
+### Monday 4 February 2019 
 
 #### Review / Learn:
-Completed the styling section for the first part of the React course, styling the indecision app using Sass - setting up webpack with SCSS, theming with variables, styling a third-party component, responsivity using media queries and including a favicon
+* Watched a couple of videos on brand design by Philip VanDusen, [Trends in Graphic Design](https://www.youtube.com/watch?v=uM7XB0oUP7k) and [9 Brand Design Elements Your Brand Must Have](https://www.youtube.com/watch?v=jB57Pc1W6Ys).
 
 #### Project:
 Update learning tracker with new skills and adding first project
