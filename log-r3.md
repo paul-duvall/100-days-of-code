@@ -3,7 +3,7 @@
 ## Day 1
 ### Sunday 20 January 2019 
 
-### Today's Progress: 
+#### Today's Progress: 
 
 #### Review / Learn:
 Completed the styling section for the first part of the React course, styling the indecision app using Sass - setting up webpack with SCSS, theming with variables, styling a third-party component, responsivity using media queries and including a favicon
