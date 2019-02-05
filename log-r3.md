@@ -25,6 +25,7 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 
 #### Review / Learn:
 * Listened to Syntax podcast about [CSS Layout](https://syntax.fm/show/104/css-layout), reviewing the basics including position, viewport units, responsive design. **Investigate**: viewport units vmin and vmax.
+* Re-listened to Shoptalk podcast - [Dan Mall on Building a Portfolio](https://shoptalkshow.com/episodes/329-dan-mall-building-portfolio/)
 * Learnt how to use SkyFonts to install Google Fonts on to desktop; installed fonts for portfolio project
 * Read about web font sizing guidelines [here](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html) on the Learn UI Design Blog.
 * Started the Advanced CSS and Sass course on Udemy, beginning the first project, a website called Natours. Worked on creating the header section, which involved creating a background with an image, a gradient overlay and a 'wedge' effect with an angled side. Centring the title achieved using absolute positioning, defining top and left properties using percentages and then using transform: translate(-50%, -50%).
@@ -43,3 +44,4 @@ So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot
 #### Link(s) to work
 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Natours](https://github.com/paul-duvall/Natours)
