@@ -19,3 +19,21 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 #### Link(s) to work
 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+
+## Day 2
+### Tuesday 5 February 2019 
+
+#### Review / Learn:
+* Listened to Syntax podcast about [CSS Layout](https://syntax.fm/show/104/css-layout), reviewing the basics including position, viewport units, responsive design. **Investigate**: viewport units vmin and vmax.
+
+#### Project:
+* Finished some minor details of portfolio front page design, tweaking colours. 
+* Created complete front page design of portfolio for smaller viewports.
+* Started work on portfolio projects page design
+
+#### Thoughts:
+At the start of today,
+
+#### Link(s) to work
+
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
