@@ -25,6 +25,7 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 
 #### Review / Learn:
 * Listened to Syntax podcast about [CSS Layout](https://syntax.fm/show/104/css-layout), reviewing the basics including position, viewport units, responsive design. **Investigate**: viewport units vmin and vmax.
+* Learnt how to use SkyFonts to install Google Fonts on to desktop; installed fonts for portfolio project
 
 #### Project:
 * Finished some minor details of portfolio front page design, tweaking colours. 
