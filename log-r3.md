@@ -27,7 +27,7 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 * Listened to Syntax podcast about [CSS Layout](https://syntax.fm/show/104/css-layout), reviewing the basics including position, viewport units, responsive design. **Investigate**: viewport units vmin and vmax.
 * Learnt how to use SkyFonts to install Google Fonts on to desktop; installed fonts for portfolio project
 * Read about web font sizing guidelines [here](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html) on the Learn UI Design Blog.
-* Started the Advanced CSS and Sass course on Udemy, beginning the first project, a website called Natours.
+* Started the Advanced CSS and Sass course on Udemy, beginning the first project, a website called Natours. Worked on creating the header section, which involved creating a background with an image, a gradient overlay and a 'wedge' effect with an angled side. Centring the title achieved using absolute positioning, defining top and left properties using percentages and then using transform: translate(-50%, -50%).
 
 #### Project:
 * Finished some minor details of portfolio front page design, tweaking colours. 
@@ -36,7 +36,9 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 * Started work on portfolio projects page design
 
 #### Thoughts:
-At the start of today,
+Made some good progress on portfolio design - I was pleased that I got the fonts sorted out and some more fine-tuning of colours. I really want to push on with this and get the design finished as soon as humanly possible. Next, I will finish the projects page (including creating small-viewport version) and hopefully push on to creating about, skills and contact pages shortly. These should be more straight-forward.
+
+So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot of detail and explains all decisions fully. I would really like to push on with this quickly so I can impliment Sass in my upcoming cafe website project. This is the reason why I have prioritised this course over the React course, which I was loving, but it would be really beneficial to have a new technology I can integrate into a live project.
 
 #### Link(s) to work
 
