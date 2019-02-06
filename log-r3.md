@@ -50,7 +50,7 @@ So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot
 ### Wednesday 6 February 2019 
 
 #### Review / Learn:
-* Listened to Syntax podcast about [Tidying up code](https://syntax.fm/show/111/hasty-treat-tidying-up-code); suggestions included removing commented-out code
+* Listened to Syntax podcast about [Tidying up code](https://syntax.fm/show/111/hasty-treat-tidying-up-code); suggestions included removing commented-out code, removing unused CSS (apparently there is a Chrome dev tool that helps with that), organising code, using code formatted such as Prettier or ESLint
 
 #### Project:
 * Completed design of projects page and created mobile version
