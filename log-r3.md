@@ -51,16 +51,19 @@ So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot
 
 #### Review / Learn:
 * Listened to Syntax podcast about [Tidying up code](https://syntax.fm/show/111/hasty-treat-tidying-up-code); suggestions included removing commented-out code, removing unused CSS (apparently there is a Chrome dev tool that helps with that), organising code, using code formatted such as Prettier or ESLint
+* Listen to CodeNewbie podcast [How do I level up?(Ben Orenstein)](https://www.codenewbie.org/podcast/how-do-i-level-up)
 
 #### Project:
 * Completed design of projects page and created mobile version
-* Created design of about page
+* Created design of about page, including larger and smaller viewports
+* Created design of skills page, including larger and smaller viewports 
 
 #### Thoughts:
-
+Pushed on through with the portfolio redesign; really pleased with the results. Only the contact page to go and then I'll be ready to start code. Will get through as much of the advanced CSS / Sass course tomorrow - on reflection and discussing with a friend, have decided I should be implementing Sass in my portfolio. Also need to do a review of CSS Grid so I can use that as much as possible for the layout.
 
 #### Link(s) to work
-Links here
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+
 
 ## Day 
 ### Tuesday 5 February 2019 
