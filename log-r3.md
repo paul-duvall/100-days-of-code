@@ -45,3 +45,34 @@ So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot
 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 [Natours](https://github.com/paul-duvall/Natours)
+
+## Day 3
+### Wednesday 6 February 2019 
+
+#### Review / Learn:
+* Listened to Syntax podcast about [Tidying up code](https://syntax.fm/show/111/hasty-treat-tidying-up-code); suggestions included removing commented-out code
+
+#### Project:
+* Completed design of projects page and created mobile version
+* Created design of about page
+
+#### Thoughts:
+
+
+#### Link(s) to work
+Links here
+
+## Day 
+### Tuesday 5 February 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+Links here
