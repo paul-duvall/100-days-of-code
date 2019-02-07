@@ -70,7 +70,8 @@ Pushed on through with the portfolio redesign; really pleased with the results. 
 
 #### Review / Learn:
 * Continued the Advanced CSS and Sass course on Udemy, working on the first project, a website called Natours. Added in 'move-in' animation on title and subtitle text using keyframes (animation set using percentages with transform and opacity). Involved using the following CSS properties on the class of the item being animated - animation-name, animation-duration, animation-timing-function (can all be set using the shorthand animation property).
-* Also added a button with subtle hover over and active animations (used pseudo-classes - link, visited, hover and active).
+* Added a button with subtle hover over and active animations (used pseudo-classes - link, visited, hover and active).
+* Used the CSS after selector to add an interesting hover effect and animated the button using another keyframe.
 
 #### Project:
 * 
