@@ -80,9 +80,7 @@ Pushed on through with the portfolio redesign; really pleased with the results. 
 
 ![What happens to CSS when we load a webpage?](https://raw.githubusercontent.com/paul-duvall/website_images/master/sass-course-loading-webpage.jpg)
 
-
-#### Project:
-* 
+* Aaaaaaand.....watched a video about the cascade and issues of specificity. Main take-home points were to only use !important as a last resort, use IDs to be super-specific, whilst order of selectors is an important consideration, it is better to rely on specificity.
 
 #### Thoughts:
 Thoughts here
