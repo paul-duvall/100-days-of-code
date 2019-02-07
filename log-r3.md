@@ -72,7 +72,10 @@ Pushed on through with the portfolio redesign; really pleased with the results. 
 * Continued the Advanced CSS and Sass course on Udemy, working on the first project, a website called Natours. Added in 'move-in' animation on title and subtitle text using keyframes (animation set using percentages with transform and opacity). Involved using the following CSS properties on the class of the item being animated - animation-name, animation-duration, animation-timing-function (can all be set using the shorthand animation property).
 * Added a button with subtle hover over and active animations (used pseudo-classes - link, visited, hover and active).
 * Used the CSS after selector to add an interesting hover effect and animated the button using another keyframe.
-* Watched short overview video highlighting what the tutor considers the '3 pillars of web development' - responsive design, writing maintainable and scalable code and web performance.
+* Watched short overview video highlighting what the tutor considers the '3 pillars of web development' - responsive design, writing maintainable and scalable code and web performance:
+
+![Three pillars of web development](https://raw.githubusercontent.com/paul-duvall/website_images/master/sass-course-three-pillars.jpg)
+
 * Watched short overview of what happens to CSS when a webpage is loaded:
 
 ![What happens to CSS when we load a webpage?](https://raw.githubusercontent.com/paul-duvall/website_images/master/sass-course-loading-webpage.jpg)
