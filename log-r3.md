@@ -83,10 +83,10 @@ Pushed on through with the portfolio redesign; really pleased with the results. 
 * Aaaaaaand.....watched a video about the cascade and issues of specificity. Main take-home points were to only use !important as a last resort, use IDs to be super-specific, whilst order of selectors is an important consideration, it is better to rely on specificity.
 
 #### Thoughts:
-Thoughts here
+Worked today so less coding done. Pushed on with the Advanced CSS and Sass course. Need to get through at least the first three sections, if not sections 4 / 5 as well. If I could do that (along with finishing final bit of design + researching cafe websites) over the next three days, I'd be very pleased.
 
 #### Link(s) to work
-Links here
+[Natours](https://github.com/paul-duvall/Natours)
 
 
 ## Day 
