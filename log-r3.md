@@ -90,7 +90,7 @@ Worked today so less coding done. Pushed on with the Advanced CSS and Sass cours
 
 
 ## Day 5
-### Tuesday 8 February 2019 
+### Friday 8 February 2019 
 
 #### Review / Learn:
 * Continued the Advanced CSS and Sass course on Udemy, watching tutorials on how CSS values are processed when a page is rendered and inheritance of CSS properties.
@@ -100,6 +100,23 @@ Worked today so less coding done. Pushed on with the Advanced CSS and Sass cours
 
 #### Thoughts:
 Pushed on through some less-than-thrilling CSS theory tutorials, much of it review but still good to get a fuller picture. Implimented BEM in the course project. Sass tomorrow.
+
+#### Link(s) to work
+Links here
+
+
+## Day 6
+### Saturday 9 February 2019 
+
+#### Review / Learn:
+* Completed introductory Sass tutorial videos, learning about variables, nesting, mixins and extends
+* Read an article, [The Great Divide](https://css-tricks.com/the-great-divide/) which outlines how 'front-end developer' is increasingly not a descriptive enough term as it seems to cover to broad camps which do not necessarily overlap - those who heavily use JavaScript for front-end work and those who are primarily interested in more UX-focused areas (including CSS, HTML, accessability, etc.).
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
 
 #### Link(s) to work
 Links here
