@@ -110,6 +110,7 @@ Links here
 
 #### Review / Learn:
 * Completed introductory Sass tutorial videos, learning about variables, nesting, mixins and extends
+* Used Yarn to add Sass to tutorial project, setting up a script in the package.json to compile
 * Read an article, [The Great Divide](https://css-tricks.com/the-great-divide/) which outlines how 'front-end developer' is increasingly not a descriptive enough term as it seems to cover to broad camps which do not necessarily overlap - those who heavily use JavaScript for front-end work and those who are primarily interested in more UX-focused areas (including CSS, HTML, accessability, etc.).
 
 #### Project:
