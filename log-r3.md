@@ -127,6 +127,7 @@ Pushed on through some less-than-thrilling CSS theory tutorials, much of it revi
 
 #### Review / Learn:
 * Rewatched first part of Wes Bos' [CSS Grid](https://cssgrid.io/) tutorial series.
+* Wrote and published blog artice about #100DaysOfCode round 2
 
 #### Project:
 * Set up dev environment, initialising with package.json and installing Sass
