@@ -102,7 +102,7 @@ Worked today so less coding done. Pushed on with the Advanced CSS and Sass cours
 Pushed on through some less-than-thrilling CSS theory tutorials, much of it review but still good to get a fuller picture. Implimented BEM in the course project. Sass tomorrow.
 
 #### Link(s) to work
-Links here
+[Natours](https://github.com/paul-duvall/Natours)
 
 
 ## Day 6
@@ -118,14 +118,29 @@ Links here
 
 * Read an article, [The Great Divide](https://css-tricks.com/the-great-divide/) which outlines how 'front-end developer' is increasingly not a descriptive enough term as it seems to cover to broad camps which do not necessarily overlap - those who heavily use JavaScript for front-end work and those who are primarily interested in more UX-focused areas (including CSS, HTML, accessability, etc.).
 
+#### Link(s) to work
+[Natours](https://github.com/paul-duvall/Natours)
+
+
+## Day 7
+### Sunday 10 February 2019 
+
+#### Review / Learn:
+* Rewatched first part of Wes Bos' [CSS Grid](https://cssgrid.io/) tutorial series.
+
 #### Project:
-* 
+* Set up dev environment, initialising with package.json and installing Sass
+* Set up folder structure and some initial Sass folders and partials.
+* Set up index.html, linked in CSS and wrote markup for the front page header section
+* Started to write SCSS for header elements
 
 #### Thoughts:
-Thoughts here
+I'm very keen to impliment CSS Grid in Portfolio 2, since I've never used it in a major project before, despite having learnt it before. This is why I having put some time in today to review this. 
+
+Very pleased to have begun coding work on Portfolio 2. Happy that the process of setting it up with Sass went smoothly and appears to be running correctly!
 
 #### Link(s) to work
-Links here
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
 
 ## Day 
