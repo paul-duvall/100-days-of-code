@@ -133,6 +133,7 @@ Pushed on through some less-than-thrilling CSS theory tutorials, much of it revi
 * Set up folder structure and some initial Sass folders and partials.
 * Set up index.html, linked in CSS and wrote markup for the front page header section
 * Started to write SCSS for header elements
+* Imported Google Fonts and set up variables for the main colours
 
 #### Thoughts:
 I'm very keen to impliment CSS Grid in Portfolio 2, since I've never used it in a major project before, despite having learnt it before. This is why I having put some time in today to review this. 
