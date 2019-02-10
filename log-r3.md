@@ -132,6 +132,7 @@ Pushed on through some less-than-thrilling CSS theory tutorials, much of it revi
 * Set up dev environment, initialising with package.json and installing Sass
 * Set up folder structure and some initial Sass folders and partials.
 * Set up index.html, linked in CSS and wrote markup for the front page header section
+* Used BEM naming convention for classes
 * Started to write SCSS for header elements
 * Imported Google Fonts and set up variables for the main colours
 
