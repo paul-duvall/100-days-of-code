@@ -146,6 +146,23 @@ Very pleased to have begun coding work on Portfolio 2. Happy that the process of
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
 
+## Day 8
+### Monday 11 February 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Started working on the layout of the header section and adding styling to name text
+* Begun compiling links to insiprational pages on Dribble for Lemon Tree Cafe website
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+Links here
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
