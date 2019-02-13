@@ -20,7 +20,7 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
-![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+<p style="text-align: center;">![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)</p>
 
 ## Day 2
 ### Tuesday 5 February 2019 
