@@ -20,7 +20,7 @@ I'm really pleased with the design work I've done on my portfolio today, buildin
 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
-<p style="text-align: center;">![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)</p>
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 2
 ### Tuesday 5 February 2019 
@@ -48,6 +48,8 @@ So far, the Advanced CSS and Sass course is promising; the tutor goes into a lot
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 [Natours](https://github.com/paul-duvall/Natours)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 ## Day 3
 ### Wednesday 6 February 2019 
 
@@ -66,6 +68,7 @@ Pushed on through with the portfolio redesign; really pleased with the results. 
 #### Link(s) to work
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 4
 ### Thursday 7 February 2019 
@@ -90,6 +93,7 @@ Worked today so less coding done. Pushed on with the Advanced CSS and Sass cours
 #### Link(s) to work
 [Natours](https://github.com/paul-duvall/Natours)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 5
 ### Friday 8 February 2019 
@@ -106,6 +110,7 @@ Pushed on through some less-than-thrilling CSS theory tutorials, much of it revi
 #### Link(s) to work
 [Natours](https://github.com/paul-duvall/Natours)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 6
 ### Saturday 9 February 2019 
@@ -123,6 +128,7 @@ Pushed on through some less-than-thrilling CSS theory tutorials, much of it revi
 #### Link(s) to work
 [Natours](https://github.com/paul-duvall/Natours)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 7
 ### Sunday 10 February 2019 
@@ -147,6 +153,7 @@ Very pleased to have begun coding work on Portfolio 2. Happy that the process of
 #### Link(s) to work
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 8
 ### Monday 11 February 2019 
@@ -161,6 +168,7 @@ Portfolio header starting to look as it should; annoyingly, it seems that it is 
 #### Link(s) to work
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 9 / 10
 ### Tuesday / Wednesday 12 / 13 February 2019 
@@ -177,7 +185,7 @@ I read an article - [Standing out from the crowd of Junior Developers part 1](ht
 
 Yes, I've already spent some learning time on Git but I never integrated it into my workflow beyond commiting my projects directly to the master once I had finished working on then for a day. Whilst this is a good start, I definitely need to be more 'work-place' ready with my use of Git / Github. So the time spent on this course is definitely well spent and I will hopefully be able to put into practice what I learn straight away in my portfolio project. The course has been largely theory so far but I'm excited by the structure - it reminds me of the Harvard CS50 course, which I did part of(!), in that there are screens of instructions and they are clearly keen to make the course as interactive as possible. So far, I like it. Hopefully it will work through the majority of what I need to know in order to start to use Git more effectively on personal projects.
 
-
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 ## Day 
 ### Tuesday 5 February 2019 
@@ -193,3 +201,5 @@ Thoughts here
 
 #### Link(s) to work
 Links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
