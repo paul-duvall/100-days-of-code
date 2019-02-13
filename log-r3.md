@@ -160,6 +160,25 @@ Portfolio header starting to look as it should; annoyingly, it seems that it is 
 [Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
 
 
+## Day 9 / 10
+### Tuesday / Wednesday 12 / 13 February 2019 
+
+#### Review / Learn:
+* Did some reading about Git / Github.
+* Started Udacity Git course
+* leart some Git Bash commands, including cd .. (need to leave a space between the d and the dots!), diff to compare to files and code to run visual studio code! Also made a directory and moved a file across to new directory in Git Bash.
+
+#### Thoughts:
+I read an article - [Standing out from the crowd of Junior Developers part 1](https://www.byteconf.com/blog/standing-out-from-the-crowd-of-junior-developers-part-1) - which suggested using a more profession Git workflow on personal projects to effectively demonstrate this skill:
+
+> You can achieve a huge amount with Git using around only 5-6 commands. In your projects, you should aim to make use of all of these and the features they provide. Adding a navigation bar to the top of your page? Raise an issue, check out a branch, make your changes and submit that pull request! Making your projects as close to real life as possible makes it much easier for an employer to see you fitting in with how they work. It also shows them you can reason about planning a project, breaking it down and executing it in a logical order,  rather than with no plan at all.
+
+Yes, I've already spent some learning time on Git but I never integrated it into my workflow beyond commiting my projects directly to the master once I had finished working on then for a day. Whilst this is a good start, I definitely need to be more 'work-place' ready with my use of Git / Github. So the time spent on this course is definitely well spent and I will hopefully be able to put into practice what I learn straight away in my portfolio project. The course has been largely theory so far but I'm excited by the structure - it reminds me of the Harvard CS50 course, which I did part of(!), in that there are screens of instructions and they are clearly keen to make the course as interactive as possible. So far, I like it. Hopefully it will work through the majority of what I need to know in order to 
+
+#### Link(s) to work
+Links here
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
