@@ -192,6 +192,7 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 
 #### Review / Learn:
 * Started Udacity course on Git and Github, learning some history of version control and how to use the following commands: git log, git diff, git checkout, git clone. Learnt how to complete these tasks from the command line. 
+* learnt that ls -a lists directory contents along with any hidden files, including git directory
 
 #### Project:
 * 
