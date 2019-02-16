@@ -209,14 +209,9 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 * Learnt how to complete these tasks from the command line. 
 * learnt that ls -a lists directory contents along with any hidden files, including git directory
 
-#### Project:
-* 
-
 #### Thoughts:
-Thoughts here
+Yes, I haven't done any work on projects / progressing in my Sass course, 
 
-#### Link(s) to work
-Links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
