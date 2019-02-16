@@ -187,6 +187,24 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+## Day 11 / 12
+### Thursday / Saturday 14 / 16 February 2019 
+
+#### Review / Learn:
+* Started Udacity course on Git and Github, learning some history of version control and how to use the following commands: git log, git diff, git checkout, git clone. Learnt how to complete these tasks from the command line. 
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+Links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
