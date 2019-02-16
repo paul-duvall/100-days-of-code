@@ -193,14 +193,18 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 #### Review / Learn:
 * Started Udacity course on Git and Github, learning some history of version control and how to use the following commands: 
     - git log - shows a history of all commits
-    - git diff - compares two different commits
+    - git diff commit1 commit2 - compares two different commits
+    - git diff with no commits compares the working directory and the staging area
+    - git diff --staged compares the staging area and the most recent commit
     - git checkout - switches to a different commit
     - git clone - creates a copy of a respository
     - git init - initialises a new repository
     - git status - shows the state of the working directory
     - git add - adds chosen file to staging area
     - git commit - commits all files in staging area as new commit (opens code editor to write message)
+    
  [Click here](http://udacity.github.io/git-styleguide/) to read the Udacity Git Commit style guide.
+ [Handy Git cheatsheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
     
 * Learnt how to complete these tasks from the command line. 
 * learnt that ls -a lists directory contents along with any hidden files, including git directory
