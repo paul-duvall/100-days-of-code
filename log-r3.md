@@ -224,8 +224,11 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
         * git branch - lists the branches that exist within the current repository 
             (The branch that has a star next to it is the one currently checkout out.)
         * git branch new-branch - creates a new branch with the name specified in the argument
+        * git branch -d branch-name - deletes a branch 
+            (Note that doing this after merging branches will only delete the branch name, not the commits associated with that branch.)
         * git checkout new-branch - checks out the branch specified in the argument
         * git log --graph --oneline branch1 branch2 - generates a graph showing the relationship between the commits of two branches
+        * git show commit-id - shows the changes in a commit compared to its parent
 * Considered parent branches / commits, unreachable commits
 * If you have checked out an older commit, you can make changes without affecting the current commit / branch. These changes would disappear if you returned to the master or moved to another commit. A new branch from this point can be created using this shorthand:
         * git checkout -b new-branch-name - creates the new branch and the commit at the same time
