@@ -233,6 +233,7 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
 * If you have checked out an older commit, you can make changes without affecting the current commit / branch. These changes would disappear if you returned to the master or moved to another commit. A new branch from this point can be created using this shorthand:
         * git checkout -b new-branch-name - creates the new branch and the commit at the same time
 * How to merge files
+        * git merge branch1 branch2
 
 #### Project:
 * 
