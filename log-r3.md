@@ -196,7 +196,7 @@ Yes, I've already spent some learning time on Git but I never integrated it into
     - git diff commit1 commit2 - compares two different commits
     - git diff with no commits compares the working directory and the staging area
     - git diff --staged compares the staging area and the most recent commit
-    - git checkout - switches to a different commit
+    - git checkout - switches to a different commit or branch
     - git clone - creates a copy of a respository
     - git init - initialises a new repository
     - git status - shows the state of the working directory
@@ -219,7 +219,13 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
 ### Sunday 17 February 2019 
 
 #### Review / Learn:
-* 
+* Continued with git learning, getting some practice making changes to a file, then adding to staging and then making a commit.
+* Learnt about branches, which allow changes to be made without affecting the main version ('master' branch), allowing you to try out experimental features or make new versions. Commands include:
+        * git branch - lists the branches that exist within the current repository 
+            (The branch that has a star next to it is the one currently checkout out.)
+        * git branch new-branch - creates a new branch with the name specified in the argument
+        * git checkout new-branch - checks out the branch specified in the argument
+* Considered parent branches / commits, unreachable commits, 
 
 #### Project:
 * 
