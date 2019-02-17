@@ -193,6 +193,7 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 #### Review / Learn:
 * Started Udacity course on Git and Github, learning some history of version control and how to use the following commands: 
     - git log - shows a history of all commits
+    - git log -n 3 - specifies the number of commits to show
     - git diff commit1 commit2 - compares two different commits
     - git diff with no commits compares the working directory and the staging area
     - git diff --staged compares the staging area and the most recent commit
@@ -232,7 +233,7 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
 * Considered parent branches / commits, unreachable commits
 * If you have checked out an older commit, you can make changes without affecting the current commit / branch. These changes would disappear if you returned to the master or moved to another commit. A new branch from this point can be created using this shorthand:
         * git checkout -b new-branch-name - creates the new branch and the commit at the same time
-* How to merge files
+* How to merge files, including how automatic merging works and how to deal with conflicts
         * git merge branch1 branch2
 
 #### Project:
