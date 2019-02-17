@@ -210,8 +210,25 @@ Yes, I've already spent some learning time on Git but I never integrated it into
 * learnt that ls -a lists directory contents along with any hidden files, including git directory
 
 #### Thoughts:
-Yes, I haven't done any work on projects / progressing in my Sass course, 
+Yes, I haven't done any work on projects / progressing in my Sass course, but I have really learnt a substantial amount about git, which seems vital if I'm going to be ready for the workplace. The important thing now is to impliment what I've learnt straight away in a project. One of the key takeaways here is the importance of having a commit for each self-contained change, which is rather different to what I've been doing (doing a big commit at the end of the day, lumping everything in together).
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 13
+### Sunday 17 February 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+Links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
