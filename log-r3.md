@@ -235,6 +235,12 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
         * git checkout -b new-branch-name - creates the new branch and the commit at the same time
 * How to merge files, including how automatic merging works and how to deal with conflicts
         * git merge branch1 branch2
+* Using Git with Github - adding a remote to a local repository
+        * git remote - displays remotes on a respository
+        * git remote add origin url
+            (Origin is the name of the remote - this is a conventional name for the primary remote.)
+            (The URL is provided when a repository is set up on Github.)
+        
 
 #### Project:
 * 
