@@ -263,9 +263,10 @@ Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat.
 
 #### Project:
 * Created new local repository, cloning from Github, added node_modules back in
+* Made two small changes using new workflow (log issues, new branch, commits, push to origin on Github, create pull request, merge and mark issues as closed).
 
 #### Thoughts:
-Thoughts here
+Three days ago I absolutely could not have used git to the degree I can now and it feels pretty great to have a more professional workflow for working on my projects.
 
 #### Link(s) to work
 Links here
