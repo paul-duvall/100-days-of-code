@@ -262,7 +262,7 @@ Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat.
 * 
 
 #### Project:
-* 
+* Created new local repository, cloning from Github, added node_modules back in
 
 #### Thoughts:
 Thoughts here
