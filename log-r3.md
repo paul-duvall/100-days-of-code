@@ -243,7 +243,23 @@ Yes, I haven't done any work on projects / progressing in my Sass course, but I 
         * git push target-rep local-rep - pushes changes from the local master to the target repository on Github
         * git pull target-rep local-rep - pulls changes from the target repository on Github to the local master
         * forking
+* Listened to the [The Changelog]() podcast on ethics in the technology industry.
         
+
+#### Thoughts:
+Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat. Feel like I'm getting behind on portfolio project; just had to remind myself how vital these git-related skills are to working within the web dev industry.
+
+#### Link(s) to work
+[Udacity reflections](https://github.com/paul-duvall/udacity-reflections)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 14
+### Monday 18 February 2019 
+
+#### Review / Learn:
+* 
 
 #### Project:
 * 
