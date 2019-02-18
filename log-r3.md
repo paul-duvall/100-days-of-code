@@ -264,12 +264,14 @@ Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat.
 #### Project:
 * Created new local repository, cloning from Github, added node_modules back in
 * Made two small changes using new workflow (log issues, new branch, commits, push to origin on Github, create pull request, merge and mark issues as closed).
+* Opened new branch to start work on sorting out layout. Decided to change to mobile first; ripped layout apart and started to rebuild
 
 #### Thoughts:
 Three days ago I absolutely could not have used git to the degree I can now and it feels pretty great to have a more professional workflow for working on my projects.
 
 #### Link(s) to work
-Links here
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
