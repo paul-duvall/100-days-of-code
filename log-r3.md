@@ -258,9 +258,6 @@ Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat.
 ## Day 14
 ### Monday 18 February 2019 
 
-#### Review / Learn:
-* 
-
 #### Project:
 * Created new local repository, cloning from Github, added node_modules back in
 * Made two small changes using new workflow (log issues, new branch, commits, push to origin on Github, create pull request, merge and mark issues as closed).
@@ -278,6 +275,10 @@ Three days ago I absolutely could not have used git to the degree I can now and 
 
 ## Day 15
 ### Tuesday 19 February 2019 
+
+#### Review / Learn:
+* Started reading Steve Krug's Don't Make Me Think, a book about web usability. Have read the section on guiding principles, including how the web is used by people (scanning, settling for the first decent option - satisficing), designing for scanning, the importance of giving users 'mindless choices' and not getting them to think too much ('Don't make me think!').
+* Read [article](https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af) on core principles of CSS - block formatting context, box model, stacking context, and the cascade (particularly specificity).
 
 #### Project:
 * Finished changes to make the header section of the front page mobile first
