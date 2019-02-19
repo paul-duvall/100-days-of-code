@@ -276,6 +276,22 @@ Three days ago I absolutely could not have used git to the degree I can now and 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 15
+### Tuesday 19 February 2019 
+
+#### Project:
+* Finished changes to make the header section of the front page mobile first
+
+#### Thoughts:
+I initially thought that I would start with the larger-viewport version but realised that the mobile version, where everything is essentially stacked on top of each other, is much simpler and, therefore, a more logical place to start from. I now feel more confident that I'll be able to reintroduce the CSS grid required for the more sophisticated layout needed for larger viewports using media queries.
+
+#### Link(s) to work
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
