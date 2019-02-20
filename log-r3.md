@@ -299,7 +299,8 @@ I initially thought that I would start with the larger-viewport version but real
 #### Review / Learn:
 * Continued reading Don't Make Me Think - a chapter about minimising unnessessary text content and the importance of good navigation.
 * Continued Advanced CSS / Sass course, making the 'Natours' project: 
-    * Developed a custom grid using floats, how the attribute selector works (allows you to select an element or elements with a particular attribute
+    * Developed a custom grid using floats, how the attribute selector works (allows you to select an element or elements with a particular attribute, e.g. \[alt] would grab all elements with an alt attribute. \[class^="col-"] grabs all that start with "col-". Replacing ^ with * changes it to "contains". Replacing ^ with $ changes it to "ends with".
+    * Also involved a lot of work with calc() and using the :not pseudo-class
 
 #### Project:
 * Finished integrating grid layout for larger viewports for header section of main page
