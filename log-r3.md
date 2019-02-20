@@ -301,6 +301,8 @@ I initially thought that I would start with the larger-viewport version but real
 * Continued Advanced CSS / Sass course, making the 'Natours' project: 
     * Developed a custom grid using floats, how the attribute selector works (allows you to select an element or elements with a particular attribute, e.g. \[alt] would grab all elements with an alt attribute. \[class^="col-"] grabs all that start with "col-". Replacing ^ with * changes it to "contains". Replacing ^ with $ changes it to "ends with".
     * Also involved a lot of work with calc() and using the :not pseudo-class
+    * Working on the next section, we briefly covered the idea of utility classes, which led me to [this](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) article
+    * Used a combination of background-clip:text, a background image with a linear gradient and color:transparent to create a header coloured with a gradient
 
 #### Project:
 * Finished integrating grid layout for larger viewports for header section of main page
