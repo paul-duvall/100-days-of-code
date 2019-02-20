@@ -293,6 +293,26 @@ I initially thought that I would start with the larger-viewport version but real
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 16
+### Wednesday 20 February 2019 
+
+#### Review / Learn:
+* Continued reading Don't Make Me Think - a chapter about minimising unnessessary text content and the importance of good navigation.
+
+#### Project:
+* Finished integrating grid layout for larger viewports for header section of main page
+* Add html and CSS for 'hello there' section of main page
+
+#### Thoughts:
+Whilst styling the header section, it became clear that I couldn't get bogged down in small issues I come across. As such, I created a decent working version, and logged a number of small layout / design issues in Github. Whilst coding the 'hello there' section, I quickly came across two significant design issues that seem like they will require a fair amount of tinkering; the irregular shape of the div and the gradient colouring of the owl icon. It may be that the form is more trouble than it is worth. Either way, both have been logged as issues so I can push forward towards getting a workable version of the page.
+
+#### Link(s) to work
+[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
