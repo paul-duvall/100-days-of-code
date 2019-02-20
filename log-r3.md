@@ -166,7 +166,7 @@ Very pleased to have begun coding work on Portfolio 2. Happy that the process of
 Portfolio header starting to look as it should; annoyingly, it seems that it is not entirely straight-forward to add a box-shadow to a shape generated using clip-path. That may take a bit of research. Buttons need styling and I need to work out a way to put a blue mask over the image of me, but otherwise the full-screen version is basically there. I think I will try and do a bit of the CSS / Sass course tomorrow but I've high hopes that I will be able to get a workable version of the full-screen front-page done by the end of this week (minus navigation burger).
 
 #### Link(s) to work
-[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
@@ -267,7 +267,7 @@ Learnt a lot today. Lost it a bit towards the end - overloaded on info somewhat.
 Three days ago I absolutely could not have used git to the degree I can now and it feels pretty great to have a more professional workflow for working on my projects.
 
 #### Link(s) to work
-[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
@@ -287,7 +287,7 @@ Three days ago I absolutely could not have used git to the degree I can now and 
 I initially thought that I would start with the larger-viewport version but realised that the mobile version, where everything is essentially stacked on top of each other, is much simpler and, therefore, a more logical place to start from. I now feel more confident that I'll be able to reintroduce the CSS grid required for the more sophisticated layout needed for larger viewports using media queries.
 
 #### Link(s) to work
-[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
@@ -298,6 +298,8 @@ I initially thought that I would start with the larger-viewport version but real
 
 #### Review / Learn:
 * Continued reading Don't Make Me Think - a chapter about minimising unnessessary text content and the importance of good navigation.
+* Continued Advanced CSS / Sass course, making the 'Natours' project: 
+    * Developed a custom grid using floats, how the attribute selector works (allows you to select an element or elements with a particular attribute
 
 #### Project:
 * Finished integrating grid layout for larger viewports for header section of main page
@@ -307,8 +309,9 @@ I initially thought that I would start with the larger-viewport version but real
 Whilst styling the header section, it became clear that I couldn't get bogged down in small issues I come across. As such, I created a decent working version, and logged a number of small layout / design issues in Github. Whilst coding the 'hello there' section, I quickly came across two significant design issues that seem like they will require a fair amount of tinkering; the irregular shape of the div and the gradient colouring of the owl icon. It may be that the form is more trouble than it is worth. Either way, both have been logged as issues so I can push forward towards getting a workable version of the page.
 
 #### Link(s) to work
-[Portfolio 2 github files](https://github.com/paul-duvall/portfolio-2)
+[Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+[Natours github repository](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
