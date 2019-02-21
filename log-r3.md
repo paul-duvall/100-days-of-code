@@ -326,7 +326,7 @@ Whilst styling the header section, it became clear that I couldn't get bogged do
 * 
 
 #### Project:
-* 
+* Started to implement html and css for home page skills section
 
 #### Thoughts:
 Thoughts here
