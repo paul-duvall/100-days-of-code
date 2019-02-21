@@ -322,11 +322,8 @@ Whilst styling the header section, it became clear that I couldn't get bogged do
 ## Day 17
 ### Thursday 21 February 2019 
 
-#### Review / Learn:
-* 
-
 #### Project:
-* Started to implement html and css for home page skills section
+* implemented html and css for home page skills section, fully responsive
 
 #### Thoughts:
 Thoughts here
