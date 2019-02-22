@@ -325,14 +325,30 @@ Whilst styling the header section, it became clear that I couldn't get bogged do
 #### Project:
 * implemented html and css for home page skills section, fully responsive
 
-#### Thoughts:
-Thoughts here
-
 #### Link(s) to work
 * [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 * [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 18
+### Tuesday 5 February 2019 
+
+#### Review / Learn:
+* listened to a [podcast](https://www.codenewbie.org/podcast/what-are-progressive-web-apps) on progressive web apps
+
+#### Project:
+* implimented html and css for home page projects section, not yet responsive
+
+#### Thoughts:
+For my projects section, I decided to impliment a nice animation effect that I'd learnt in a tutorial - [codepen here](https://codepen.io/duvallpj/pen/roWvLw). I'm pleased I managed to integrate this and with the final effect. Makes this part of the page feel more dynamic / vibrant. Also added in a link button for each project, which wasn't in the design (but it was always my intent to have a project page for each project).
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 
