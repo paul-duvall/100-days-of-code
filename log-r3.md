@@ -337,6 +337,7 @@ Whilst styling the header section, it became clear that I couldn't get bogged do
 
 #### Review / Learn:
 * listened to a [podcast](https://www.codenewbie.org/podcast/what-are-progressive-web-apps) on progressive web apps
+* listened to a [podcast](https://syntax.fm/show/120/gatsby-vs-next) on Gatsby and Next
 
 #### Project:
 * implimented html and css for home page projects section, not yet responsive
