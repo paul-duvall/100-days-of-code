@@ -356,6 +356,7 @@ For my projects section, I decided to impliment a nice animation effect that I'd
 
 #### Review / Learn:
 * Continued with Natours project in the Advanced CSS and Sass course, finishing the build of the about section. Created a new button style with a nice animation. Integrated a new variable for a standard font size, which is used in a number of places.
+* For the same project, built an image composition section with three over-lapping images. When hovered, an image comes to the front and the other two images scale and become slightly smaller.
 
 #### Project:
 * Resolved an issue with the images in the skills cards not being centered correctly and merged with master on github
