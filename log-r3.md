@@ -357,12 +357,13 @@ For my projects section, I decided to impliment a nice animation effect that I'd
 #### Review / Learn:
 * Continued with Natours project in the Advanced CSS and Sass course, finishing the build of the about section. Created a new button style with a nice animation. Integrated a new variable for a standard font size, which is used in a number of places.
 * For the same project, built an image composition section with three over-lapping images. When hovered, an image comes to the front and the other two images scale and become slightly smaller.
+* For the same project, built a 'features' section built around a card component. Skewed background using transform (required the contents to be skewed in the opposite direction, achieved using the direct child selector). 
 
 #### Project:
 * Resolved an issue with the images in the skills cards not being centered correctly and merged with master on github
 
 #### Thoughts:
-Thoughts here
+Made some good progress on Natours, coming across a couple of ideas I'd like to integrate into portfolio project. Firstly, the image effect where the images not hovered over shrunk slightly. This might be good on the skills cards. Secondly, the skewed background effect described above. This might be a more effective way of skewing the background of the skills section (may make it more easy to make responsive).
 
 #### Link(s) to work
 * [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
