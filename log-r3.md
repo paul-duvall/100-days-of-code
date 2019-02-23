@@ -351,6 +351,24 @@ For my projects section, I decided to impliment a nice animation effect that I'd
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 19
+### Tuesday 5 February 2019 
+
+#### Review / Learn:
+* Resolved an issue with the images in the skills cards not being centered correctly and merged with master on github
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 ## Day 
 ### Tuesday 5 February 2019 
