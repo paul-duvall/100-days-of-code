@@ -333,7 +333,7 @@ Whilst styling the header section, it became clear that I couldn't get bogged do
 
 
 ## Day 18
-### Tuesday 5 February 2019 
+### Friday 22 February 2019 
 
 #### Review / Learn:
 * listened to a [podcast](https://www.codenewbie.org/podcast/what-are-progressive-web-apps) on progressive web apps
@@ -352,7 +352,7 @@ For my projects section, I decided to impliment a nice animation effect that I'd
 
 
 ## Day 19
-### Tuesday 5 February 2019 
+### Saturday 23 February 2019 
 
 #### Review / Learn:
 * Continued with Natours project in the Advanced CSS and Sass course, finishing the build of the about section. Created a new button style with a nice animation. Integrated a new variable for a standard font size, which is used in a number of places.
@@ -371,6 +371,24 @@ Made some good progress on Natours, coming across a couple of ideas I'd like to 
 * [Natours github repository](https://github.com/paul-duvall/Natours)
 * [Natours website](https://objective-panini-843ecc.netlify.com/)
 
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 20-21
+### Sunday / Monday 24 / 25 February 2019 
+
+#### Review / Learn:
+* Wrote and posted blog post about my portfolio redesign
+* Started to learn basics of SQL covering:
+    * Creating and deleting a database
+    * Adding a table and insterting entries
+    * Updating and deleting an entry
+    * Altering an existing table
+    * Selecting data in different ways
+
+#### Thoughts:
+So I have a remote technical test for a job I have applied for. This will test a range of full-stack developer skills and I was advised to take a quick look at SQL and C# in order to improve my chances!
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
