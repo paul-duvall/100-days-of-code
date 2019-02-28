@@ -393,6 +393,20 @@ So I have a remote technical test for a job I have applied for. This will test a
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 22-23
+### Tuesday 5 February 2019 
+
+#### Review / Learn:
+* Watched a [video about SQL]()https://www.youtube.com/watch?v=nWeW3sCmD2k and coded along
+* Watched part of a [video on C#](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=8360s) and coded along
+
+#### Thoughts:
+Projects - and everything - on hold whilst I prepared for a technical test for a job. Test did not go brilliantly. Back at the regular stuff tomorrow!
+
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 February 2019 
 
