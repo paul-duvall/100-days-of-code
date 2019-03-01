@@ -403,6 +403,23 @@ So I have a remote technical test for a job I have applied for. This will test a
 #### Thoughts:
 Projects - and everything - on hold whilst I prepared for a technical test for a job. Test did not go brilliantly. Back at the regular stuff tomorrow!
 
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 24
+### Friday 1 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Portfolio - resolved layout issues of projects section. Adjusted background height of skills section and added in box-shadow on various elements using a Sass mixin
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+Links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
@@ -420,6 +437,7 @@ Projects - and everything - on hold whilst I prepared for a technical test for a
 Thoughts here
 
 #### Link(s) to work
-Links here
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
