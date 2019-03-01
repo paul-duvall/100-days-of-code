@@ -414,6 +414,7 @@ Projects - and everything - on hold whilst I prepared for a technical test for a
 
 #### Project:
 * Portfolio - resolved layout issues of projects section. Adjusted background height of skills section and added in box-shadow on various elements using a Sass mixin
+* Portfolio - added html for footer section, started to add css
 
 #### Thoughts:
 Thoughts here
