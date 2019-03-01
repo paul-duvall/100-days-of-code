@@ -410,7 +410,7 @@ Projects - and everything - on hold whilst I prepared for a technical test for a
 ### Friday 1 March 2019 
 
 #### Review / Learn:
-* 
+* Posted portfolio blog post to dev.to
 
 #### Project:
 * Portfolio - resolved layout issues of projects section. Adjusted background height of skills section and added in box-shadow on various elements using a Sass mixin
@@ -419,7 +419,9 @@ Projects - and everything - on hold whilst I prepared for a technical test for a
 Thoughts here
 
 #### Link(s) to work
-Links here
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+Blog post on dev.to - https://dev.to/paul_duvall/updating-my-portfolio-1349
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
@@ -437,7 +439,6 @@ Links here
 Thoughts here
 
 #### Link(s) to work
-* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
-* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
