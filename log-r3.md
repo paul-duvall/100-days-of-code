@@ -418,9 +418,6 @@ Projects - and everything - on hold whilst I prepared for a technical test for a
 * Portfolio - resolved layout issues of projects section. Adjusted background height of skills section and added in box-shadow on various elements using a Sass mixin
 * Portfolio - added html for footer section, started to add css
 
-#### Thoughts:
-Thoughts here
-
 #### Link(s) to work
 * [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
 * [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
@@ -429,8 +426,28 @@ Blog post on dev.to - https://dev.to/paul_duvall/updating-my-portfolio-1349
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 25
+### Sunday 3 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Styled the contact form in the footer and made footer fully responsive
+* Tweeked layout of projects section (still not quite there)
+
+#### Thoughts:
+The end is within sight of the portfolio frontpage now. The large-viewport header section is still a shambles; the plan is to go back to the drawing board on that tomorrow and start from stratch. Once that is done, all that will be left to do is the navigation and some minor adjustments and it can go live. Quick thought - I will need to add some modals for the two featured projects so that their 'find out more' buttons go somewhere. But hopefully that can all be done by midweek and then I'll be able to turn my project focus over to the lemon tree for a bit. I'm hoping to have some material from the client before the end of the week.
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
-### Tuesday 5 February 2019 
+### Tuesday 5 March 2019 
 
 #### Review / Learn:
 * 
