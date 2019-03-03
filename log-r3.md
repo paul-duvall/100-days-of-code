@@ -430,7 +430,7 @@ Blog post on dev.to - https://dev.to/paul_duvall/updating-my-portfolio-1349
 ### Sunday 3 March 2019 
 
 #### Review / Learn:
-* 
+* Continued with Sass / CSS course Natours project. Starting working on tours section, which involved creating cards that flip round. Achieved using CSS properties - perspective, backface-visibility, transform: rotateY and position: absolute
 
 #### Project:
 * Styled the contact form in the footer and made footer fully responsive
