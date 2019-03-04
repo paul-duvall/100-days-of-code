@@ -450,13 +450,15 @@ The end is within sight of the portfolio frontpage now. The large-viewport heade
 ### Monday 4 March 2019 
 
 #### Review / Learn:
-* 
+* Sass course Natours project - finished off the tours section and put together the 'stories' section. Used html tags (video, source) and css (including object-fit) to create a background video. Used a combintion of clip-path and shape-outside to get text to wrap around a circular image. Add some nice animations.
 
 #### Project:
 * Overhauled layout of header section on larger viewports. Happy with that now!
 
 #### Thoughts:
 The layout of the header section was too complex; have simplified by using grid a bit less and having a simpler flexbox layout at the top level.
+
+Pushing on with the Sass course. Wanted to complete all sections in order so am aiming to get to the collapsable navigation very soon so I can use this as a template to impliment navigation on my portfolio. Also, there is a section on modals that I will use for portfolio also.
 
 #### Link(s) to work
 * [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
