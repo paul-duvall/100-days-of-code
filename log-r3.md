@@ -446,6 +446,25 @@ The end is within sight of the portfolio frontpage now. The large-viewport heade
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 26
+### Monday 4 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Overhauled layout of header section on larger viewports. Happy with that now!
+
+#### Thoughts:
+The layout of the header section was too complex; have simplified by using grid a bit less and having a simpler flexbox layout at the top level.
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
