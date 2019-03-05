@@ -467,6 +467,22 @@ Pushing on with the Sass course. Wanted to complete all sections in order so am 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 27
+### Tuesday 5 March 2019 
+
+#### Review / Learn:
+* Started navigation section of Sass course Natours project
+
+#### Thoughts:
+Short and sweet - busy day with work so not much coding time. Decided to jump ahead to the nav section skipping the last main section so that I can integrate into my own portfolio as soon as possible.
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
