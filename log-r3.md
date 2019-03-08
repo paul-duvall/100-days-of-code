@@ -491,7 +491,7 @@ Short and sweet - busy day with work so not much coding time. Decided to jump ah
 
 #### Project:
 * Added navigation button and navigation to site
-* Created a basic 'about me' page
+* Created a basic 'about me', 'contact', 'projects' and 'skills' pages
 * Fixed some issues, including the link colour on project cards
 
 #### Thoughts:
