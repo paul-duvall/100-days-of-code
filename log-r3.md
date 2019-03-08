@@ -483,6 +483,30 @@ Short and sweet - busy day with work so not much coding time. Decided to jump ah
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 28 and 29
+### Wednesday and Friday 6 and 8 March 2019 
+
+#### Review / Learn:
+* Completed the navigation of course project for Sass / Advanced CSS course
+
+#### Project:
+* Added navigation button and navigation to site
+* Created a basic 'about me' page
+* Fixed some issues, including the link colour on project cards
+
+#### Thoughts:
+So it turns out that the navigation, as I set it up, doesn't disappear when a link is clicked upon if that link it to an anchor point within the same page. No doubt there would be work arounds using JavaScript but I do not have time to dedicate to those right now. Instead, I am setting up a bare-bones version of each of the site subpages, and linking to those from my navigation.
+
+This needs to be done ASAP as I have a recruiter keen to put me forward to a company I like the look of, and there is another job being advertised at another company I am interested in, and I would love to have my new portfolio up and running so they can look at it. This means getting something servicable by the end of this weekend.
+
+#### Link(s) to work
+* [Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+* [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
