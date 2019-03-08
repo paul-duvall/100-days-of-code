@@ -488,6 +488,8 @@ Short and sweet - busy day with work so not much coding time. Decided to jump ah
 
 #### Review / Learn:
 * Completed the navigation of course project for Sass / Advanced CSS course
+* Continued reading YNKJS - Types and Grammar, reading about truthy / falsy values
+* Continued reading Don't make me think, reading about how many arguments on usability are pointless and how there is no average web user
 
 #### Project:
 * Added navigation button and navigation to site
