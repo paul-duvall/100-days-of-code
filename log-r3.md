@@ -508,6 +508,20 @@ This needs to be done ASAP as I have a recruiter keen to put me forward to a com
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 30
+### Saturday 30 March 2019 
+
+#### Project:
+* Finished animation on navigation button
+* Made some layout and style tweeks
+* Bought domain name and attempted to hook up to site on Netlify
+
+#### Thoughts:
+The domain name stuff is all a bit of a mystery. Not really working right now - will see if it sorts itself out over night!
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 
 ## Day 
 ### Tuesday 5 March 2019 
