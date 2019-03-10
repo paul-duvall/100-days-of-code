@@ -509,7 +509,7 @@ This needs to be done ASAP as I have a recruiter keen to put me forward to a com
 
 
 ## Day 30
-### Saturday 30 March 2019 
+### Saturday 9 March 2019 
 
 #### Project:
 * Finished animation on navigation button
@@ -518,6 +518,26 @@ This needs to be done ASAP as I have a recruiter keen to put me forward to a com
 
 #### Thoughts:
 The domain name stuff is all a bit of a mystery. Not really working right now - will see if it sorts itself out over night!
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 31
+### Sunday 10 March 2019 
+
+#### Review / Learn:
+* Watched advanced CSS / Sass course videos about adding modal
+
+#### Project:
+* Added modals to portfolio for projects
+* Hooked contact form up on Netlify
+* Added new button style for projects section
+
+#### Thoughts:
+The portfolio is now in a state where I can launch it and use it as my primary portfolio. Plenty more to do but now definitely better than my current portfolio! I'll be taking a break from this now and splitting my time between finishing the current project on the Sass course and starting design work on cafe project. Once the current project on Sass course is complete, I'll switch back to the React course. Will be doing the first sections again, perhaps putting together a separate, similar project instead of coding along with the course project.
+
+#### Link(s) to work
+* [Portfolio website](www.pjdwebdesign.com)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
