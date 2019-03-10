@@ -529,9 +529,9 @@ The domain name stuff is all a bit of a mystery. Not really working right now - 
 * Watched advanced CSS / Sass course videos about adding modal
 * Read [interesting article about problem-solving](https://medium.com/@janelgbrandon/problem-solving-like-a-programmer-88c4866752fc):
 
-```
-A much more challenging aspect of programming is learning to think like a programmer when you are solving a problem. You start with a problem (where problem is a generic term meaning something you want to write code to accomplish), clearly define the problem, then translate it into data structures (the strings, numbers, arrays, hashes, objects, etc. that you will use to represent the problem) and control structures and flow (the loops, conditionals, methods, and algorithms) that will make up a solution.
-```
+"A much more challenging aspect of programming is learning to think like a programmer when you are solving a problem. You start with a problem (where problem is a generic term meaning something you want to write code to accomplish), clearly define the problem, then translate it into data structures (the strings, numbers, arrays, hashes, objects, etc. that you will use to represent the problem) and control structures and flow (the loops, conditionals, methods, and algorithms) that will make up a solution."
+
+* Continued reading about coersion in YDKJS: Types & Grammar, covering string to number (and visa-versa) and date to number coersion.
 
 #### Project:
 * Added modals to portfolio for projects
