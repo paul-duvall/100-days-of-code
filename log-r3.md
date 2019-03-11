@@ -552,16 +552,20 @@ The portfolio is now in a state where I can launch it and use it as my primary p
 ### Monday 11 March 2019 
 
 #### Review / Learn:
-* 
+* Completed speed typing game tutorial and added high score functionality
+* Wrote a blog post on using git workflow and posted to blog
 
 #### Project:
 * Made some corrections to links and pages titles on portfolio in response to suggestions on Twitter
 
 #### Thoughts:
-Updated CV / portfolio sent to recruiter, who is putting me forward for another role today.
+Updated CV / portfolio sent to recruiter, who is putting me forward for another role today. Applied for another role direct to the company.
+
+Felt a little aimless today; worked through a youtube tutorial and then added to the functionality by adding a high score feature that persisted the score, if it beat the previous high score, to the local storage and displayed in the DOM.
 
 #### Link(s) to work
-links here
+* [WordBeater](https://codepen.io/duvallpj/pen/YgxmqM)
+* [Portfolio website](https://www.pjdwebdesign.com)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
