@@ -554,6 +554,7 @@ The portfolio is now in a state where I can launch it and use it as my primary p
 #### Review / Learn:
 * Completed speed typing game tutorial and added high score functionality
 * Wrote a blog post on using git workflow and posted to blog
+* Started to review React by beginning the React section on FCC
 
 #### Project:
 * Made some corrections to links and pages titles on portfolio in response to suggestions on Twitter
