@@ -548,6 +548,25 @@ The portfolio is now in a state where I can launch it and use it as my primary p
 
 
 
+## Day 32
+### Monday 11 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Made some corrections to links and pages titles on portfolio in response to suggestions on Twitter
+
+#### Thoughts:
+Updated CV / portfolio sent to recruiter, who is putting me forward for another role today.
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
