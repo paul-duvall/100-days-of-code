@@ -572,6 +572,28 @@ Felt a little aimless today; worked through a youtube tutorial and then added to
 
 
 
+## Day 33
+### Tuesday 12 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Started to work on edit task functionality on devLearn
+    * Added "id" data attribute to each item in the UI
+    * Added event listener to the edit button for each of the tasks
+    * Added 'open edit mode' function that identifies which item was selected, sets a currentTask property in the data structure to reflect item selected, populates the form with the data from that item and opens the modal to display the updated form.
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
