@@ -585,7 +585,7 @@ Felt a little aimless today; worked through a youtube tutorial and then added to
     * Added 'open edit mode' function that identifies which item was selected, sets a currentTask property in the data structure to reflect item selected, populates the form with the data from that item and opens the modal to display the updated form.
 
 #### Thoughts:
-Thoughts here
+It feels good to get back into some JavaScript - I feel like I needed the reassurance that (1) I hadn't forgotten everything and (2) I am actually able to impliment some of this stuff independently. Really pleased with what I added to devLearn - it may not look like much, but there were a number of steps. I'm very aware that following logical steps to solve a problem is a key skill to work on and it felt like I was able to do that today.
 
 #### Link(s) to work
 links here
