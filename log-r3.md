@@ -601,12 +601,13 @@ It feels good to get back into some JavaScript - I feel like I needed the reassu
 
 #### Review / Learn:
 * Started to review React, going over how to set up a React dev environment with live-server, adding React scripts and using Babel to compile. Wrote a blog post covering this topic.
-
-#### Project:
-* 
+* Continued with React, reviewing JSX including JSX expressions and conditional rendering in JSX using
+    * if statements
+    * the ternary operator
+    * the logical and operator - &&
 
 #### Thoughts:
-Thoughts here
+Good to get back into a bit of React - definitely need to go over again; this time I'm going to write a series of blog posts essentially to remind myself how to do stuff. Once I am into the course project, I'll start working on a parallel personal project, apply the skills. Need to think about what that will be. By that time, I will hopefully have made decent progress on devLearn and have made a good start on the cafe website, both of which I will work on this weekend. Working tomorrow so little coding. Friday continued with React. Weekend for personal projects.
 
 #### Link(s) to work
 links here
