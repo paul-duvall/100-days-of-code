@@ -576,7 +576,7 @@ Felt a little aimless today; worked through a youtube tutorial and then added to
 ### Tuesday 12 March 2019 
 
 #### Review / Learn:
-* 
+* Continued YDKJS: Types and grammar, reading about implicit coersion
 
 #### Project:
 * Started to work on edit task functionality on devLearn
@@ -589,10 +589,29 @@ Felt a little aimless today; worked through a youtube tutorial and then added to
 It feels good to get back into some JavaScript - I feel like I needed the reassurance that (1) I hadn't forgotten everything and (2) I am actually able to impliment some of this stuff independently. Really pleased with what I added to devLearn - it may not look like much, but there were a number of steps. I'm very aware that following logical steps to solve a problem is a key skill to work on and it felt like I was able to do that today.
 
 #### Link(s) to work
-links here
+* [devLearn code](https://github.com/paul-duvall/devlearn)
+* [devLearn site](https://boring-bohr-ee6bf1.netlify.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+
+
+## Day 34
+### Wednesday 13 March 2019 
+
+#### Review / Learn:
+* Started to review React, going over how to set up a React dev environment with live-server, adding React scripts and using Babel to compile. Wrote a blog post covering this topic.
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
 ## Day 
