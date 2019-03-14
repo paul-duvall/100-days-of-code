@@ -605,6 +605,7 @@ It feels good to get back into some JavaScript - I feel like I needed the reassu
     * if statements
     * the ternary operator
     * the logical and operator - &&
+* Continued reading YDKJS: Types and Grammar, learning about implicit coersion with booleans and the && and || operators
 
 #### Thoughts:
 Good to get back into a bit of React - definitely need to go over again; this time I'm going to write a series of blog posts essentially to remind myself how to do stuff. Once I am into the course project, I'll start working on a parallel personal project, apply the skills. Need to think about what that will be. By that time, I will hopefully have made decent progress on devLearn and have made a good start on the cafe website, both of which I will work on this weekend. Working tomorrow so little coding. Friday continued with React. Weekend for personal projects.
@@ -613,6 +614,29 @@ Good to get back into a bit of React - definitely need to go over again; this ti
 links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 35
+### Thursday 14 March 2019 
+
+#### Review / Learn:
+* Continued with React review
+    * Learnt about how to work with forms and inputs
+    * and about how to work with Arrays including using the map() method to iterate over array items
+    * and about creating React Components and nesting React Components
+* Wrote blog articles on JSX and Using Arrays Within JSX
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 
