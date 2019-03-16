@@ -626,14 +626,29 @@ Good to get back into a bit of React - definitely need to go over again; this ti
 #### Project:
 * Started to think about cafe design, locating some images from client's facebook account, selecting an approximate font for headings, etc. (), extracting colours from client's logo and setting up Adobe XD file
 
-#### Thoughts:
-Thoughts here
-
 #### Link(s) to work
-links here
+[Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+
+
+## Day 36
+### Saturdday 16 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Made a proper start on designing frontpage of cafe site, selecting a font and additional colours.
+
+#### Thoughts:
+Made a great start on design the frontpage of the cafe site; I'm really pleased with how the design has turned out.
+
+#### Link(s) to work
+[Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
 ## Day 
