@@ -637,7 +637,7 @@ Good to get back into a bit of React - definitely need to go over again; this ti
 ### Saturdday 16 March 2019 
 
 #### Review / Learn:
-* 
+* Continued with React course, learning how to use the constructor function in order to bind methods and how to use this.state, setState() and prevState to manage state
 
 #### Project:
 * Made a proper start on designing frontpage of cafe site, selecting a font and additional colours.
