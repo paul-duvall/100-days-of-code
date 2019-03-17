@@ -634,7 +634,7 @@ Good to get back into a bit of React - definitely need to go over again; this ti
 
 
 ## Day 36
-### Saturdday 16 March 2019 
+### Saturday 16 March 2019 
 
 #### Review / Learn:
 * Continued with React course, learning how to use the constructor function in order to bind methods and how to use this.state, setState() and prevState to manage state
@@ -647,6 +647,25 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
 
 #### Link(s) to work
 [Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 37
+### Sunday 17 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Worked on resolving form styling issue on portfolio.
+* Finished cafe homepage design, creating mobile layout design.
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
