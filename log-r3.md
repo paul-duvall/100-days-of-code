@@ -674,6 +674,7 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
 * Continued with React course
     * Refactored the 'Visibility Toggle' application, setting up to function as a React component
     * Reversing the data flow by passing methods down to children as props
+    * learnt about Stateless function components and implimented in Indecision App
 
 #### Project:
 * 
