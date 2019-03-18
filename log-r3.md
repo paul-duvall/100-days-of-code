@@ -673,6 +673,7 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
 #### Review / Learn:
 * Continued with React course
     * Refactored the 'Visibility Toggle' application, setting up to function as a React component
+    * Reversing the data flow by passing methods down to children as props
 
 #### Project:
 * 
