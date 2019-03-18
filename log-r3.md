@@ -655,11 +655,27 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
 ### Sunday 17 March 2019 
 
 #### Review / Learn:
-* 
+* Installed Inkscape and started to familiarise myself with this tool, watching a couple of basic tutorial videos
 
 #### Project:
 * Worked on resolving form styling issue on portfolio.
 * Finished cafe homepage design, creating mobile layout design.
+
+#### Link(s) to work
+[Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 38
+### Monday 18 March 2019 
+
+#### Review / Learn:
+* Continued with React course
+    * Refactored the 'Visibility Toggle' application, setting up to function as a React component
+
+#### Project:
+* 
 
 #### Thoughts:
 Thoughts here
