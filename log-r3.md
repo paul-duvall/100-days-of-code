@@ -678,16 +678,35 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
     * Setting up default prop values by creating a defaultProps objects
     * Lifecycle methods - componentDidMount, componentDidUpdate, componentWillUnmount
 
-#### Project:
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 
+### Tuesday 5 March 2019 
+
+#### Review / Learn:
 * 
 
+#### Project:
+* Worked on devlearn:
+    * Added in cursor for hover-over of edit icons
+    * Added in edit / delete buttons and added selectors for buttons
+    * Create a set add state function that ensures the edit and delete buttons are hidden
+    when user is adding new item
+    * Create an edit state function that ensures edit and delete buttons are showing and add
+    button is hidden when user is editing an existing item
+
 #### Thoughts:
-Thoughts here
+As always, it is good to get back in to making changes to an actual project - I really need to remember this and try to make some time, regardless of the mood I'm in, to make some kind of small progression on either the portfolio, Claude's or devLearn. 
+
+I haven't written thoughts for a couple of days - again, need to remind myself that this is an important part of the process and I should do it every day. I recently fixed styling issue of the form on my portfolio; spent quite some time working on this, enlisted the help of another dev. Eventually, it turned out that is was an issue related to CSS specificity, which was resolved by adding an id and targeting that.
 
 #### Link(s) to work
-links here
+* [devLearn code](https://github.com/paul-duvall/devlearn)
+* [devLearn site](https://boring-bohr-ee6bf1.netlify.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 
