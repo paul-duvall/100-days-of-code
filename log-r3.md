@@ -695,6 +695,7 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
     when user is adding new item
     * Create an edit state function that ensures edit and delete buttons are showing and add
     button is hidden when user is editing an existing item
+* Worked on cafe design, beginning to design the menu page
 
 #### Thoughts:
 As always, it is good to get back in to making changes to an actual project - I really need to remember this and try to make some time, regardless of the mood I'm in, to make some kind of small progression on either the portfolio, Claude's or devLearn. 
