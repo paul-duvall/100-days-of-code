@@ -681,11 +681,8 @@ Made a great start on design the frontpage of the cafe site; I'm really pleased 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-## Day 
-### Tuesday 5 March 2019 
-
-#### Review / Learn:
-* 
+## Day 39
+### Tuesday 19 March 2019 
 
 #### Project:
 * Worked on devlearn:
@@ -705,6 +702,24 @@ I haven't written thoughts for a couple of days - again, need to remind myself t
 #### Link(s) to work
 * [devLearn code](https://github.com/paul-duvall/devlearn)
 * [devLearn site](https://boring-bohr-ee6bf1.netlify.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 40
+### Thursday 21 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
