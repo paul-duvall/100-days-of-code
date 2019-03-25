@@ -729,7 +729,11 @@ Struggled with both things I worked on and ended up feeling like nothing was ach
 * 
 
 #### Project:
-* 
+* Worked on devLearn, adding functionality to enable editing of existing items:
+    * added updateTask function to update the currently selected task in the data structure
+    * added editItemInLS function to update the currently selected task in the local storage
+    * close modal and reinitialise app to update display
+    * tweaked populateTasks function to ensure that existing display is cleared prior to updating with new data
 
 #### Thoughts:
 Thoughts here
