@@ -710,6 +710,22 @@ I haven't written thoughts for a couple of days - again, need to remind myself t
 ### Thursday 21 March 2019 
 
 #### Review / Learn:
+* Worked on webpack section of React course
+
+#### Project:
+* Worked on devLearn, specifically functionality to edit existing items 
+
+#### Thoughts:
+Struggled with both things I worked on and ended up feeling like nothing was achieved. I need to make sure I really dedicate myself next week as I cannot code over the weekend due to family commitments.
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
+## Day 41
+### Monday 25 March 2019 
+
+#### Review / Learn:
 * 
 
 #### Project:
@@ -722,7 +738,6 @@ Thoughts here
 links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
-
 
 
 ## Day 
