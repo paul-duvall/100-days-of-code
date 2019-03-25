@@ -726,7 +726,7 @@ Struggled with both things I worked on and ended up feeling like nothing was ach
 ### Monday 25 March 2019 
 
 #### Review / Learn:
-* Listened to [https://changelog.com/jsparty/67](JS Party) podcast with Chris Coyer as a guest discussing further the 'great divide' in front-end development
+* Listened to [JS Party](https://changelog.com/jsparty/67) podcast with Chris Coyer as a guest discussing further the 'great divide' in front-end development
 
 #### Project:
 * Worked on devLearn, adding functionality to enable editing of existing items:
