@@ -726,7 +726,7 @@ Struggled with both things I worked on and ended up feeling like nothing was ach
 ### Monday 25 March 2019 
 
 #### Review / Learn:
-* 
+* Listened to [https://changelog.com/jsparty/67](JS Party) podcast with Chris Coyer as a guest discussing further the 'great divide' in front-end development
 
 #### Project:
 * Worked on devLearn, adding functionality to enable editing of existing items:
@@ -734,12 +734,15 @@ Struggled with both things I worked on and ended up feeling like nothing was ach
     * added editItemInLS function to update the currently selected task in the local storage
     * close modal and reinitialise app to update display
     * tweaked populateTasks function to ensure that existing display is cleared prior to updating with new data
+* Worked on Cafe website design, mostly finishing menu page for larger-viewports and starting menu page for smaller-viewports.
 
 #### Thoughts:
-Thoughts here
+Only had time for a few hours today but was pleased with progress made, particularly on the devLearn editing functionality. Spent quite some time on what felt like a complex solution to the issue, which was essentially finding a way to identify which item to update in the data structure and update it. Realised that there was a simpler solution and worked through this to completion, ensuring the item is also updated in the local storage and the UI. This issue had gotten the better of me last week so it felt good to resolve it and take the project to a point where I am more comfortable with prospective employers taking a look at it!
 
 #### Link(s) to work
-links here
+* [devLearn code](https://github.com/paul-duvall/devlearn)
+* [devLearn site](https://boring-bohr-ee6bf1.netlify.com/)
+[Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
