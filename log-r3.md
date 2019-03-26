@@ -756,15 +756,12 @@ Only had time for a few hours today but was pleased with progress made, particul
     * Using ES6 import / export to set up named exports to break code out into separate files
     * Using default exports   
     * Importing third party modules
-
-#### Project:
-* 
+    * Setting up Webpack to work with Babel
 
 #### Thoughts:
-Thoughts here
+So it turns out that the stumbling block that was preventing me from continuing with the Webpack section of the course was...I had put the app.js file in the wrong folder! Once that was corrected, I was able to continue. As with last time I ran through this section, I am struck by just how complex Webpack is; or at least - how complex it feels to a beginner. the webpackconfig.js file all makes sense, but there is a lot to take in. Several additional dependencies need to be added to the package.json to enable Babel to work with Webpack and a new file .babelrc is needed to ensure Babel has access to presets that were previously listed in package.json. 
 
-#### Link(s) to work
-links here
+That feels like a lot, and I've no idea how I would do this without a precise guide such as this course to guide me through it. 
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
