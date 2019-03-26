@@ -755,6 +755,7 @@ Only had time for a few hours today but was pleased with progress made, particul
     * Installing and configuring webpack
     * Using ES6 import / export to set up named exports to break code out into separate files
     * Using default exports   
+    * Importing third party modules
 
 #### Project:
 * 
