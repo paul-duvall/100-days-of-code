@@ -753,8 +753,8 @@ Only had time for a few hours today but was pleased with progress made, particul
 #### Review / Learn:
 * Continued reviewing React using React Udemy course, going through the webpack section:
     * Installing and configuring webpack
-    * using ES6 import / export to set up named exports to break code out into separate files
-    
+    * Using ES6 import / export to set up named exports to break code out into separate files
+    * Using default exports   
 
 #### Project:
 * 
