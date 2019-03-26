@@ -747,6 +747,27 @@ Only had time for a few hours today but was pleased with progress made, particul
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 42
+### Tuesday 26 March 2019 
+
+#### Review / Learn:
+* Continued reviewing React using React Udemy course, going through the webpack section:
+    * Installing and configuring webpack
+    * using ES6 import / export to set up named exports to break code out into separate files
+    
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
