@@ -771,6 +771,7 @@ That feels like a lot, and I've no idea how I would do this without a precise gu
 
 #### Review / Learn:
 * Listened to podcast about NPM from [JS Party](https://changelog.com/jsparty/55)
+* Read chapter on mobile design in Don't Make Me Think
 
 #### Project:
 * Cafe website - finished design for menu page
