@@ -766,6 +766,24 @@ That feels like a lot, and I've no idea how I would do this without a precise gu
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 43
+### Wednesday 27 March 2019 
+
+#### Review / Learn:
+* Listened to podcast about NPM from [JS Party](https://changelog.com/jsparty/55)
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
