@@ -742,7 +742,7 @@ Only had time for a few hours today but was pleased with progress made, particul
 #### Link(s) to work
 * [devLearn code](https://github.com/paul-duvall/devlearn)
 * [devLearn site](https://boring-bohr-ee6bf1.netlify.com/)
-[Cafe project repositoy](https://github.com/paul-duvall/lemon-tree)
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
@@ -776,13 +776,31 @@ That feels like a lot, and I've no idea how I would do this without a precise gu
 #### Project:
 * Cafe website - finished design for menu page
 
-#### Thoughts:
-Thoughts here
-
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 44
+### Saturday 30 March 2019 
+
+#### Review / Learn:
+* Read up a bit more on [BEM best practice](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/) in preparation for implimeneting on cafe website
+
+#### Project:
+* Started coding cafe website
+    * Set up webpack and installed live-server
+    * Started writing html for homepage
+
+#### Thoughts:
+Not a lot of time spent recently - have been unable to code for the last couple of days. Got a bit done today however and, given the short amount of time available, it felt right to make a little start on setting up the cafe project site structure. Felt good to make a start on that. Took it slow, thinking about class naming conventions to ensure I approach this area with a little more thought this time around, having used BEM in my previous project. 
+
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 
