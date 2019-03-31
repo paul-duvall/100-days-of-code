@@ -809,15 +809,10 @@ Not a lot of time spent recently - have been unable to code for the last couple 
 * Continued with React course:
     * Components split out into separate files using export / import
     * Added a source map to the webpack.config.js file so that errors give an accurate location in the console
-
-#### Project:
-* 
+    * Setting up Webpack dev server
 
 #### Thoughts:
-Thoughts here
-
-#### Link(s) to work
-links here
+Busy day. Had some time in the afternoon but felt very drained and decided to cut myself some slack and watched a film. Got in some time working on React in the evening.
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
