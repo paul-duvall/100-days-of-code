@@ -802,6 +802,27 @@ Not a lot of time spent recently - have been unable to code for the last couple 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 45
+### Sunday 31 March 2019 
+
+#### Review / Learn:
+* Continued with React course:
+    * Components split out into separate files using export / import
+    * Added a source map to the webpack.config.js file so that errors give an accurate location in the console
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 
 ## Day 
 ### Tuesday 5 March 2019 
