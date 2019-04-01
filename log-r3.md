@@ -817,22 +817,22 @@ Busy day. Had some time in the afternoon but felt very drained and decided to cu
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-
-
 ## Day 46
 ### Monday 1 April 2019 
 
 #### Review / Learn:
-* 
+* Continue with React course using the transform class properties plugin so that the constructor function is no longer needed (state can be defined directly on the object and methods no longer need binding as they can be defined as arrow functions.
+* Also started to impliment a third party component, the React modal
 
 #### Project:
-* 
+* Set up the CSS and Sass file structure for cafe project
+* Begun to style the navigation
 
 #### Thoughts:
-Thoughts here
+The navigation is going to take a while to set up on the cafe project; my hope is to get this fully implimented (including burger menu for smaller viewports and a dropdown section for the menu parts) before I do anything else. The React course continues to be challenging - there is so much to take in that, even on a second run through, I find myself a little overwhelmed. It all makes sense as we are working through it, but sometimes I look at the code we have written, and I don't recall what some of the specific parts are for or how the syntax for particular elements is put together (e.g. the different ways set state is used).
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
