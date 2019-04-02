@@ -841,7 +841,10 @@ The navigation is going to take a while to set up on the cafe project; my hope i
 ### Tuesday 2 April 2019 
 
 #### Review / Learn:
-* 
+* Continued with React course: 
+    * Finished setting up the React modal third party component
+    * Refactored stateless functional components to use arrow function shorthand syntax
+    * Set up project to use CSS and Sass via webpack
 
 #### Project:
 * Worked on navigation component for cafe website:
