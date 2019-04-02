@@ -854,10 +854,12 @@ The navigation is going to take a while to set up on the cafe project; my hope i
     * Used [a tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=57s) to help build the burger menu
 
 #### Thoughts:
-Thoughts here
+Made really good progress on the navigation component of the cafe website; I really like this particular method for a responsive nav bar, which uses a combination of CSS and JavaScript. After a couple of frustrating moments with webpack, I finally made some good progress with the React course; will have 'caught up with myself' by tomorrow and will be starting on fresh material.
+
+I also want to start thinking about adding some bits and pieces to my portfolio site, just some small fixes and adjustments and maybe start thinking about building out the projects subpage.
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
