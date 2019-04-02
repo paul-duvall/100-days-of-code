@@ -837,6 +837,26 @@ The navigation is going to take a while to set up on the cafe project; my hope i
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 47
+### Tuesday 2 April 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Worked on navigation component for cafe website:
+    * Styled component including links and logo element in centre of nav
+    * Used [a tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=57s) to help build the burger menu
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
