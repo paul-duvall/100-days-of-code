@@ -864,6 +864,23 @@ I also want to start thinking about adding some bits and pieces to my portfolio 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 48-49
+### Wednesday / Thursday 3 / 4 April 2019 
+
+#### Review / Learn:
+* Pushed on with React course, finishing the styling React section for first project, using that project to create a 'boiler plate' project to use going forward, setting up new project and starting to get into React Router
+
+#### Thoughts:
+Feels really good to push on into new territory with the React course, even though I strongly feel that the second run-through of the first half of the course was time well-spent. There are so many new concepts and tools to get to grips with, and I really felt that this review time helped solidify my understanding of some of those concepts.
+
+React Router - even though I have only just started - is undoubtedly giving me one of those glorious 'ah-ha!' moments. Now I know what client side rendering is!
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
