@@ -875,8 +875,20 @@ Feels really good to push on into new territory with the React course, even thou
 
 React Router - even though I have only just started - is undoubtedly giving me one of those glorious 'ah-ha!' moments. Now I know what client side rendering is!
 
-#### Link(s) to work
-links here
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 50
+### Saturday 6 April 2019 
+
+#### Review / Learn:
+* React course! Covered some more of React Router, including:
+    * Setting up a 404 page
+    * Linking between routes using Link and NavLink
+    * Organising routes into separate components using import / export
+
+#### Thoughts:
+Not a lot of time spent today but got my hour in! I continue to enjoy learning about React Router!
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
