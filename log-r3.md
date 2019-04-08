@@ -893,6 +893,28 @@ Not a lot of time spent today but got my hour in! I continue to enjoy learning a
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 51 / 52
+### Sunday / Monday 7/8 April 2019 
+
+#### Review / Learn:
+* Continued with React course:
+    * Practiced router by creating a basic multi-page portfolio
+    * Got an introduction to redux, covering how to set redux up and creating actions
+
+#### Project:
+* Worked on cafe project:
+    * Added hover effect for nav links
+    * Started to style the header section of the homepage
+
+#### Thoughts:
+Redux is a whole new way to manage state and it feels a little foreign at present, though I completely understand the need for it. I'm looking forward to setting up the next course project and putting Route and Redux into practice.
+
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
