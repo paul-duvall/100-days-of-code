@@ -922,13 +922,13 @@ Redux is a whole new way to manage state and it feels a little foreign at presen
 * Watched a video about [position: sticky](https://www.youtube.com/watch?v=8TyoihVGErI)
 
 #### Project:
-* 
+* Worked on cafe project, adding html and css for opening hours and recommendations section of homepage for mobile view. Opening hours section finished, recommendations section started.
 
 #### Thoughts:
 Thoughts here
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
