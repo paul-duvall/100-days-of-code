@@ -915,6 +915,25 @@ Redux is a whole new way to manage state and it feels a little foreign at presen
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 53 / 54
+### Tuesday / Wednesday - 9 / 10 March 2019 
+
+#### Review / Learn:
+* Watched a video about [position: sticky](https://www.youtube.com/watch?v=8TyoihVGErI)
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
