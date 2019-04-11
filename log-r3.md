@@ -924,11 +924,33 @@ Redux is a whole new way to manage state and it feels a little foreign at presen
 #### Project:
 * Worked on cafe project, adding html and css for opening hours and recommendations section of homepage for mobile view. Opening hours section finished, recommendations section started.
 
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 
+### Tuesday 5 March 2019 
+
+#### Review / Learn:
+* Read article about the [challenges of finding your first dev position](https://medium.com/@tuni_tech/your-first-developer-job-hunt-it-sucks-and-youre-not-alone-part-1-13c5a28942f8)
+* And another about the [new loading attribute](https://addyosmani.com/blog/lazy-loading/) which will allow lazy loading of images with no JavaScript
+* And another about [readability on the web](https://webdesign.tutsplus.com/articles/readability-on-the-web--cms-31165)
+* And another about the [CSS text align property](https://ishadeed.com/article/the-hidden-power-text-align/)
+
+#### Project:
+* Continued with cafe project, finishing off design of mobile version of homepage, adding some JavaScript to auto update the date in the copyright info and fixing an issue with the burger menu div being visible off the side of the screen when it should be hidden
+* Set up and complete the first front-end library project on freeCodeCamp - the Random Quote Machine!
+
 #### Thoughts:
-Thoughts here
+Made some great progress with the cafe project today - mobile version of homepage fully set up now. Will now create mid-size and full-size versions as quickly as possible so I can move on to the menu page.
+
+I feel great that I managed to set up the first front-end library project using React so quickly and managed to get it to pass all the tests straight away. This is the first app I have built independently using React and it is a relief to have finally built something so I can prove I have been learning this technology! It still needs to be styled but once that is done, I'll get it on to my portfolio (which desperately needs a projects page - that is near the top of the job list too!).
 
 #### Link(s) to work
 [Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+[Stoic Quote Machine](https://codepen.io/duvallpj/pen/VNpqLQ)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
