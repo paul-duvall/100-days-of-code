@@ -930,8 +930,8 @@ Redux is a whole new way to manage state and it feels a little foreign at presen
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-## Day 
-### Tuesday 5 March 2019 
+## Day 55
+### Thursday 11 April 2019 
 
 #### Review / Learn:
 * Read article about the [challenges of finding your first dev position](https://medium.com/@tuni_tech/your-first-developer-job-hunt-it-sucks-and-youre-not-alone-part-1-13c5a28942f8)
