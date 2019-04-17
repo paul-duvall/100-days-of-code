@@ -956,6 +956,23 @@ I feel great that I managed to set up the first front-end library project using 
 
 
 
+## Day 56
+### Wednesday 17 April 2019 
+
+#### Review / Learn:
+* Listened to a podcast about [how one person became a junior dev](https://learntocodewith.me/podcast/how-to-get-hired-as-a-junior-developer/)
+* Listened to a podcast about [creating a portfolio](https://syntax.fm/show/133/hasty-treat-tips-for-a-good-portfolio)
+
+#### Project:
+* Created a contact form, including styling and validation JavaScript, for a coding test for a job application
+
+#### Thoughts:
+I enjoyed working on the web form. Went with a simple design that was inline with the companies brand and was pleased with what I produced. Hopefully what I produced - something simple that does the job - was what they wanted!
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
