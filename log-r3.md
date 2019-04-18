@@ -973,6 +973,19 @@ I enjoyed working on the web form. Went with a simple design that was inline wit
 
 
 
+## Day 57
+### Tuesday 5 March 2019 
+
+#### Project:
+* Worked on cafe project, making homepage responsive for larger screens and adjusting positioning of nav links
+* Styled Quote machine React project
+
+#### Link(s) to work
+https://codepen.io/duvallpj/pen/VNpqLQ
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
