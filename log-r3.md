@@ -991,6 +991,7 @@ https://codepen.io/duvallpj/pen/VNpqLQ
 
 #### Review / Learn:
 * Posted an article to blog outlining how to set up a React.js environment
+* Started writing an article reviewing my portfolio
 
 #### Project:
 * Worked on cafe project:
