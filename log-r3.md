@@ -990,7 +990,7 @@ https://codepen.io/duvallpj/pen/VNpqLQ
 ### Sunday 21 March 2019 
 
 #### Review / Learn:
-* 
+* Posted an article to blog outlining how to set up a React.js environment
 
 #### Project:
 * Worked on cafe project:
@@ -1003,6 +1003,7 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 
 #### Link(s) to work
 [Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+[React environment article](http://let-there-be-code.com/2019/04/21/react-environment-setup/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
