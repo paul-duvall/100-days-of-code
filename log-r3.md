@@ -974,7 +974,7 @@ I enjoyed working on the web form. Went with a simple design that was inline wit
 
 
 ## Day 57
-### Tuesday 5 March 2019 
+### Tuesday 16 March 2019 
 
 #### Project:
 * Worked on cafe project, making homepage responsive for larger screens and adjusting positioning of nav links
@@ -982,6 +982,27 @@ I enjoyed working on the web form. Went with a simple design that was inline wit
 
 #### Link(s) to work
 https://codepen.io/duvallpj/pen/VNpqLQ
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 58
+### Sunday 21 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* Worked on cafe project:
+    * Applied CSS Grid to make recommendations section of homepage response
+    * Fixed issue with first recommendations section image sizing
+    * Fixed issue with opening hours background image
+
+#### Thoughts:
+It took a long time to impliment CSS grid in the recommendations section - longer than I was anticipating. This was in part due to the length of time since I have last used grid in a project and partially because it was quite fiddly - switching positions of divs at different screen-sizes, adding / removing borders for different divs depending on the screen size, etc.
+
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
