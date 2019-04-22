@@ -1009,6 +1009,25 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 59
+### Tuesday 5 March 2019 
+
+#### Review / Learn:
+* Complete three challenges on Hackerrank
+* Read an article about the [weird rules one jobseeker set for himself(https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
