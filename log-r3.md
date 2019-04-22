@@ -1017,13 +1017,13 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 * Read an article about the [weird rules one jobseeker set for himself(https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 #### Project:
-* 
+* Added html for menu page of cafe project
 
 #### Thoughts:
 Thoughts here
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
