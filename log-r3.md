@@ -1030,7 +1030,7 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 
 #### Review / Learn:
 * Read an article to review [array methods](https://areknawo.com/exploring-the-hidden-potential-of-javascript-arrays/) - which included a number of methods I hadn't heard of - including .entries(), .keys() and .values()
-
+* Solved a hackerrank challenge - Diagonal difference - that given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
 #### Project:
 * 
