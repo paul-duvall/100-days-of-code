@@ -1034,7 +1034,8 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 * Continued with React course, reviewing an introduction to Redux, installing Redux, using createStore, using actions to communicate with the store (an action is an object that must have at least one property - type), using store.dispatch to communicate with the store and setting up a switch statement to handle different types of action calls.
 * Continued with React learning:
     * how to add additional properties to an action object in order to pass dynamic information via the store.dispatch to the Redux           store
-    * using object destructuring (including default values and using a different name for the variable)
+    * using object destructuring (including default values and using a different name for the variable) for objects and arrays
+    * creating action generator functions (using destructuring for the arguments passed in) so that the objects required for the dispatch() calls to the store only need to be written once (this minimises the opportunities for typos)
 
 #### Project:
 * 
