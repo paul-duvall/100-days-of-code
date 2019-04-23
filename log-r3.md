@@ -1038,13 +1038,15 @@ It took a long time to impliment CSS grid in the recommendations section - longe
     * creating action generator functions (using destructuring for the arguments passed in) so that the objects required for the dispatch() calls to the store only need to be written once (this minimises the opportunities for typos)
 
 #### Project:
-* 
+* Worked on cafe project menu page, styling navigation buttons and section header
 
 #### Thoughts:
-Thoughts here
+A pretty productive day after a couple of weeks of being a little less consistent than I would have liked. Still, only four hours despite being at home all day - need to begin building this back up again. A full day at home should result in six hours of productive coding and coding-related activities.
+
+Still, it was good to get back into React. I enjoyed the Hackerrank challenge - I know I'm only on the easy ones, but it is reassuring that I am able to tackle these, since it has been a while since I've taken on any algorithm-like challenges such as these. And I made a satisfactory level of progress in the cafe project. Hopefully I can get the menu pages done within the next week and then I can take it to the client and see if I can get content for the catering page.
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
