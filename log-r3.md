@@ -1019,11 +1019,26 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 #### Project:
 * Added html for menu page of cafe project
 
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 60
+### Tuesday 23 March 2019 
+
+#### Review / Learn:
+* 
+
+#### Project:
+* 
+
 #### Thoughts:
 Thoughts here
 
 #### Link(s) to work
-[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
