@@ -1029,7 +1029,8 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 ### Tuesday 23 March 2019 
 
 #### Review / Learn:
-* 
+* Read an article to review [array methods](https://areknawo.com/exploring-the-hidden-potential-of-javascript-arrays/) - which included a number of methods I hadn't heard of - including .entries(), .keys() and .values()
+
 
 #### Project:
 * 
