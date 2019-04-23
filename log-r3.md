@@ -1031,6 +1031,10 @@ It took a long time to impliment CSS grid in the recommendations section - longe
 #### Review / Learn:
 * Read an article to review [array methods](https://areknawo.com/exploring-the-hidden-potential-of-javascript-arrays/) - which included a number of methods I hadn't heard of - including .entries(), .keys() and .values()
 * Solved a hackerrank challenge - Diagonal difference - that given a square matrix, calculate the absolute difference between the sums of its diagonals.
+* Continued with React course, reviewing an introduction to Redux, installing Redux, using createStore, using actions to communicate with the store (an action is an object that must have at least one property - type), using store.dispatch to communicate with the store and setting up a switch statement to handle different types of action calls.
+* Continued with React learning:
+    * how to add additional properties to an action object in order to pass dynamic information via the store.dispatch to the Redux           store
+    * using object destructuring (including default values and using a different name for the variable)
 
 #### Project:
 * 
