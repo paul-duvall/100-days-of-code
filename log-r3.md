@@ -1056,6 +1056,8 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 
 #### Review / Learn:
 * Solved two challenges on Hackerrank, Plus Minus and Staircase
+* Listened to a podcast interview about a developer who started [as a writer](https://freecodecamp.libsyn.com/ep-57-adam-hollett-from-writer-to-developer)
+* Listened to a podcast interview with a developer who started [as a lawyer](https://secondcareerdevs.com/episodes/sonia-gupta)
 
 #### Project:
 * Finished styling menu items on cafe project
@@ -1064,7 +1066,7 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 Thoughts here
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
