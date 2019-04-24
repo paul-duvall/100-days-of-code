@@ -1051,6 +1051,24 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 61
+### Wednesday 24 April 2019 
+
+#### Review / Learn:
+* Solved two challenges on Hackerrank, Plus Minus and Staircase
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
