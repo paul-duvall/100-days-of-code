@@ -1058,6 +1058,7 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 * Solved two challenges on Hackerrank, Plus Minus and Staircase
 * Listened to a podcast interview about a developer who started [as a writer](https://freecodecamp.libsyn.com/ep-57-adam-hollett-from-writer-to-developer)
 * Listened to a podcast interview with a developer who started [as a lawyer](https://secondcareerdevs.com/episodes/sonia-gupta)
+* Watched a talk by Jen Simmons called [Thinking with grid](https://vimeo.com/331578108)
 
 #### Project:
 * Finished styling menu items on cafe project
