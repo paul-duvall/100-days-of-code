@@ -1058,7 +1058,7 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 * Solved two challenges on Hackerrank, Plus Minus and Staircase
 
 #### Project:
-* 
+* Finished styling menu items on cafe project
 
 #### Thoughts:
 Thoughts here
