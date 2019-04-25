@@ -1072,6 +1072,25 @@ Thoughts here
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 62
+### Thursday 25 April 2019 
+
+#### Review / Learn:
+* Read an article reviewing [12 JavaScript concepts](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104), including destructuring, closure (which I've added to my review list), generators
+* Completed two challenges on Hackerrank, Birthday Cake Candles and miniMaxSum
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
