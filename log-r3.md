@@ -1064,7 +1064,6 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
 * Finished styling menu items on cafe project
 
 #### Thoughts:
-Thoughts here
 
 #### Link(s) to work
 [Cafe project repository](https://github.com/paul-duvall/lemon-tree)
@@ -1078,6 +1077,10 @@ Thoughts here
 #### Review / Learn:
 * Read an article reviewing [12 JavaScript concepts](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104), including destructuring, closure (which I've added to my review list), generators
 * Completed two challenges on Hackerrank, Birthday Cake Candles and miniMaxSum
+* Continued with React course, learning more about Redux:
+    * what reducer functions are and how they can be passed into createStore (they need to be pure functions and mustn't change the           state or actions
+    * how to use combineReducers to use multiple reducers instead of one big one
+    * using the array and object spread operator with redux
 
 #### Project:
 * 
