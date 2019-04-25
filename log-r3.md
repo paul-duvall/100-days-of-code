@@ -1083,13 +1083,13 @@ Still, it was good to get back into React. I enjoyed the Hackerrank challenge - 
     * using the array and object spread operator with redux
 
 #### Project:
-* 
+* Worked on cafe project menu page. Decided that, rather than hard-coding the menu items, they should be stored in JavaScript and be dynamically generated. Spent some time setting up that and getting it working.
 
 #### Thoughts:
-Thoughts here
+Again, positive experience with Hackerrank - this is turning into a really good way to start the day. React course continues to be good; the Redux structure is quite daunting but I have a basic understanding of what is happening.
 
 #### Link(s) to work
-links here
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
