@@ -1094,6 +1094,25 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 63
+### Friday 26 March 2019 
+
+#### Review / Learn:
+* Solved problem on Hackerrank
+* Continued reading YDKNJS: Types and Grammar, covering use of brackets to avoid disambiguation and ASI (Automatic Semicolon Insertion)
+
+#### Project:
+* 
+
+#### Thoughts:
+Thoughts here
+
+#### Link(s) to work
+links here
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 
 ### Tuesday 5 March 2019 
 
