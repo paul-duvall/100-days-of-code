@@ -1102,7 +1102,7 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 * Continued reading YDKNJS: Types and Grammar, covering use of brackets to avoid disambiguation and ASI (Automatic Semicolon Insertion)
 
 #### Project:
-* 
+* Worked on cafe project menu page, breaking JS out into separate file (resolving an issue with the JS looking for page elements that weren't there on other pages). Added in the JS functionality to change to different menu sections.
 
 #### Thoughts:
 Thoughts here
