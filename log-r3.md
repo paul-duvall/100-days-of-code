@@ -1115,7 +1115,7 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 
 #### Review / Learn:
 * Worked on a Hackerrank problem
-* 
+* Continued learning about Redux in React course, setting up a function to filter and sort the data and then integrating the Redux code written into the main course project and organising the code into separate files and folders (separate folders for the store, the actions and the reducers).
 
 #### Project:
 * 
