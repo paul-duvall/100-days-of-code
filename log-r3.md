@@ -1104,6 +1104,22 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 #### Project:
 * Worked on cafe project menu page, breaking JS out into separate file (resolving an issue with the JS looking for page elements that weren't there on other pages). Added in the JS functionality to change to different menu sections.
 
+#### Link(s) to work
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 64
+### Sunday 28 April 2019 
+
+#### Review / Learn:
+* Worked on a Hackerrank problem
+* 
+
+#### Project:
+* 
+
 #### Thoughts:
 Thoughts here
 
@@ -1111,6 +1127,7 @@ Thoughts here
 links here
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 
