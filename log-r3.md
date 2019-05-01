@@ -1117,24 +1117,17 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 * Worked on a Hackerrank problem
 * Continued learning about Redux in React course, setting up a function to filter and sort the data and then integrating the Redux code written into the main course project and organising the code into separate files and folders (separate folders for the store, the actions and the reducers).
 
-#### Project:
-* 
-
-#### Thoughts:
-Thoughts here
-
-#### Link(s) to work
-links here
-
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
 
-## Day 
-### Tuesday 5 March 2019 
+## Day 65
+### Tuesday / Wednesday 30 April - 1 May 2019 
 
 #### Review / Learn:
-* 
+* Read some Eloquent JavaScript, reviewing arrow functions, the call stack and optional arguments
+* Listened to a podcast about covering [What's new in web development](https://syntax.fm/show/138/what-s-new-in-web-development) which included discussion about CSS Houdini (which allows you to create your own CSS properties), subgrid (a CSS feature that will be launched soon that allows child elements to be part of the same grid as parents) and CSS scroll snap (that allows pages to 'snap' to a particular element / div).
+* Also listened podcast about [web accessability issues](https://learntocodewith.me/podcast/assistive-technology/)
 
 #### Project:
 * 
