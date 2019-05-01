@@ -1126,16 +1126,14 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 
 #### Review / Learn:
 * Read some Eloquent JavaScript, reviewing arrow functions, the call stack and optional arguments
+
 * Listened to a podcast about covering [What's new in web development](https://syntax.fm/show/138/what-s-new-in-web-development) which included discussion about CSS Houdini (which allows you to create your own CSS properties), subgrid (a CSS feature that will be launched soon that allows child elements to be part of the same grid as parents) and CSS scroll snap (that allows pages to 'snap' to a particular element / div).
+
 * Also listened podcast about [web accessability issues](https://learntocodewith.me/podcast/assistive-technology/)
 
-#### Project:
-* 
+* Continued React course, learning about Higher Order Components (HOCs). An HOC is a React component that renders another component. They allow you to reuse code and...some other stuff. I don't quite understand yet! Also went over using React-Redux in order to give a React app access to the Redux store.
 
 #### Thoughts:
-Thoughts here
-
-#### Link(s) to work
-links here
+I've been a little inconsistent over the last few days but I hope to get back on track now. The focus for the time being is split between pushing forward with React / Redux knowledge and finishing the cafe project. The React / Redux stuff today was very tricky and will need review.
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
