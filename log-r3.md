@@ -1150,7 +1150,7 @@ I've been a little inconsistent over the last few days but I hope to get back on
 * Continued to work on menu page, getting all of the menu items in place and tidying up styling
 
 #### Thoughts:
-
+Really worked hard on the cafe menu page today and brought it really close to completion. There are just a couple of bits that need finishing off but it is 95% done. Then I need to think about the other two pages, which should be significantly easier and - really - at the same time, work out how I'm going to present it to the client.
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
