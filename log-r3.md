@@ -1121,7 +1121,7 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 
 
 
-## Day 65
+## Day 65 / 66
 ### Tuesday / Wednesday 30 April - 1 May 2019 
 
 #### Review / Learn:
@@ -1135,5 +1135,36 @@ Again, positive experience with Hackerrank - this is turning into a really good 
 
 #### Thoughts:
 I've been a little inconsistent over the last few days but I hope to get back on track now. The focus for the time being is split between pushing forward with React / Redux knowledge and finishing the cafe project. The React / Redux stuff today was very tricky and will need review.
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 67 / 68
+### Thursday 2 + Friday 3 May 2019 
+
+#### Review / Learn:
+* Listened to [JS Party podcast](https://changelog.com/jsparty/73), which covered keeping up with changes in the dev world and book recommendations
+* Listened to [Syntax fm podcast](https://syntax.fm/show/140/potluck-media-queries-npm-vulnerabilities-fullstack-js-vs-jamstack-web-vr-ar-switching-jobs-more)
+
+#### Project
+* Continued to work on menu page, getting all of the menu items in place and tidying up styling
+
+#### Thoughts:
+
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 67
+### Friday 3 May 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+*
+
+#### Thoughts:
+
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
