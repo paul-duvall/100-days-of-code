@@ -1155,6 +1155,21 @@ Really worked hard on the cafe menu page today and brought it really close to co
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 69
+### Saturday 4 May 2019 
+
+#### Project
+* Continued to work on menu page, adding images for each section and data / JS for the extras sections
+
+#### Thoughts:
+It took quite some time to get the images to behave in the title block for each menu section. Went round and round in CSS circles and eventually adjusted the design so that the images didn't stretch across the whole menu div for larger screens (this was resulting in the images looking less than great). Instead, the image switches to the right hand part of the div, revealing a yellow background behind the text on the left.
+
+I then added the data for the extras section and managed to get this to generate on the breakfast and mains sections. This took a bit of adjusting. I didn't realise it was going to be necessary to make some adjustments given that I needed the html to generate in two separate locations. I had to use querySelectorAll to grab both locations from the DOM and then an extra forEach loop to loop through both locations, generating the code in each.
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+[Cafe project repository](https://github.com/paul-duvall/lemon-tree)
+
 ## Day 67
 ### Friday 3 May 2019 
 
