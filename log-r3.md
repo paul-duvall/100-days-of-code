@@ -1170,6 +1170,21 @@ I then added the data for the extras section and managed to get this to generate
 
 [Cafe project repository](https://github.com/paul-duvall/lemon-tree)
 
+## Day 70
+### Friday 3 May 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Finished off a few finishing touches on the menu page of cafe project
+
+#### Thoughts:
+
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
