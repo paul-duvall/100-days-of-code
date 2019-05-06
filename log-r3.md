@@ -1174,14 +1174,16 @@ I then added the data for the extras section and managed to get this to generate
 ### Friday 3 May 2019 
 
 #### Review / Learn:
-* Continued with React course, implimenting functionality into Expensify app, connecting it with the Redux store, first to render individual expenses to the screen and then to add a text input that updates the text filter in the filters object in the store and then updates the expenses visible according to that filter.
+* Continued with React course, implimenting functionality into Expensify app, connecting it with the Redux store, first to render individual expenses to the screen and then to add a text input that updates the text filter in the filters object in the store and then updates the expenses visible according to that filter. Also added in a dropdown to change the value of the sortBy field in the filters object so that the expenses shown are orders either by date or amount.
 
 #### Project
 * Finished off a few finishing touches on the menu page of cafe project
 * Put together design of contact page
 
 #### Thoughts:
+Good progress on cafe website. Just need to create the contact page (which shouldn't take long) and I'll then be in a position to show something to the client.
 
+Using React with Redux continues to be quite mind-bending, but I'm understanding the logic of how it works to some degree. Hopefully with continued practice and repetition, it will start to make sense. Essentially, I think the challenge he is to understand state and how state is managed. Since it is neccesary to set up a store and then create actions and reducers, it means there are several stages and, when the application is finally hooked up, everything suddenly working appears like magic. Need to keep at it and hopefully it will all click!
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
