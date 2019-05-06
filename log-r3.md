@@ -1174,7 +1174,7 @@ I then added the data for the extras section and managed to get this to generate
 ### Friday 3 May 2019 
 
 #### Review / Learn:
-* 
+* Continued with React course, implimenting functionality into Expensify app, connecting it with the Redux store, first to render individual expenses to the screen and then to add a text input that updates the text filter in the filters object in the store and then updates the expenses visible according to that filter.
 
 #### Project
 * Finished off a few finishing touches on the menu page of cafe project
