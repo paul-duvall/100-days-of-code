@@ -1178,6 +1178,7 @@ I then added the data for the extras section and managed to get this to generate
 
 #### Project
 * Finished off a few finishing touches on the menu page of cafe project
+* Put together design of contact page
 
 #### Thoughts:
 
