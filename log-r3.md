@@ -1187,6 +1187,24 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+(NB. For days in between here, I did listen to multiple podcasts and read some of Eloquent JavaScript.)
+
+## Day 71
+### Saturday 11 May 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Added design for cafe contact page mobile version
+* Added html and CSS for mobile view for contact page
+
+#### Thoughts:
+
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 
 ## Day 67
 ### Friday 3 May 2019 
