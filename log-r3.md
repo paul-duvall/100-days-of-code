@@ -1207,6 +1207,7 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 * Continued with React course:
     * Added the 'add expense' form to the expensify app, creating a new component using a React class that generates a form. The input fields of the form each update a field in the class's state object (the amount field uses a regular expression to check that the form is correct).
     * Added a date picker to the form using [moment.js](http://momentjs.com/) (a time utility library that allows you to easily work with time and dates) and [react-dates](https://github.com/airbnb/react-dates), the actual calendar picker tool.
+    * Set the form to update the Redux store on submit by calling a prop passed in from the parent (the add expense page). This is important - we wanted the submission to be handled by the page rather than the form because we will be reusing the form on the edit expense page, which will need to handle the data differently (they will need to dispatch different actions). Also used the history.push() method to switch pages back to the dashboard.
 
 #### Project
 *
