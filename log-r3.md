@@ -1192,18 +1192,29 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 ## Day 71
 ### Saturday 11 May 2019 
 
-#### Review / Learn:
-* 
-
 #### Project
 * Added design for cafe contact page mobile version
 * Added html and CSS for mobile view for contact page
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
+## Day 72
+### Monday 13 May 2019 
+
+#### Review / Learn:
+* Continued with React course:
+    * Added the 'add expense' form to the expensify app, creating a new component using a React class that generates a form. The input fields of the form each update a field in the class's state object (the amount field uses a regular expression to check that the form is correct).
+    * Added a date picker to the form using [moment.js](http://momentjs.com/) (a time utility library that allows you to easily work with time and dates) and [react-dates](https://github.com/airbnb/react-dates), the actual calendar picker tool.
+
+#### Project
+*
 
 #### Thoughts:
 
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
-
 
 
 ## Day 67
