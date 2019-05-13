@@ -1210,9 +1210,10 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
     * Set the form to update the Redux store on submit by calling a prop passed in from the parent (the add expense page). This is important - we wanted the submission to be handled by the page rather than the form because we will be reusing the form on the edit expense page, which will need to handle the data differently (they will need to dispatch different actions). Also used the history.push() method to switch pages back to the dashboard.
 
 #### Project
-*
+* Started working on Markdown Viewer project on freecodecamp using React
 
-#### Thoughts:
+#### Link(s) to work
+[Markdown viewer](https://codepen.io/duvallpj/pen/zQKpBY)
 
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
