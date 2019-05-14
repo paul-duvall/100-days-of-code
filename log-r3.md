@@ -1226,9 +1226,11 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 * Read an article on [becoming a Junior Developer in 2019](https://medium.com/epfl-extension-school/becoming-a-junior-developer-in-2019-1942e4f6427f), which made some interesting points:
     * A key skill is testing / troubleshooting - need to be good at reading / understanding code that is already written and be familiar with common troubleshooting methods (things like - and I have no idea what these terms mean yet! - step-by-step execution, verifying assumptions). Should learn a testing framework.
     * Domain knowledge - look for jobs in an area where you already have experience. For me, this would be education. I don't know how many developer jobs there are linked to education that are local to me (none that I have seen!) but this is worth bearing in mind.
+* Continued working on React course, not getting too far. Was setting up edit expense page on expensify app, but hit a road block when it didn't update correctly. Will need to rewatch this part.
 
 #### Project
 * Continued working on Markdown Viewer project, using the React prop dangerouslySetInnerHTML to resolve the issue I was having yesterday with the keystroke delay on the previewer working. Also added the initial markdown text that appears when the app is loaded, including a header (H1 size), a sub header (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text. 
+* 
 
 #### Thoughts:
 Made good progress on the Markdown viewer, which is now fully-operational and passing all tests. Next, it will need styling.
