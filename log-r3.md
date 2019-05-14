@@ -1230,16 +1230,21 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 
 #### Project
 * Continued working on Markdown Viewer project, using the React prop dangerouslySetInnerHTML to resolve the issue I was having yesterday with the keystroke delay on the previewer working. Also added the initial markdown text that appears when the app is loaded, including a header (H1 size), a sub header (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text. 
-* 
+* Started updating the projects page of my portfolio so that it is in-line with the original design. Added two more cards, setup the skewed background gradient and made some adjustments to the layout so everything is centered on smaller viewports.
 
 #### Thoughts:
-Made good progress on the Markdown viewer, which is now fully-operational and passing all tests. Next, it will need styling.
+Made good progress on the Markdown viewer, which is now fully-operational and passing all tests. Next, it will need styling but that will be a job for another day.
+
+Working on the React course continues to be challenging; the application we are making is now extremely complex (from my perspective) using Redux and React-Router - currently the code is spread over 18 different files. Hence making the move back to completing freeCodeCamp projects. These projects not only some much needed practice in actually implementing React, but also some finished items that can be integrated into my portfolio.
+
+It was also good to look back to my portfolio and to start building out the projects page properly. This was not without challenges - centering the content proved suprisingly tricky since I was trying to position the project cards over a skewed background; I ended up utilising the fact that I was already using position relative and absolute by implimenting a trick using transform: translate I learnt from the advanced CSS course.
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 #### Link(s) to work
 [Markdown viewer](https://codepen.io/duvallpj/pen/zQKpBY)
-
+[Portfolio 2 github repository](https://github.com/paul-duvall/portfolio-2)
+[Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 
 ## Day 67
