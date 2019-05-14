@@ -1219,6 +1219,24 @@ Using React with Redux continues to be quite mind-bending, but I'm understanding
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 72
+### Tuesday 14 May 2019 
+
+#### Review / Learn:
+* Read an article on [becoming a Junior Developer in 2019](https://medium.com/epfl-extension-school/becoming-a-junior-developer-in-2019-1942e4f6427f), which made some interesting points:
+    * A key skill is testing / troubleshooting - need to be good at reading / understanding code that is already written and be familiar with common troubleshooting methods (things like - and I have no idea what these terms mean yet! - step-by-step execution, verifying assumptions). Should learn a testing framework.
+    * Domain knowledge - look for jobs in an area where you already have experience. For me, this would be education. I don't know how many developer jobs there are linked to education that are local to me (none that I have seen!) but this is worth bearing in mind.
+
+#### Project
+* Continued working on Markdown Viewer project, using the React prop dangerouslySetInnerHTML to resolve the issue I was having yesterday with the keystroke delay on the previewer working
+
+#### Thoughts:
+
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
