@@ -1247,6 +1247,18 @@ It was also good to look back to my portfolio and to start building out the proj
 [Portfolio website](https://wizardly-snyder-0678f7.netlify.com/#)
 
 
+## Day 73
+### Wednesday 15 May 2019 
+
+#### Project
+* Made some tweaks to the cafe project site; layout adjustments on contact page, a minor copy change on the homepage and adjusting the images appearing in the header sections on each page
+
+#### Thoughts:
+Short and sweet today. Client came round to look at site and was pleased. They will be providing some copy and images to go on the two final pages. Hoping to turn it around in the next month, but this is dependent on them providing that text.
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
