@@ -1259,6 +1259,27 @@ Short and sweet today. Client came round to look at site and was pleased. They w
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 74
+### Friday 3 May 2019 
+
+#### Review / Learn:
+* Read a good article called [Moving passed tutorials: pseudocode](https://dev.to/aspittel/moving-past-tutorials-pseudocode-13a6) covering the importance of being able to write good pseudo-code in the early stages of working out how to tackle a project.
+
+#### Project
+* Styled the markdown view and submitted to freeCodeCamp
+
+#### Thoughts:
+Styling the markdown viewer took longer than anticipated but I'm pleased with how it has turned out. Particularly pleased with how the 'top-bars' of the editor and viewer components feel that they are properly connects to the main components (especially the use of border-radius at the top of the top bar and the bottom of the main component to give them a consistent feel) and the styling of the scroll bar on the editor. I didn't spend too long on this so no doubt it could be improved, but I'm happy that I managed to add some styling to it.
+
+I enjoyed the pseudocode article and wrote some pseudocode for my bedtime routine, which was fun. Then I wrote some pseudocode for a freeCodeCamp JavaScript algorithm challenge and then used that to write a solution.
+
+#### Link(s) to work
+[Markdown viewer](https://codepen.io/duvallpj/pen/zQKpBY)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
@@ -1270,5 +1291,6 @@ Short and sweet today. Client came round to look at site and was pleased. They w
 
 #### Thoughts:
 
+#### Link(s) to work
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
