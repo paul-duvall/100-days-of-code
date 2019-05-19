@@ -1280,6 +1280,23 @@ I enjoyed the pseudocode article and wrote some pseudocode for my bedtime routin
 
 
 
+## Day 75
+### Friday 3 May 2019 
+
+#### Project
+* Worked on the project page of my portfolio, making the project cards responsive + changing the layout on larger viewports using CSS grid. Also fixed issue with background images of project cards not taking up the full card and added newer projects. 
+
+#### Thoughts:
+Not a huge amount of coding today, but made some great progress on portfolio and made changes live. There are a couple of issues that will need to be fixed (form at bottom of projects page broken, project cards not staying central on larger viewports).
+
+#### Link(s) to work
+[Portfolio projects page](https://pjdwebdesign.com/projects.html)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
