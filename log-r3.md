@@ -1260,7 +1260,7 @@ Short and sweet today. Client came round to look at site and was pleased. They w
 
 
 ## Day 74
-### Friday 3 May 2019 
+### Friday 17 May 2019 
 
 #### Review / Learn:
 * Read a good article called [Moving passed tutorials: pseudocode](https://dev.to/aspittel/moving-past-tutorials-pseudocode-13a6) covering the importance of being able to write good pseudo-code in the early stages of working out how to tackle a project.
@@ -1281,7 +1281,7 @@ I enjoyed the pseudocode article and wrote some pseudocode for my bedtime routin
 
 
 ## Day 75
-### Friday 3 May 2019 
+### Sunday 19 May 2019 
 
 #### Project
 * Worked on the project page of my portfolio, making the project cards responsive + changing the layout on larger viewports using CSS grid. Also fixed issue with background images of project cards not taking up the full card and added newer projects. 
@@ -1291,6 +1291,25 @@ Not a huge amount of coding today, but made some great progress on portfolio and
 
 #### Link(s) to work
 [Portfolio projects page](https://pjdwebdesign.com/projects.html)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 76
+### Monday 20 May 2019 
+
+#### Review / Learn:
+* Read [Receiving a problem to solve](https://dev.to/aspittel/moving-past-tutorials-receiving-a-problem-to-solve-2hf8) article by Ali Spittel. Learnt what MVP means (not Most Valuable Primate...actually Minimum Viable Product!) - the most basic site / application that can be deployed and made available to users. 
+
+#### Project
+* Started to think about Hiit project; as per the article above, 
+* Learnt how to use create-react-app in order to quickly create a simple React.js application. Deployed as a practice to Netlify.
+
+#### Thoughts:
+The idea for a project related to Hiit training was suggested to me by a friend. He proposed an application that would randomly generate a sequence of exercises for a Hiit workout session.
+
+#### Link(s) to work
+[Practice deploy to netlify](https://sad-benz-30063a.netlify.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
