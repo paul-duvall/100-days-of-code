@@ -1300,6 +1300,7 @@ Not a huge amount of coding today, but made some great progress on portfolio and
 
 #### Review / Learn:
 * Read [Receiving a problem to solve](https://dev.to/aspittel/moving-past-tutorials-receiving-a-problem-to-solve-2hf8) article by Ali Spittel. Learnt what MVP means (not Most Valuable Primate...actually Minimum Viable Product!) - the most basic site / application that can be deployed and made available to users. 
+* Worked through the Metronome project in Dave Ceddia's [6 Fun React Projects You Can Build article](https://daveceddia.com/react-practice-projects/)
 
 #### Project
 * Started to think about Hiit project; as per the article above, 
@@ -1310,6 +1311,7 @@ The idea for a project related to Hiit training was suggested to me by a friend.
 
 #### Link(s) to work
 [Practice deploy to netlify](https://sad-benz-30063a.netlify.com/)
+[Metronome](https://suspicious-mirzakhani-bf1c66.netlify.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
