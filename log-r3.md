@@ -1316,6 +1316,23 @@ The idea for a project related to Hiit training was suggested to me by a friend.
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 77
+### Wednesday 22 May 2019 
+
+#### Review / Learn:
+* Listened to a [second career devs podcast](https://secondcareerdevs.com/episodes/kurt-kemple) about an ex-felon who became a web developer. Very interesting, particularly hearing what he had to say about mindset during the times that might be consider low points in life: need to approach every day with a positive attitude. He said to be wary of viewing getting a development job as success and expecting everything to be ok after that. Some of the days right now could well be the best days if viewed with a positive attitude.
+
+#### Project
+* Worked on adding some animations to portfolio site.
+
+#### Thoughts:
+Made quick work of setting up some simple animations on my portfolio homepage, something I have been meaning to do for a while now. I used keyframes and the animation property. Commited and uploaded to Gitub. For some reason, these animations are not having an effect on my live site. A problem for another day!
+
+#### Link(s) to work
+[Portfolio](https://pjdwebdesign.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 67
