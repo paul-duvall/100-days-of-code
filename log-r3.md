@@ -1333,6 +1333,22 @@ Made quick work of setting up some simple animations on my portfolio homepage, s
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+## Day 78
+### Friday 3 May 2019 
+
+#### Review / Learn:
+* Watched a video, read docs for AOS, an animate on scroll library.
+* Created a demo site to practice using the library.
+
+#### Thoughts:
+I intend to use this animation library on my portfolio. Should be able to implement this tomorrow.
+
+#### Link(s) to work
+[AOS Demo site](https://unruffled-brattain-507825.netlify.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 
 
 ## Day 67
