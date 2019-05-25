@@ -1333,8 +1333,9 @@ Made quick work of setting up some simple animations on my portfolio homepage, s
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+
 ## Day 78
-### Friday 3 May 2019 
+### Thursday 23 May 2019 
 
 #### Review / Learn:
 * Watched a video, read docs for AOS, an animate on scroll library.
@@ -1345,6 +1346,24 @@ I intend to use this animation library on my portfolio. Should be able to implem
 
 #### Link(s) to work
 [AOS Demo site](https://unruffled-brattain-507825.netlify.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 79
+### Saturday 25 May 2019 
+
+#### Review / Learn:
+* Listened to podcast about [CSS - The Cool Parts](https://syntax.fm/show/146/css-the-cool-parts)
+
+#### Project
+* Added AOS library to portfolio and used to animate elements on homepage and projects page
+
+#### Thoughts:
+It really was quite straight-forward to use the AOS library and quick to add animations to my portfolio. These simple animations on scroll, I hope, are subtle enough so as not to detract from content. They have made the pages feel a little more dynamic.
+
+#### Link(s) to work
+[Portfolio](https://pjdwebdesign.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
