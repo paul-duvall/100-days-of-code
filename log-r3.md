@@ -1368,6 +1368,26 @@ It really was quite straight-forward to use the AOS library and quick to add ani
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 80-81
+### Monday / Tuesday 27 / 28 May 2019 
+
+#### Review / Learn:
+* Worked through a React tutorial making a recipe app. 
+* Worked on a hackerrank problem - couldn't do it! Got close but it failed some test cases and I couldn't work out why
+
+#### Project
+* Made some tweaks to portfolio
+    * Adjusted timings on button animation on homepage
+    * Fixed height on background on projects page so it spans all the main projects
+* Took a look at drum machine project on freecodecamp - it looks hard!
+
+#### Thoughts:
+
+#### Link(s) to work
+[Portfolio](https://pjdwebdesign.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
 
 
 ## Day 67
