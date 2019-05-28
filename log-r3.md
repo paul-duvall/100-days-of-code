@@ -1380,6 +1380,7 @@ It really was quite straight-forward to use the AOS library and quick to add ani
     * Adjusted timings on button animation on homepage
     * Fixed height on background on projects page so it spans all the main projects
 * Took a look at drum machine project on freecodecamp - it looks hard!
+* Started to design a product page for boardgame shop site
 
 #### Thoughts:
 
