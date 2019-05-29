@@ -1391,6 +1391,27 @@ It really was quite straight-forward to use the AOS library and quick to add ani
 
 
 
+## Day 82
+### Wednseday 29 May 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Continued looking at the freecodecamp drum machine, making some progress. Built array of objects to house the sounds and related properties. Rendered a button to the screen for each object in the array. Adjusted the handleSound function so that it plays a different sound depending upon which button is clicked.
+
+#### Thoughts:
+Progress made with drum machine app - I feel like this is progressing in a positive direction now. There are, however, a couple of bugs now: firstly, there is an error the first couple of times a button is clicked - uncaught (in promise) DOMException - and secondly, it seems that the first time a button is pressed, it plays the sound assigned to the previous button.
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
