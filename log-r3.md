@@ -1396,6 +1396,7 @@ It really was quite straight-forward to use the AOS library and quick to add ani
 
 #### Review / Learn:
 * Posted an article about [JSX](http://let-there-be-code.com/2019/05/29/jsx/) on my blog.
+* Completed a couple of freecodecamp lessons in the React section
 
 #### Project
 * Continued looking at the freecodecamp drum machine, making some progress. Built array of objects to house the sounds and related properties. Rendered a button to the screen for each object in the array. Adjusted the handleSound function so that it plays a different sound depending upon which button is clicked.
