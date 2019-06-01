@@ -1410,6 +1410,29 @@ Progress made with drum machine app - I feel like this is progressing in a posit
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 83 / 84
+### Friday / Saturday 30 May - 1 June 2019
+
+#### Review / Learn:
+* Read a good article about [how to write clean, scalable JavaScript](https://blog.logrocket.com/12-tips-for-writing-clean-and-scalable-javascript-3ffe30abfe20/). Not much new but a good reminder of general principles.
+
+#### Project
+* Started adding a section at the bottom of the projects page on my portfolio for smaller mini-projects
+* Worked on drum machine, fixing the issue with each button playing the sound of the previous button before switching over to correct sound. This was achieved by cutting out an unnessessary stage I had put in (I had added a property to the state to hold the location of the sound file but actually this could be automatically assigned from its location in the sound's object, cutting out the need to use the state) and using async / await so that the sound doesn't play until the state has been set.
+* Also on drum machine, started to add functionality to enable sound to play on key press. Used componentDidMount() to add an event listener that runs a function that grabs the keycode from the event object.
+
+#### Thoughts:
+Haven't done as much as I would like over the last couple of days, but when I have sat down and coded, it has felt productive. Have been in contact with client for cafe website; it sounds like she will be able to provide the remaining content soon and then that will be up and running. Really looking forward to getting that, and my drum machine, added to my portfolio. 
+
+I read an article about how jQuery was still relevant. Made me think that I should be building something using jQuery to demonstrate that I am able to use that tech (and to remind myself of the syntax / methods, etc. because I have basically forgotten all of it) - possibly the boardgame product page I am working on...
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+[Portfolio](https://pjdwebdesign.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
