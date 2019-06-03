@@ -1433,6 +1433,23 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 85
+### Monday 3 June 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Worked on drum machine, adding functionality that enables sounds to play on key press
+
+#### Thoughts:
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 67
 ### Friday 3 May 2019 
 
