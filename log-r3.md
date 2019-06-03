@@ -1441,11 +1441,13 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 
 #### Project
 * Worked on drum machine, adding functionality that enables sounds to play on key press
+* Finished adding secondary projects to projects page on portfolio
 
 #### Thoughts:
 
 #### Link(s) to work
 [drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+[Portfolio](https://pjdwebdesign.com/)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
