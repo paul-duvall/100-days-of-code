@@ -1444,6 +1444,7 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 #### Project
 * Worked on drum machine, adding functionality that enables sounds to play on key press
 * Finished adding secondary projects to projects page on portfolio
+* Started working on a jQuery-focused project - a movie quote quiz. Created basic setup - a 'start screen', a container than houses a random multiple-choice question and an info section that currently contains a score tracker
 
 #### Thoughts:
 
