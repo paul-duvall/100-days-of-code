@@ -1437,7 +1437,9 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 ### Monday 3 June 2019 
 
 #### Review / Learn:
-* 
+* Review jQuery a bit by watching a couple of tutorial videos:
+    * [jQuery Race Game](https://www.youtube.com/watch?v=QVSwX98kKFs)
+    * [jQuery effects and animation](https://www.youtube.com/watch?v=QVSwX98kKFs)
 
 #### Project
 * Worked on drum machine, adding functionality that enables sounds to play on key press
