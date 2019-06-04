@@ -1464,6 +1464,7 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 #### Project
 * Resolved issue with score tracker in Movie Quote Quiz and added some basic styling
 * Started putting in place html for skills page on portfolio
+* Responded to email from cafe site client, adding to and editing some provided copy and sending it back for their approval
 
 #### Thoughts:
 
