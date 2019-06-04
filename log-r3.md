@@ -1440,23 +1440,42 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 * Review jQuery a bit by watching a couple of tutorial videos:
     * [jQuery Race Game](https://www.youtube.com/watch?v=QVSwX98kKFs)
     * [jQuery effects and animation](https://www.youtube.com/watch?v=QVSwX98kKFs)
+* Started writing blog post on multitasking in coding
 
 #### Project
 * Worked on drum machine, adding functionality that enables sounds to play on key press
 * Finished adding secondary projects to projects page on portfolio
 * Started working on a jQuery-focused project - a movie quote quiz. Created basic setup - a 'start screen', a container than houses a random multiple-choice question and an info section that currently contains a score tracker
 
-#### Thoughts:
-
 #### Link(s) to work
 [drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
 [Portfolio](https://pjdwebdesign.com/)
+[Movie Quote Quiz](https://codepen.io/duvallpj/pen/wbNYwQ)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-## Day 67
-### Friday 3 May 2019 
+## Day 86
+### Tuesday 4 June 2019 
+
+#### Review / Learn:
+* Finished writing blog post on multitasking in coding (will need to edit)
+
+#### Project
+* Spent some time looking at issue with score tracker in Movie Quote Quiz. No luck in finding a solution as yet.
+* Started putting in place html for skills page on portfolio
+
+#### Thoughts:
+
+#### Link(s) to work
+[Portfolio](https://pjdwebdesign.com/)
+[Movie Quote Quiz](https://codepen.io/duvallpj/pen/wbNYwQ)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 86
+### Tuesday 4 June 2019 
 
 #### Review / Learn:
 * 
