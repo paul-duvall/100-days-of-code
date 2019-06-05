@@ -1475,6 +1475,22 @@ I read an article about how jQuery was still relevant. Made me think that I shou
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 87
+### Wednesday 5 June 2019 
+
+#### Project
+* Worked on movie quote quiz, adding some styling and functionality for 'lives' - you get three lives and, if they run out, the game ends.
+
+#### Thoughts:
+Short and sweet today. Also tried to add reset to movie quiz, which is proving more complex than I anticipated. I reset the lives to to three but, for some reason, when it restarts, it doesn't register the newly updated lives and so ends the game immediately. One for another day.
+
+#### Link(s) to work
+[Movie Quote Quiz](https://codepen.io/duvallpj/pen/wbNYwQ)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 86
 ### Tuesday 4 June 2019 
 
