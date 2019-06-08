@@ -1491,6 +1491,40 @@ Short and sweet today. Also tried to add reset to movie quiz, which is proving m
 
 
 
+## Day 88
+### Friday 7 June 2019 
+
+#### Review / Learn:
+* Took up the Advanced CSS course again, finishing the section on styling a modal, adding a nice subtle zoon animation on open
+
+#### Project
+* Worked on drum machine, starting to style the app, adding a display that shows what sound is currently playing and an on/off button
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 89
+### Tuesday 4 June 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Added animation to buttons on click and changed the on/off button to a slider
+
+#### Thoughts:
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
+
 ## Day 86
 ### Tuesday 4 June 2019 
 
