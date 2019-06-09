@@ -1521,17 +1521,16 @@ Short and sweet today. Also tried to add reset to movie quiz, which is proving m
 ## Day 90
 ### Sunday 9 June 2019 
 
-#### Review / Learn:
-* 
-
 #### Project
 * Changed 'featured project' on portfolio homepage to the Stoic Quote Machine
 * Contacted cafe project client to explain that provided images were quite low quality and suggesting a way to send images of a higher quality (which I know they have)
 * Created design for the cafe project 'about us' page using XD
-* Started to code the cafe project 'about us' page
+* Started to code the cafe project 'about us' page, adding html and css for smaller viewports. Started to code responsive version for larger viewports
 
 #### Thoughts:
 Emailed a couple of recruiters about jobs today. One job, in particular - a junior web developer role - looks promising. Conscious that this means someone new will be looking at my portfolio, I changed the 'featured project' on my portfolio homepage away from devLearn to the Stoic Quote Machine. This project may be quite simple, but it is complete, demonstrates my ability to used Reactjs and is quite well-designed.
+
+Made a personal commitment to push forward with the cafe project - need to get this done ASAP as I would like it done and am quite keen to feature it in my portfolio. Worked on the about us page today then hit a bump with responsive css. Will take another look tomorrow.
 
 #### Link(s) to work
 [Portfolio](https://pjdwebdesign.com/)
