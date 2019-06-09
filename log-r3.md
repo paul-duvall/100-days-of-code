@@ -1509,19 +1509,34 @@ Short and sweet today. Also tried to add reset to movie quiz, which is proving m
 ## Day 89
 ### Tuesday 4 June 2019 
 
-#### Review / Learn:
-* 
-
 #### Project
-* Added animation to buttons on click and changed the on/off button to a slider
-
-#### Thoughts:
+* Drum machine - added animation to buttons on click and changed the on/off button to a slider
 
 #### Link(s) to work
 [drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
+
+## Day 90
+### Sunday 9 June 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Changed 'featured project' on portfolio homepage to the Stoic Quote Machine
+* Contacted cafe project client to explain that provided images were quite low quality and suggesting a way to send images of a higher quality (which I know they have)
+* Created design for the cafe project 'about us' page using XD
+* Started to code the cafe project 'about us' page
+
+#### Thoughts:
+Emailed a couple of recruiters about jobs today. One job, in particular - a junior web developer role - looks promising. Conscious that this means someone new will be looking at my portfolio, I changed the 'featured project' on my portfolio homepage away from devLearn to the Stoic Quote Machine. This project may be quite simple, but it is complete, demonstrates my ability to used Reactjs and is quite well-designed.
+
+#### Link(s) to work
+[Portfolio](https://pjdwebdesign.com/)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
 
