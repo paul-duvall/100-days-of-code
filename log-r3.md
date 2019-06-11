@@ -1543,7 +1543,7 @@ Made a personal commitment to push forward with the cafe project - need to get t
 ### Tuesday 11 June 2019 
 
 #### Review / Learn:
-* 
+* Posted blog on multitasking and coding
 
 #### Project
 * Worked on cafe project, completing work on loayout and image styling for about page and creating and populating an image gallery page using lightbox. Navigation updated, removing catering link and adding in link to new gallery page.
