@@ -1547,7 +1547,7 @@ Made a personal commitment to push forward with the cafe project - need to get t
 
 #### Project
 * Worked on cafe project, completing work on loayout and image styling for about page and creating and populating an image gallery page using lightbox. Navigation updated, removing catering link and adding in link to new gallery page.
-* Add some styling to my movie quote quiz
+* Add some styling to my movie quote quiz, some extra questions and some functionality at the end to provide a different end-game message depending on the user's score.
 
 #### Thoughts:
 Lemon Tree very, very close to being complete. There are a few layout bugs to sort on the homepage and then client's images will need to be integrated replacing old images, then it'll be done. Hopefully will be able to get the rest of the work done by the end of the week and will then host on Netlify and send client a link.
