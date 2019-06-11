@@ -1547,12 +1547,14 @@ Made a personal commitment to push forward with the cafe project - need to get t
 
 #### Project
 * Worked on cafe project, completing work on loayout and image styling for about page and creating and populating an image gallery page using lightbox. Navigation updated, removing catering link and adding in link to new gallery page.
+* Add some styling to my movie quote quiz
 
 #### Thoughts:
 Lemon Tree very, very close to being complete. There are a few layout bugs to sort on the homepage and then client's images will need to be integrated replacing old images, then it'll be done. Hopefully will be able to get the rest of the work done by the end of the week and will then host on Netlify and send client a link.
 
 #### Link(s) to work
 [cafe respository](https://github.com/paul-duvall/lemon-tree)
+[Movie quote quiz](https://codepen.io/duvallpj/pen/OYqEeY)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
