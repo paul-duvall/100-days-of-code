@@ -1559,6 +1559,22 @@ Lemon Tree very, very close to being complete. There are a few layout bugs to so
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 92
+### Thursday 13 June 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Made some adjustments to CSS for the movie quiz in the hope of removing the display issues some users were experiencing. Also moved project off codepen, setting up a git hub repository and deploying to Netlify.
+
+#### Thoughts:
+
+#### Link(s) to work
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 86
 ### Tuesday 4 June 2019 
 
