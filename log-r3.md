@@ -1559,16 +1559,21 @@ Lemon Tree very, very close to being complete. There are a few layout bugs to so
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-## Day 92
-### Thursday 13 June 2019 
+## Day 92 / 93
+### Thursday / Saturday 13 / 15 June 2019 
 
 #### Review / Learn:
-* 
+* Continued with Advanced CSS course, reviewing media queries, including the pros and cons of mobile first:
+
+![Responsive design - mobile first](https://raw.githubusercontent.com/paul-duvall/website_images/master/responsive-design-mobile-first.jpg)
+
+The lesson also covered selecting breakpoints. It suggested that using standard breakpoints based on currently-popular devices is a bad strategy. Better is to use an average of commonly-used devices. Even better is to ignore devices and base decisions upon the design.
 
 #### Project
 * Made some adjustments to CSS for the movie quiz in the hope of removing the display issues some users were experiencing. Also moved project off codepen, setting up a git hub repository and deploying to Netlify.
 
 #### Thoughts:
+Reviewing media queries was interesting - it occured to me that I have never actually worked through any proper courses on this subject, having just picked up what I know here and there as I needed it. 
 
 #### Link(s) to work
 
