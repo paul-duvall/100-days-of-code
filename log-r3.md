@@ -1577,6 +1577,7 @@ Then moved on to actually implimenting some media queries, which was achieved us
 
 #### Project
 * Made some adjustments to CSS for the movie quiz in the hope of removing the display issues some users were experiencing. Also moved project off codepen, setting up a git hub repository and deploying to Netlify.
+* Also added gradient effect to the main title
 
 #### Thoughts:
 Reviewing media queries was interesting - it occured to me that I have never actually worked through any proper courses on this subject, having just picked up what I know here and there as I needed it. Using Sass mixins is a bit of a revelation - it will clearly lead to more readable code since having all the code related a particular class / id / tag in the same area will make it a lot easier to write and edit.
@@ -1584,7 +1585,7 @@ Reviewing media queries was interesting - it occured to me that I have never act
 Also, now that we are implimenting media queries, it is really clear just how useful it is to base everything on rems and to manual control what 1rem equals. So by adjusting this for different viewport sizes, not only do the font sizes change across the site, things like padding and margin begin to automatically adjust, reducing the size of buttons, padding around components, etc. really quickly and with hardly any effort.
 
 #### Link(s) to work
-[Movie Quote Quiz](https://quizzical-edison-7689de.netlify.com/)
+[Movie Quote Quiz](https://quizzical-edison-7689de.netlify.com/)  
 [Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
