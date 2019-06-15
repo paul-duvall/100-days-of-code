@@ -1569,11 +1569,19 @@ Lemon Tree very, very close to being complete. There are a few layout bugs to so
 
 The lesson also covered selecting breakpoints. It suggested that using standard breakpoints based on currently-popular devices is a bad strategy. Better is to use an average of commonly-used devices. Even better is to ignore devices and base decisions upon the design.
 
+Then moved on to actually implimenting some media queries, which was achieved using Sass mixins and the 'content directiive', which allows you to pass properties into a mixin:
+
+@mixin respond-phone {
+  @media (max-width: 600px) { @content };
+}
+
 #### Project
 * Made some adjustments to CSS for the movie quiz in the hope of removing the display issues some users were experiencing. Also moved project off codepen, setting up a git hub repository and deploying to Netlify.
 
 #### Thoughts:
-Reviewing media queries was interesting - it occured to me that I have never actually worked through any proper courses on this subject, having just picked up what I know here and there as I needed it. 
+Reviewing media queries was interesting - it occured to me that I have never actually worked through any proper courses on this subject, having just picked up what I know here and there as I needed it. Using Sass mixins is a bit of a revelation - it will clearly lead to more readable code since having all the code related a particular class / id / tag in the same area will make it a lot easier to write and edit.
+
+Also, now that we are implimenting media queries, it is really clear just how useful it is to base everything on rems and to manual control what 1rem equals. So by adjusting this for different viewport sizes, not only do the font sizes change across the site, things like padding and margin begin to automatically adjust, reducing the size of buttons, padding around components, etc. really quickly and with hardly any effort.
 
 #### Link(s) to work
 
