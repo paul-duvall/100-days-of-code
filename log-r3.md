@@ -1584,6 +1584,8 @@ Reviewing media queries was interesting - it occured to me that I have never act
 Also, now that we are implimenting media queries, it is really clear just how useful it is to base everything on rems and to manual control what 1rem equals. So by adjusting this for different viewport sizes, not only do the font sizes change across the site, things like padding and margin begin to automatically adjust, reducing the size of buttons, padding around components, etc. really quickly and with hardly any effort.
 
 #### Link(s) to work
+[Movie Quote Quiz](https://quizzical-edison-7689de.netlify.com/)
+[Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
