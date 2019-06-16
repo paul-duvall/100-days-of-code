@@ -1591,6 +1591,26 @@ Also, now that we are implimenting media queries, it is really clear just how us
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 94
+### Sunday 16 June 2019 
+
+#### Review / Learn:
+* 
+
+#### Project
+* Worked on Lemon Tree, adjusting the burger menu so it doesn't widen the screen over to the right (it still does this, annoyingly, but now only after it has appeared)
+* Adjusted movie quiz so it looks better on smaller viewports
+
+#### Thoughts:
+[cafe respository](https://github.com/paul-duvall/lemon-tree)
+[Movie Quote Quiz](https://quizzical-edison-7689de.netlify.com/)  
+
+
+#### Link(s) to work
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
 ## Day 86
 ### Tuesday 4 June 2019 
 
