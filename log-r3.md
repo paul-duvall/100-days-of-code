@@ -1606,6 +1606,22 @@ Also, now that we are implimenting media queries, it is really clear just how us
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
+## Day 95
+### Monday 17 June 2019 
+
+#### Project
+* Fixed issues with cafe project side-scrolling and navigation
+
+#### Thoughts:
+Didn't have time for a whole lot today but it's good to resolve the issues I was having, particularly because I'd spent so much time looking at this previously! The navigation issue was fixed with the help of someone on Twitter. For the side-scrolling, I asked for help and got lots of suggestions but, ultimately, I managed to get to the bottom of it myself. I learnt the benefit of gradulally removing components until you remove one and the issue is resolved, thus narrowing it down to that component. This was suggested by Scott on an episode of syntax.fm and really helped to narrow down the problem.
+
+#### Link(s) to work
+[cafe respository](https://github.com/paul-duvall/lemon-tree)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+
 ## Day 86
 ### Tuesday 4 June 2019 
 
