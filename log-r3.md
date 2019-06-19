@@ -1626,6 +1626,7 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 
 #### Review / Learn:
 * Continued with the section of Advanced CSS course, learning how to impliment media queries with Sass
+* Listened to a [Changelog](https://changelog.com/podcast/349) podcast about the State of CSS in 2019 survey
 
 #### Project
 * Replaced images on cafe website with images taken by client
