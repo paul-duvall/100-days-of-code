@@ -1631,11 +1631,28 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 #### Project
 * Replaced images on cafe website with images taken by client
 
-#### Thoughts:
-
 #### Link(s) to work
 [cafe respository](https://github.com/paul-duvall/lemon-tree)
 [Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 98
+### Tuesday / Wednesday 18 / 19 June 2019 
+
+#### Review / Learn:
+
+
+#### Project
+* Drum machine
+    * Added styling for an 'off mode'
+    * Added 'drum machine' text
+
+#### Thoughts:
+
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
