@@ -1642,7 +1642,7 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 ### Tuesday / Wednesday 18 / 19 June 2019 
 
 #### Review / Learn:
-
+* Continued with Advanced CSS course, finishing section on media queries in Sass
 
 #### Project
 * Drum machine
@@ -1654,6 +1654,7 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 
 #### Link(s) to work
 [drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+[Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
