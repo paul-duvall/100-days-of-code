@@ -1648,6 +1648,7 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 * Drum machine
     * Added styling for an 'off mode'
     * Added 'drum machine' text
+    * Made responsive for smaller viewports
 
 #### Thoughts:
 
