@@ -1667,11 +1667,12 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 * Course also covered using feature queries (using @supports) to check a CSS property is supported before it is applied
 
 #### Project
-*
+* Designed and started to code a component for an organic box delivery company. This will be used to practice using Media Queries in conjunction with Sass and, possibly, responsive images
 
 #### Thoughts:
 
 #### Link(s) to work
+[Organic boxes - Sass and Media Queries](https://codepen.io/duvallpj/pen/xoqLBr)
 [Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
