@@ -1650,10 +1650,28 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
     * Added 'drum machine' text
     * Made responsive for smaller viewports
 
+#### Link(s) to work
+[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
+[Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
+
+![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
+
+
+## Day 99
+### Friday 21 June 2019 
+
+#### Review / Learn:
+* Continued with Advanced CSS course, learning about responsive images:
+    * Using the srcset and sizes properties on html img elements
+    * Using the min-resolution media query in CSS
+* Course also covered using feature queries (using @supports) to check a CSS property is supported before it is applied
+
+#### Project
+*
+
 #### Thoughts:
 
 #### Link(s) to work
-[drum machine](https://codepen.io/duvallpj/pen/MdGBXm)
 [Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
 
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
