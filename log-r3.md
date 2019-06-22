@@ -1669,8 +1669,6 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 #### Project
 * Designed and started to code a component for an organic box delivery company. This will be used to practice using Media Queries in conjunction with Sass and, possibly, responsive images
 
-#### Thoughts:
-
 #### Link(s) to work
 [Organic boxes - Sass and Media Queries](https://codepen.io/duvallpj/pen/xoqLBr)
 [Advanced CSS Course Natours Project](https://github.com/paul-duvall/Natours)
@@ -1678,17 +1676,18 @@ Didn't have time for a whole lot today but it's good to resolve the issues I was
 ![Fancy line](https://github.com/paul-duvall/website_images/blob/master/line1.png?raw=true)
 
 
-
-## Day 86
-### Tuesday 4 June 2019 
+## Day 100
+### Saturday 22 June 2019 
 
 #### Review / Learn:
-* 
+* Went over using media queries in Sass using mixins and @content and @if; wrote a blog article about this.
 
 #### Project
-*
+* Finished organic food box mini-project, practicing media queries in Sass
+* Continued design of board game e-commerce product page
 
 #### Thoughts:
+I'm pleased with the mini-project and glad I created an opportunity to have a bit of a practice with using media queries in Sass. Wrote the blog post to cement the knowledge - it is actually quite straight forward, so I'll definitely be using this on my next mid-scale project, which will most likely be the e-commerce product page.
 
 #### Link(s) to work
 
